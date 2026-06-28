@@ -1,6 +1,8 @@
 // 8. String to Integer (atoi) [Medium]
 // https://leetcode.com/problems/string-to-integer-atoi/
 // Language: java | Runtime: 1 ms | Memory: 43.8 MB
+// Time:  O(n)
+// Space: O(1)
 // Tags: String
 // Synced: 2026-06-29
 
