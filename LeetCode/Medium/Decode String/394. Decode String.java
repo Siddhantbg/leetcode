@@ -1,6 +1,8 @@
 // 394. Decode String [Medium]
 // https://leetcode.com/problems/decode-string/
 // Language: java | Runtime: 3 ms | Memory: 43 MB
+// Time:  O(n + m)
+// Space: O(n)
 // Tags: String, Stack, Recursion
 // Synced: 2026-06-29
 
