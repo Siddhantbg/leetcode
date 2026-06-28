@@ -1,6 +1,8 @@
 // 15. 3Sum [Medium]
 // https://leetcode.com/problems/3sum/
 // Language: java | Runtime: 29 ms | Memory: 59.2 MB
+// Time:  O(n^2)
+// Space: O(log n)
 // Tags: Array, Two Pointers, Sorting
 // Synced: 2026-06-29
 
