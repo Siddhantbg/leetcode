@@ -3,8 +3,8 @@
 - **Difficulty:** Medium
 - **Link:** [decode-string](https://leetcode.com/problems/decode-string/)
 - **Language(s):** java
-- **Time complexity:** —
-- **Space complexity:** —
+- **Time complexity:** O(n + m)
+- **Space complexity:** O(n)
 - **Runtime:** 3 ms
 - **Memory:** 43 MB
 
