@@ -3,8 +3,8 @@
 - **Difficulty:** Medium
 - **Link:** [string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi/)
 - **Language(s):** java
-- **Time complexity:** —
-- **Space complexity:** —
+- **Time complexity:** O(n)
+- **Space complexity:** O(1)
 - **Runtime:** 1 ms
 - **Memory:** 43.8 MB
 
