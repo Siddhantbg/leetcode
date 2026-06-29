@@ -3,8 +3,8 @@
 - **Difficulty:** Easy
 - **Link:** [two-sum](https://leetcode.com/problems/two-sum/)
 - **Language(s):** java
-- **Time complexity:** —
-- **Space complexity:** —
+- **Time complexity:** O(n)
+- **Space complexity:** O(n)
 - **Runtime:** 2 ms
 - **Memory:** 47.1 MB
 
