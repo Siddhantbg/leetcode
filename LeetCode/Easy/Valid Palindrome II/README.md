@@ -3,8 +3,8 @@
 - **Difficulty:** Easy
 - **Link:** [valid-palindrome-ii](https://leetcode.com/problems/valid-palindrome-ii/)
 - **Language(s):** java
-- **Time complexity:** —
-- **Space complexity:** —
+- **Time complexity:** o(n)
+- **Space complexity:** O(1)
 - **Runtime:** 4 ms
 - **Memory:** 48 MB
 
