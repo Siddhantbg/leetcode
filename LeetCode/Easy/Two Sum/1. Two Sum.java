@@ -1,6 +1,8 @@
 // 1. Two Sum [Easy]
 // https://leetcode.com/problems/two-sum/
 // Language: java | Runtime: 2 ms | Memory: 47.1 MB
+// Time:  O(n)
+// Space: O(n)
 // Tags: Array, Hash Table
 // Synced: 2026-06-30
 
