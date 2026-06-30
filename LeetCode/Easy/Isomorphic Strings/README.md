@@ -3,8 +3,8 @@
 - **Difficulty:** Easy
 - **Link:** [isomorphic-strings](https://leetcode.com/problems/isomorphic-strings/)
 - **Language(s):** java
-- **Time complexity:** —
-- **Space complexity:** —
+- **Time complexity:** O(n)
+- **Space complexity:** O(n)
 - **Runtime:** 17 ms
 - **Memory:** 43.6 MB
 
