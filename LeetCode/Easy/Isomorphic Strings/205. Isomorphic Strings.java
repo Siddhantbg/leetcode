@@ -1,6 +1,8 @@
 // 205. Isomorphic Strings [Easy]
 // https://leetcode.com/problems/isomorphic-strings/
 // Language: java | Runtime: 17 ms | Memory: 43.6 MB
+// Time:  O(n)
+// Space: O(n)
 // Tags: Hash Table, String
 // Synced: 2026-06-30
 
