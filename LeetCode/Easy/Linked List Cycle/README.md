@@ -3,8 +3,8 @@
 - **Difficulty:** Easy
 - **Link:** [linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/)
 - **Language(s):** java
-- **Time complexity:** —
-- **Space complexity:** —
+- **Time complexity:** O(n)
+- **Space complexity:** O(1)
 - **Runtime:** 0 ms
 - **Memory:** 47 MB
 
