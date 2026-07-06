@@ -1,6 +1,8 @@
 // 206. Reverse Linked List [Easy]
 // https://leetcode.com/problems/reverse-linked-list/
 // Language: java | Runtime: 0 ms | Memory: 44 MB
+// Time:  O(n)
+// Space: O(1)
 // Tags: Linked List, Recursion
 // Synced: 2026-07-06
 
