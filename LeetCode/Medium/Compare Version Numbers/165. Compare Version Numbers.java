@@ -2,6 +2,8 @@
 // https://leetcode.com/problems/compare-version-numbers/
 // Language: java | Runtime: 0 ms | Memory: 42.7 MB
 // Tags: Two Pointers, String
+// Time Complexity: O(n)
+// Space Complexity: O(1)
 // Synced: 2026-07-06
 
 class Solution {
