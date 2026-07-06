@@ -1,6 +1,8 @@
 // 21. Merge Two Sorted Lists [Easy]
 // https://leetcode.com/problems/merge-two-sorted-lists/
 // Language: java | Runtime: 0 ms | Memory: 44.3 MB
+// Time:  O(n+m)
+// Space: O(1)
 // Tags: Linked List, Recursion
 // Synced: 2026-07-06
 
