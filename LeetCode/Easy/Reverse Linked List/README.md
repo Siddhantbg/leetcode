@@ -3,8 +3,8 @@
 - **Difficulty:** Easy
 - **Link:** [reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/)
 - **Language(s):** java
-- **Time complexity:** —
-- **Space complexity:** —
+- **Time complexity:** O(n)
+- **Space complexity:** O(1)
 - **Runtime:** 0 ms
 - **Memory:** 44 MB
 
