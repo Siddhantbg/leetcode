@@ -1,0 +1,33 @@
+// 141. Linked List Cycle [Easy]
+// https://leetcode.com/problems/linked-list-cycle/
+// Language: java | Runtime: 0 ms | Memory: 47 MB
+// Tags: Hash Table, Linked List, Two Pointers
+// Synced: 2026-07-07
+
+/**
+ * Definition for singly-linked list.
+ * class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode(int x) {
+ *         val = x;
+ *         next = null;
+ *     }
+ * }
+ */
+public class Solution {
+    public boolean hasCycle(ListNode head) {
+        ListNode slow=head;
+        ListNode fast=head;
+
+        while(fast!=null && fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
+
+            if(slow==fast){
+                return true;
+            }
+        }
+        return false;
+    }
+}
