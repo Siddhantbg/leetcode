@@ -5,6 +5,21 @@
 // Space: O(1)
 // Tags: Hash Table, Linked List, Two Pointers
 // Synced: 2026-07-07
+//
+// ⭐ Why Compare Nodes?
+// 
+// We do
+// 
+// slow == fast
+// 
+// NOT
+// 
+// slow.val == fast.val
+// 
+// Because values can repeat. Cycle detection is about same node not same value.
+// 
+// Why 2 ptrs?
+// Since fast catches the slower one
 
 /**
  * Definition for singly-linked list.
