@@ -4,8 +4,8 @@
 
 ## Progress
 
-- **Total solved:** 7
-- **Easy:** 3 &nbsp;·&nbsp; **Medium:** 4 &nbsp;·&nbsp; **Hard:** 0
+- **Total solved:** 8
+- **Easy:** 4 &nbsp;·&nbsp; **Medium:** 4 &nbsp;·&nbsp; **Hard:** 0
 - **Current streak:** 1 day(s) &nbsp;·&nbsp; **Longest:** 2
 
 ## Solutions
@@ -17,6 +17,7 @@
 | 15 | [3Sum](Medium/3Sum/15.%203Sum.java) | Medium | java | 2026-06-29 |
 | 165 | [Compare Version Numbers](Medium/Compare%20Version%20Numbers/165.%20Compare%20Version%20Numbers.java) | Medium | java | 2026-07-06 |
 | 205 | [Isomorphic Strings](Easy/Isomorphic%20Strings/205.%20Isomorphic%20Strings.java) | Easy | java | 2026-06-30 |
+| 206 | [Reverse Linked List](Easy/Reverse%20Linked%20List/206.%20Reverse%20Linked%20List.java) | Easy | java | 2026-07-06 |
 | 394 | [Decode String](Medium/Decode%20String/394.%20Decode%20String.java) | Medium | java | 2026-06-29 |
 | 680 | [Valid Palindrome II](Easy/Valid%20Palindrome%20II/680.%20Valid%20Palindrome%20II.java) | Easy | java | 2026-06-30 |
 
