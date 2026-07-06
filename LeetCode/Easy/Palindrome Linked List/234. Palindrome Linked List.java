@@ -1,8 +1,24 @@
 // 234. Palindrome Linked List [Easy]
 // https://leetcode.com/problems/palindrome-linked-list/
 // Language: java | Runtime: 4 ms | Memory: 94.4 MB
+// Time:  O(n)
+// Space: O(1)
 // Tags: Linked List, Two Pointers, Stack, Recursion
 // Synced: 2026-07-07
+//
+// ⭐ Why Compare Only Until p2 == null?
+// 
+// Example
+// 
+// 1→2→3→2→1
+// 
+// Second half after reversing
+// 
+// 1→2→3
+// 
+// or for even cases, it is exactly half the list.
+// 
+// We only need to compare the reversed half. Once p2 finishes, every required comparison is complete.
 
 /**
  * Definition for singly-linked list.
