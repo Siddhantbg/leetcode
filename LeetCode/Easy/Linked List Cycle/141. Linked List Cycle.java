@@ -1,6 +1,8 @@
 // 141. Linked List Cycle [Easy]
 // https://leetcode.com/problems/linked-list-cycle/
 // Language: java | Runtime: 0 ms | Memory: 47 MB
+// Time:  O(n)
+// Space: O(1)
 // Tags: Hash Table, Linked List, Two Pointers
 // Synced: 2026-07-07
 
