@@ -1,6 +1,8 @@
 // 143. Reorder List [Medium]
 // https://leetcode.com/problems/reorder-list/
 // Language: java | Runtime: 2 ms | Memory: 49.3 MB
+// Time:  O(n)
+// Space: O(1)
 // Tags: Linked List, Two Pointers, Stack, Recursion
 // Synced: 2026-07-08
 
