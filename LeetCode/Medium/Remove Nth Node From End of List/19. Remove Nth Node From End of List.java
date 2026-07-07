@@ -1,40 +1,32 @@
 // 19. Remove Nth Node From End of List [Medium]
 // https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-// Language: java | Runtime: 0 ms | Memory: 43.5 MB
+// Language: java | Runtime: 0 ms | Memory: 43.3 MB
 // Tags: Linked List, Two Pointers
-// Synced: 2026-07-06
+// Synced: 2026-07-08
 
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
+
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        ListNode dummy=new ListNode(0);
-        dummy.next=head;
 
-        ListNode fast=dummy;
-        ListNode slow=dummy;
-//move fast by n+1 
-//Because linked lists don't support random access.isiliye assign nhi kr skte
-//fast = dummy[n + 1];   // ❌ Doesn't exist
-        for(int i=0;i<=n;i++){
-            fast=fast.next;
+        ListNode dummy = new ListNode(0);
+
+        dummy.next = head;
+
+        ListNode slow = dummy;
+        ListNode fast = dummy;
+
+        for (int i = 0; i <= n; i++) {
+            fast = fast.next;
         }
 
-        while(fast!=null){
-            fast=fast.next;
-            slow=slow.next;
+        while (fast != null) {
+
+            slow = slow.next;
+            fast = fast.next;
         }
-        slow.next=slow.next.next;
+
+        slow.next = slow.next.next;
 
         return dummy.next;
-
     }
 }
