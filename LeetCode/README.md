@@ -4,8 +4,8 @@
 
 ## Progress
 
-- **Total solved:** 13
-- **Easy:** 8 &nbsp;·&nbsp; **Medium:** 5 &nbsp;·&nbsp; **Hard:** 0
+- **Total solved:** 14
+- **Easy:** 8 &nbsp;·&nbsp; **Medium:** 6 &nbsp;·&nbsp; **Hard:** 0
 - **Current streak:** 3 day(s) &nbsp;·&nbsp; **Longest:** 3
 
 ## Solutions
@@ -18,6 +18,7 @@
 | 19 | [Remove Nth Node From End of List](Medium/Remove%20Nth%20Node%20From%20End%20of%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.java) | Medium | java | 2026-07-08 |
 | 21 | [Merge Two Sorted Lists](Easy/Merge%20Two%20Sorted%20Lists/21.%20Merge%20Two%20Sorted%20Lists.java) | Easy | java | 2026-07-06 |
 | 141 | [Linked List Cycle](Easy/Linked%20List%20Cycle/141.%20Linked%20List%20Cycle.java) | Easy | java | 2026-07-07 |
+| 143 | [Reorder List](Medium/Reorder%20List/143.%20Reorder%20List.java) | Medium | java | 2026-07-08 |
 | 165 | [Compare Version Numbers](Medium/Compare%20Version%20Numbers/165.%20Compare%20Version%20Numbers.java) | Medium | java | 2026-07-06 |
 | 205 | [Isomorphic Strings](Easy/Isomorphic%20Strings/205.%20Isomorphic%20Strings.java) | Easy | java | 2026-06-30 |
 | 206 | [Reverse Linked List](Easy/Reverse%20Linked%20List/206.%20Reverse%20Linked%20List.java) | Easy | java | 2026-07-07 |
