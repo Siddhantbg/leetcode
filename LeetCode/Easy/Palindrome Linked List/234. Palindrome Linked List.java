@@ -1,24 +1,8 @@
 // 234. Palindrome Linked List [Easy]
 // https://leetcode.com/problems/palindrome-linked-list/
-// Language: java | Runtime: 4 ms | Memory: 94.4 MB
-// Time:  O(n)
-// Space: O(1)
+// Language: java | Runtime: 4 ms | Memory: 94.5 MB
 // Tags: Linked List, Two Pointers, Stack, Recursion
 // Synced: 2026-07-07
-//
-// ⭐ Why Compare Only Until p2 == null?
-// 
-// Example
-// 
-// 1→2→3→2→1
-// 
-// Second half after reversing
-// 
-// 1→2→3
-// 
-// or for even cases, it is exactly half the list.
-// 
-// We only need to compare the reversed half. Once p2 finishes, every required comparison is complete.
 
 /**
  * Definition for singly-linked list.
@@ -37,7 +21,7 @@ class Solution {
 
         ListNode slow = head;
         ListNode fast = head;
-
+//find middle element
         while(fast != null && fast.next != null){
             slow = slow.next;
             fast = fast.next.next;
@@ -45,7 +29,15 @@ class Solution {
 
         ListNode prev = null;
         ListNode curr = slow;
+//reverse linked list
+// For every node, perform these 4 steps:
 
+// Save the next node (next = curr.next)
+// Reverse the link (curr.next = prev)
+// Move prev forward (prev = curr)
+// Move curr forward (curr = next)
+
+// Mnemonic: Save → Reverse → Move Prev → Move Curr.
         while(curr != null){
 
             ListNode next = curr.next;
@@ -56,7 +48,7 @@ class Solution {
 
             curr = next;
         }
-
+//split into 2 patts
         ListNode p1 = head;
         ListNode p2 = prev;
 
