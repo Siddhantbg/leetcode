@@ -1,6 +1,6 @@
 // 234. Palindrome Linked List [Easy]
 // https://leetcode.com/problems/palindrome-linked-list/
-// Language: java | Runtime: 4 ms | Memory: 94.5 MB
+// Language: java | Runtime: 3 ms | Memory: 94.4 MB
 // Tags: Linked List, Two Pointers, Stack, Recursion
 // Synced: 2026-07-07
 
@@ -52,6 +52,7 @@ class Solution {
         ListNode p1 = head;
         ListNode p2 = prev;
 
+// After reversing, p2 always points to the shorter (or equal) half of the list, so we only need to compare until p2 finishes.
         while(p2 != null){
 
             if(p1.val != p2.val){
