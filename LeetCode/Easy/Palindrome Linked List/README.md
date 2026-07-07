@@ -5,8 +5,8 @@
 - **Language(s):** java
 - **Time complexity:** O(n)
 - **Space complexity:** O(1)
-- **Runtime:** 4 ms
-- **Memory:** 94.5 MB
+- **Runtime:** 3 ms
+- **Memory:** 94.4 MB
 
 ## Notes
 
