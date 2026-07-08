@@ -3,8 +3,8 @@
 - **Difficulty:** Medium
 - **Link:** [copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 - **Language(s):** java
-- **Time complexity:** —
-- **Space complexity:** —
+- **Time complexity:** O(n)
+- **Space complexity:** O(n)
 - **Runtime:** 0 ms
 - **Memory:** 46.5 MB
 
