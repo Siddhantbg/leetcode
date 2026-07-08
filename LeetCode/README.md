@@ -4,9 +4,9 @@
 
 ## Progress
 
-- **Total solved:** 14
-- **Easy:** 8 &nbsp;·&nbsp; **Medium:** 6 &nbsp;·&nbsp; **Hard:** 0
-- **Current streak:** 3 day(s) &nbsp;·&nbsp; **Longest:** 3
+- **Total solved:** 15
+- **Easy:** 8 &nbsp;·&nbsp; **Medium:** 7 &nbsp;·&nbsp; **Hard:** 0
+- **Current streak:** 4 day(s) &nbsp;·&nbsp; **Longest:** 4
 
 ## Solutions
 
@@ -17,6 +17,7 @@
 | 15 | [3Sum](Medium/3Sum/15.%203Sum.java) | Medium | java | 2026-06-29 |
 | 19 | [Remove Nth Node From End of List](Medium/Remove%20Nth%20Node%20From%20End%20of%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.java) | Medium | java | 2026-07-08 |
 | 21 | [Merge Two Sorted Lists](Easy/Merge%20Two%20Sorted%20Lists/21.%20Merge%20Two%20Sorted%20Lists.java) | Easy | java | 2026-07-06 |
+| 138 | [Copy List with Random Pointer](Medium/Copy%20List%20with%20Random%20Pointer/138.%20Copy%20List%20with%20Random%20Pointer.java) | Medium | java | 2026-07-09 |
 | 141 | [Linked List Cycle](Easy/Linked%20List%20Cycle/141.%20Linked%20List%20Cycle.java) | Easy | java | 2026-07-07 |
 | 143 | [Reorder List](Medium/Reorder%20List/143.%20Reorder%20List.java) | Medium | java | 2026-07-08 |
 | 165 | [Compare Version Numbers](Medium/Compare%20Version%20Numbers/165.%20Compare%20Version%20Numbers.java) | Medium | java | 2026-07-06 |
@@ -27,4 +28,4 @@
 | 680 | [Valid Palindrome II](Easy/Valid%20Palindrome%20II/680.%20Valid%20Palindrome%20II.java) | Easy | java | 2026-06-30 |
 | 876 | [Middle of the Linked List](Easy/Middle%20of%20the%20Linked%20List/876.%20Middle%20of%20the%20Linked%20List.java) | Easy | java | 2026-07-07 |
 
-_Last updated: 2026-07-08_
+_Last updated: 2026-07-09_
