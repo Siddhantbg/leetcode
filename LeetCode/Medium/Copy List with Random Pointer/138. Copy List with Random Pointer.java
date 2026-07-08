@@ -1,6 +1,8 @@
 // 138. Copy List with Random Pointer [Medium]
 // https://leetcode.com/problems/copy-list-with-random-pointer/
 // Language: java | Runtime: 0 ms | Memory: 46.5 MB
+// Time:  O(n)
+// Space: O(n)
 // Tags: Hash Table, Linked List
 // Synced: 2026-07-09
 
