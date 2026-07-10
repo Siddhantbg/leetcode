@@ -4,9 +4,9 @@
 
 ## Progress
 
-- **Total solved:** 15
-- **Easy:** 8 &nbsp;·&nbsp; **Medium:** 7 &nbsp;·&nbsp; **Hard:** 0
-- **Current streak:** 4 day(s) &nbsp;·&nbsp; **Longest:** 4
+- **Total solved:** 16
+- **Easy:** 9 &nbsp;·&nbsp; **Medium:** 7 &nbsp;·&nbsp; **Hard:** 0
+- **Current streak:** 1 day(s) &nbsp;·&nbsp; **Longest:** 4
 
 ## Solutions
 
@@ -20,6 +20,7 @@
 | 138 | [Copy List with Random Pointer](Medium/Copy%20List%20with%20Random%20Pointer/138.%20Copy%20List%20with%20Random%20Pointer.java) | Medium | java | 2026-07-09 |
 | 141 | [Linked List Cycle](Easy/Linked%20List%20Cycle/141.%20Linked%20List%20Cycle.java) | Easy | java | 2026-07-07 |
 | 143 | [Reorder List](Medium/Reorder%20List/143.%20Reorder%20List.java) | Medium | java | 2026-07-08 |
+| 160 | [Intersection of Two Linked Lists](Easy/Intersection%20of%20Two%20Linked%20Lists/160.%20Intersection%20of%20Two%20Linked%20Lists.java) | Easy | java | 2026-07-11 |
 | 165 | [Compare Version Numbers](Medium/Compare%20Version%20Numbers/165.%20Compare%20Version%20Numbers.java) | Medium | java | 2026-07-06 |
 | 205 | [Isomorphic Strings](Easy/Isomorphic%20Strings/205.%20Isomorphic%20Strings.java) | Easy | java | 2026-06-30 |
 | 206 | [Reverse Linked List](Easy/Reverse%20Linked%20List/206.%20Reverse%20Linked%20List.java) | Easy | java | 2026-07-07 |
@@ -28,4 +29,4 @@
 | 680 | [Valid Palindrome II](Easy/Valid%20Palindrome%20II/680.%20Valid%20Palindrome%20II.java) | Easy | java | 2026-06-30 |
 | 876 | [Middle of the Linked List](Easy/Middle%20of%20the%20Linked%20List/876.%20Middle%20of%20the%20Linked%20List.java) | Easy | java | 2026-07-07 |
 
-_Last updated: 2026-07-09_
+_Last updated: 2026-07-11_
