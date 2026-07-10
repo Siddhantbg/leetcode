@@ -1,6 +1,8 @@
 // 160. Intersection of Two Linked Lists [Easy]
 // https://leetcode.com/problems/intersection-of-two-linked-lists/
 // Language: java | Runtime: 1 ms | Memory: 52.8 MB
+// Time:  O(m+n)
+// Space: O(1)
 // Tags: Hash Table, Linked List, Two Pointers
 // Synced: 2026-07-11
 
