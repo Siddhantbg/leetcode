@@ -7,10 +7,27 @@
 - **Time complexity:** O(log n)
 - **Space complexity:** O(1)
 - **Runtime:** 0 ms
-- **Memory:** 44.4 MB
+- **Memory:** 44.8 MB
 
 ## Notes
 
-—
+• Search Insert Position is exactly the Lower Bound problem.
+
+• Answer = First index where nums[i] >= target.
+
+• If the target exists:
+    Return its index.
+
+• If the target doesn't exist:
+    Return the index where it should be inserted.
+
+• Elegant implementation:
+    Don't store ans.
+    Return low after the loop.
+
+• At loop termination:
+    All elements before low are < target.
+    All elements from low onward are >= target.
+    Hence, low is the insertion position.
 
 _Last updated: 2026-07-13_
