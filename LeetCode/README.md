@@ -4,8 +4,8 @@
 
 ## Progress
 
-- **Total solved:** 17
-- **Easy:** 9 &nbsp;·&nbsp; **Medium:** 7 &nbsp;·&nbsp; **Hard:** 1
+- **Total solved:** 18
+- **Easy:** 9 &nbsp;·&nbsp; **Medium:** 8 &nbsp;·&nbsp; **Hard:** 1
 - **Current streak:** 2 day(s) &nbsp;·&nbsp; **Longest:** 4
 
 ## Solutions
@@ -18,6 +18,7 @@
 | 19 | [Remove Nth Node From End of List](Medium/Remove%20Nth%20Node%20From%20End%20of%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.java) | Medium | java | 2026-07-08 |
 | 21 | [Merge Two Sorted Lists](Easy/Merge%20Two%20Sorted%20Lists/21.%20Merge%20Two%20Sorted%20Lists.java) | Easy | java | 2026-07-06 |
 | 25 | [Reverse Nodes in k-Group](Hard/Reverse%20Nodes%20in%20k-Group/25.%20Reverse%20Nodes%20in%20k-Group.java) | Hard | java | 2026-07-12 |
+| 33 | [Search in Rotated Sorted Array](Medium/Search%20in%20Rotated%20Sorted%20Array/33.%20Search%20in%20Rotated%20Sorted%20Array.java) | Medium | java | 2026-07-12 |
 | 138 | [Copy List with Random Pointer](Medium/Copy%20List%20with%20Random%20Pointer/138.%20Copy%20List%20with%20Random%20Pointer.java) | Medium | java | 2026-07-09 |
 | 141 | [Linked List Cycle](Easy/Linked%20List%20Cycle/141.%20Linked%20List%20Cycle.java) | Easy | java | 2026-07-07 |
 | 143 | [Reorder List](Medium/Reorder%20List/143.%20Reorder%20List.java) | Medium | java | 2026-07-08 |
