@@ -1,6 +1,8 @@
 // 35. Search Insert Position [Easy]
 // https://leetcode.com/problems/search-insert-position/
 // Language: java | Runtime: 0 ms | Memory: 44.4 MB
+// Time:  O(log n)
+// Space: O(1)
 // Tags: Array, Binary Search
 // Synced: 2026-07-13
 
