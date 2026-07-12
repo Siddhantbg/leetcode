@@ -3,8 +3,8 @@
 - **Difficulty:** Medium
 - **Link:** [search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - **Language(s):** java
-- **Time complexity:** —
-- **Space complexity:** —
+- **Time complexity:** O(n)
+- **Space complexity:** O(1)
 - **Runtime:** 0 ms
 - **Memory:** 43.6 MB
 
