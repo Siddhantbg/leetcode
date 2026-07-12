@@ -4,8 +4,8 @@
 
 ## Progress
 
-- **Total solved:** 22
-- **Easy:** 11 &nbsp;·&nbsp; **Medium:** 10 &nbsp;·&nbsp; **Hard:** 1
+- **Total solved:** 23
+- **Easy:** 11 &nbsp;·&nbsp; **Medium:** 11 &nbsp;·&nbsp; **Hard:** 1
 - **Current streak:** 3 day(s) &nbsp;·&nbsp; **Longest:** 4
 
 ## Solutions
@@ -19,6 +19,7 @@
 | 21 | [Merge Two Sorted Lists](Easy/Merge%20Two%20Sorted%20Lists/21.%20Merge%20Two%20Sorted%20Lists.java) | Easy | java | 2026-07-06 |
 | 25 | [Reverse Nodes in k-Group](Hard/Reverse%20Nodes%20in%20k-Group/25.%20Reverse%20Nodes%20in%20k-Group.java) | Hard | java | 2026-07-12 |
 | 33 | [Search in Rotated Sorted Array](Medium/Search%20in%20Rotated%20Sorted%20Array/33.%20Search%20in%20Rotated%20Sorted%20Array.java) | Medium | java | 2026-07-12 |
+| 34 | [Find First and Last Position of Element in Sorted Array](Medium/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java) | Medium | java | 2026-07-13 |
 | 35 | [Search Insert Position](Easy/Search%20Insert%20Position/35.%20Search%20Insert%20Position.java) | Easy | java | 2026-07-13 |
 | 138 | [Copy List with Random Pointer](Medium/Copy%20List%20with%20Random%20Pointer/138.%20Copy%20List%20with%20Random%20Pointer.java) | Medium | java | 2026-07-09 |
 | 141 | [Linked List Cycle](Easy/Linked%20List%20Cycle/141.%20Linked%20List%20Cycle.java) | Easy | java | 2026-07-07 |
