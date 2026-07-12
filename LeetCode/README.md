@@ -4,8 +4,8 @@
 
 ## Progress
 
-- **Total solved:** 19
-- **Easy:** 9 &nbsp;·&nbsp; **Medium:** 9 &nbsp;·&nbsp; **Hard:** 1
+- **Total solved:** 21
+- **Easy:** 10 &nbsp;·&nbsp; **Medium:** 10 &nbsp;·&nbsp; **Hard:** 1
 - **Current streak:** 2 day(s) &nbsp;·&nbsp; **Longest:** 4
 
 ## Solutions
@@ -29,6 +29,7 @@
 | 234 | [Palindrome Linked List](Easy/Palindrome%20Linked%20List/234.%20Palindrome%20Linked%20List.java) | Easy | java | 2026-07-07 |
 | 394 | [Decode String](Medium/Decode%20String/394.%20Decode%20String.java) | Medium | java | 2026-06-29 |
 | 680 | [Valid Palindrome II](Easy/Valid%20Palindrome%20II/680.%20Valid%20Palindrome%20II.java) | Easy | java | 2026-06-30 |
+| 704 | [Binary Search](Easy/Binary%20Search/704.%20Binary%20Search.java) | Easy | java | 2026-07-12 |
 | 876 | [Middle of the Linked List](Easy/Middle%20of%20the%20Linked%20List/876.%20Middle%20of%20the%20Linked%20List.java) | Easy | java | 2026-07-07 |
 
 _Last updated: 2026-07-12_
