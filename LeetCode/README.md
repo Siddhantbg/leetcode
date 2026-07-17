@@ -4,9 +4,9 @@
 
 ## Progress
 
-- **Total solved:** 24
-- **Easy:** 11 &nbsp;·&nbsp; **Medium:** 12 &nbsp;·&nbsp; **Hard:** 1
-- **Current streak:** 1 day(s) &nbsp;·&nbsp; **Longest:** 4
+- **Total solved:** 25
+- **Easy:** 11 &nbsp;·&nbsp; **Medium:** 13 &nbsp;·&nbsp; **Hard:** 1
+- **Current streak:** 2 day(s) &nbsp;·&nbsp; **Longest:** 4
 
 ## Solutions
 
@@ -25,6 +25,7 @@
 | 138 | [Copy List with Random Pointer](Medium/Copy%20List%20with%20Random%20Pointer/138.%20Copy%20List%20with%20Random%20Pointer.java) | Medium | java | 2026-07-09 |
 | 141 | [Linked List Cycle](Easy/Linked%20List%20Cycle/141.%20Linked%20List%20Cycle.java) | Easy | java | 2026-07-07 |
 | 143 | [Reorder List](Medium/Reorder%20List/143.%20Reorder%20List.java) | Medium | java | 2026-07-08 |
+| 153 | [Find Minimum in Rotated Sorted Array](Medium/Find%20Minimum%20in%20Rotated%20Sorted%20Array/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.java) | Medium | java | 2026-07-18 |
 | 160 | [Intersection of Two Linked Lists](Easy/Intersection%20of%20Two%20Linked%20Lists/160.%20Intersection%20of%20Two%20Linked%20Lists.java) | Easy | java | 2026-07-11 |
 | 165 | [Compare Version Numbers](Medium/Compare%20Version%20Numbers/165.%20Compare%20Version%20Numbers.java) | Medium | java | 2026-07-06 |
 | 205 | [Isomorphic Strings](Easy/Isomorphic%20Strings/205.%20Isomorphic%20Strings.java) | Easy | java | 2026-06-30 |
@@ -35,4 +36,4 @@
 | 704 | [Binary Search](Easy/Binary%20Search/704.%20Binary%20Search.java) | Easy | java | 2026-07-12 |
 | 876 | [Middle of the Linked List](Easy/Middle%20of%20the%20Linked%20List/876.%20Middle%20of%20the%20Linked%20List.java) | Easy | java | 2026-07-07 |
 
-_Last updated: 2026-07-17_
+_Last updated: 2026-07-18_
