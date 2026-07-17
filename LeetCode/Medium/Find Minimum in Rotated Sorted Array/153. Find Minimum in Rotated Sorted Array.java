@@ -1,8 +1,30 @@
 // 153. Find Minimum in Rotated Sorted Array [Medium]
 // https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 // Language: java | Runtime: 0 ms | Memory: 44 MB
+// Time:  O(log n)
+// Space: O(1)
 // Tags: Array, Binary Search
 // Synced: 2026-07-18
+//
+// • If nums[low] <= nums[high],
+//   the current search space is already sorted.
+//   The minimum is nums[low].
+// 
+// • One half is always sorted.
+// 
+// • If left half is sorted:
+//     Save nums[low].
+//     Search RIGHT.
+// 
+// • If right half is sorted:
+//     Save nums[mid].
+//     Search LEFT.
+// 
+// • Keep track of the minimum using:
+//     ans = Math.min(ans, ...)
+// 
+// • This problem assumes all elements are UNIQUE.
+//   With duplicates, the logic changes (LeetCode 154).
 
 class Solution {
     public int findMin(int[] nums) {
