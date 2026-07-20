@@ -1,8 +1,33 @@
 // 540. Single Element in a Sorted Array [Medium]
 // https://leetcode.com/problems/single-element-in-a-sorted-array/
 // Language: java | Runtime: 0 ms | Memory: 52.9 MB
+// Time:  O(log n)
+// Space: O(1)
 // Tags: Array, Binary Search
 // Synced: 2026-07-21
+//
+// • Before the single element:
+//     Every pair starts at an EVEN index.
+// 
+// • After the single element:
+//     Every pair starts at an ODD index.
+// 
+// • First check edge cases:
+//     - Single element array
+//     - First element is unique
+//     - Last element is unique
+// 
+// • If nums[mid] is different from both neighbors,
+//   it is the answer.
+// 
+// • If the pairing pattern is correct,
+//   search RIGHT.
+// 
+// • If the pairing pattern is broken,
+//   search LEFT.
+// 
+// • The key is observing the index pattern,
+//   not the element values.
 
 class Solution {
 
