@@ -4,8 +4,8 @@
 
 ## Progress
 
-- **Total solved:** 26
-- **Easy:** 11 &nbsp;·&nbsp; **Medium:** 14 &nbsp;·&nbsp; **Hard:** 1
+- **Total solved:** 27
+- **Easy:** 12 &nbsp;·&nbsp; **Medium:** 14 &nbsp;·&nbsp; **Hard:** 1
 - **Current streak:** 1 day(s) &nbsp;·&nbsp; **Longest:** 4
 
 ## Solutions
@@ -21,6 +21,7 @@
 | 33 | [Search in Rotated Sorted Array](Medium/Search%20in%20Rotated%20Sorted%20Array/33.%20Search%20in%20Rotated%20Sorted%20Array.java) | Medium | java | 2026-07-17 |
 | 34 | [Find First and Last Position of Element in Sorted Array](Medium/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java) | Medium | java | 2026-07-13 |
 | 35 | [Search Insert Position](Easy/Search%20Insert%20Position/35.%20Search%20Insert%20Position.java) | Easy | java | 2026-07-13 |
+| 69 | [Sqrt(x)](Easy/Sqrt(x)/69.%20Sqrt(x).java) | Easy | java | 2026-07-25 |
 | 81 | [Search in Rotated Sorted Array II](Medium/Search%20in%20Rotated%20Sorted%20Array%20II/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.java) | Medium | java | 2026-07-17 |
 | 138 | [Copy List with Random Pointer](Medium/Copy%20List%20with%20Random%20Pointer/138.%20Copy%20List%20with%20Random%20Pointer.java) | Medium | java | 2026-07-09 |
 | 141 | [Linked List Cycle](Easy/Linked%20List%20Cycle/141.%20Linked%20List%20Cycle.java) | Easy | java | 2026-07-07 |
@@ -37,4 +38,4 @@
 | 704 | [Binary Search](Easy/Binary%20Search/704.%20Binary%20Search.java) | Easy | java | 2026-07-12 |
 | 876 | [Middle of the Linked List](Easy/Middle%20of%20the%20Linked%20List/876.%20Middle%20of%20the%20Linked%20List.java) | Easy | java | 2026-07-07 |
 
-_Last updated: 2026-07-21_
+_Last updated: 2026-07-25_
