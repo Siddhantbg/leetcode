@@ -4,8 +4,8 @@
 
 ## Progress
 
-- **Total solved:** 27
-- **Easy:** 12 &nbsp;·&nbsp; **Medium:** 14 &nbsp;·&nbsp; **Hard:** 1
+- **Total solved:** 28
+- **Easy:** 12 &nbsp;·&nbsp; **Medium:** 15 &nbsp;·&nbsp; **Hard:** 1
 - **Current streak:** 1 day(s) &nbsp;·&nbsp; **Longest:** 4
 
 ## Solutions
@@ -37,5 +37,6 @@
 | 680 | [Valid Palindrome II](Easy/Valid%20Palindrome%20II/680.%20Valid%20Palindrome%20II.java) | Easy | java | 2026-06-30 |
 | 704 | [Binary Search](Easy/Binary%20Search/704.%20Binary%20Search.java) | Easy | java | 2026-07-12 |
 | 876 | [Middle of the Linked List](Easy/Middle%20of%20the%20Linked%20List/876.%20Middle%20of%20the%20Linked%20List.java) | Easy | java | 2026-07-07 |
+| 1283 | [Find the Smallest Divisor Given a Threshold](Medium/Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold/1283.%20Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold.java) | Medium | java | 2026-07-25 |
 
 _Last updated: 2026-07-25_
