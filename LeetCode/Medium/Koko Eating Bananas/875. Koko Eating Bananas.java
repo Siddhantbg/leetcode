@@ -1,6 +1,8 @@
 // 875. Koko Eating Bananas [Medium]
 // https://leetcode.com/problems/koko-eating-bananas/
 // Language: java | Runtime: 7 ms | Memory: 47.9 MB
+// Time:  O(n × log(maxPile))
+// Space: O(1)
 // Tags: Array, Binary Search
 // Synced: 2026-08-02
 
