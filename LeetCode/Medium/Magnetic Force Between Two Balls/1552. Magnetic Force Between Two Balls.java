@@ -1,8 +1,34 @@
 // 1552. Magnetic Force Between Two Balls [Medium]
 // https://leetcode.com/problems/magnetic-force-between-two-balls/
 // Language: java | Runtime: 43 ms | Memory: 78.7 MB
+// Time:  O(n log n+n*log(maxDistance)))
+// Space: O(1)
 // Tags: Array, Binary Search, Sorting
 // Synced: 2026-08-04
+//
+// • This is exactly the Aggressive Cows problem.
+// 
+// • Only the story changes:
+//     Stalls -> Basket positions
+//     Cows -> Balls
+// 
+// • Binary Search on Answer.
+// 
+// • Sort the positions first.
+// 
+// • Search space:
+//     [1, maxPosition - minPosition]
+// 
+// • Greedily place each ball in the leftmost valid basket.
+// 
+// • If current distance works:
+//     Search RIGHT.
+//     (We're maximizing the minimum distance.)
+// 
+// • If current distance doesn't work:
+//     Search LEFT.
+// 
+// • Return high after Binary Search ends.
 
 class Solution {
 
