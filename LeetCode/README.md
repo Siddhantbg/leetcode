@@ -1,7 +1,5 @@
 # LeetCode Solutions
 
-> Automatically synced with **LeetCode Sync**.
-
 ## Progress
 
 - **Total solved:** 34
