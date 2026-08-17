@@ -4,8 +4,8 @@
 
 ## Progress
 
-- **Total solved:** 34
-- **Easy:** 12 &nbsp;·&nbsp; **Medium:** 19 &nbsp;·&nbsp; **Hard:** 3
+- **Total solved:** 35
+- **Easy:** 12 &nbsp;·&nbsp; **Medium:** 20 &nbsp;·&nbsp; **Hard:** 3
 - **Current streak:** 1 day(s) &nbsp;·&nbsp; **Longest:** 4
 
 ## Solutions
