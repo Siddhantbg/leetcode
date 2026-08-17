@@ -1,6 +1,8 @@
 // 540. Single Element in a Sorted Array [Medium]
 // https://leetcode.com/problems/single-element-in-a-sorted-array/
 // Language: java | Runtime: 0 ms | Memory: 52.4 MB
+// Time:  O(logn)
+// Space: O(1)
 // Tags: Array, Binary Search
 // Synced: 2026-08-17
 
