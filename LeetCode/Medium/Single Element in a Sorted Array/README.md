@@ -7,7 +7,7 @@
 - **Time complexity:** O(log n)
 - **Space complexity:** O(1)
 - **Runtime:** 0 ms
-- **Memory:** 52.9 MB
+- **Memory:** 52.8 MB
 
 ## Notes
 
@@ -34,4 +34,4 @@
 • The key is observing the index pattern,
   not the element values.
 
-_Last updated: 2026-07-21_
+_Last updated: 2026-08-17_
