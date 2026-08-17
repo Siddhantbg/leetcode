@@ -1,35 +1,8 @@
 // 875. Koko Eating Bananas [Medium]
 // https://leetcode.com/problems/koko-eating-bananas/
-// Language: java | Runtime: 7 ms | Memory: 47.9 MB
+// Language: java | Runtime: 7 ms | Memory: 47.7 MB
 // Tags: Array, Binary Search
-// Synced: 2026-08-02
-//
-// • Binary Search on Answer.
-// 
-// • Search space = [1, max(piles)].
-// 
-// • Compute:
-//     hours = Σ ceil(pile / speed)
-// 
-// • If hours <= h:
-//     Current speed works.
-//     Search LEFT for a smaller valid speed.
-// 
-// • If hours > h:
-//     Speed is too slow.
-//     Search RIGHT.
-// 
-// • Return low after Binary Search ends.
-// 
-// • Avoid Math.ceil().
-//   Use:
-//     (pile + speed - 1) / speed
-// 
-// • This problem has the exact same pattern as:
-//     - Smallest Divisor
-//     - Minimum Days to Make Bouquets
-//     - Ship Packages Within D Days
-//     - Capacity to Ship Packages
+// Synced: 2026-08-18
 
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
@@ -46,8 +19,9 @@ class Solution {
             long hrs=0;
 
             for(int pile:piles){
-                hrs+=(pile+mid-1)/mid;
-            }
+                hrs+=(pile+mid-1)/mid;//ceil (pile/speed) mid is speed
+                //cant use ceil coz (pile / mid) performs integer division in Java. This truncates the decimal part before Math.ceil() can round it up.
+            } 
 
             if(hrs<=h){
                 high=mid-1;
