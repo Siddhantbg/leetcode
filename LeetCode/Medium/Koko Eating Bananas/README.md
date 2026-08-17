@@ -7,7 +7,7 @@
 - **Time complexity:** O(n × log(maxPile))
 - **Space complexity:** O(1)
 - **Runtime:** 7 ms
-- **Memory:** 47.9 MB
+- **Memory:** 47.7 MB
 
 ## Notes
 
@@ -38,4 +38,4 @@
     - Ship Packages Within D Days
     - Capacity to Ship Packages
 
-_Last updated: 2026-08-02_
+_Last updated: 2026-08-18_
