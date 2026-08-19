@@ -4,9 +4,9 @@
 
 ## Progress
 
-- **Total solved:** 35
-- **Easy:** 12 &nbsp;·&nbsp; **Medium:** 20 &nbsp;·&nbsp; **Hard:** 3
-- **Current streak:** 2 day(s) &nbsp;·&nbsp; **Longest:** 4
+- **Total solved:** 36
+- **Easy:** 13 &nbsp;·&nbsp; **Medium:** 20 &nbsp;·&nbsp; **Hard:** 3
+- **Current streak:** 1 day(s) &nbsp;·&nbsp; **Longest:** 4
 
 ## Solutions
 
@@ -15,6 +15,7 @@
 | 1 | [Two Sum](Easy/Two%20Sum/1.%20Two%20Sum.java) | Easy | java | 2026-06-30 |
 | 4 | [Median of Two Sorted Arrays](Hard/Median%20of%20Two%20Sorted%20Arrays/4.%20Median%20of%20Two%20Sorted%20Arrays.java) | Hard | java | 2026-08-08 |
 | 8 | [String to Integer (atoi)](Medium/String%20to%20Integer%20(atoi)/8.%20String%20to%20Integer%20(atoi).java) | Medium | java | 2026-06-29 |
+| 9 | [Palindrome Number](Easy/Palindrome%20Number/9.%20Palindrome%20Number.java) | Easy | java | 2026-08-20 |
 | 15 | [3Sum](Medium/3Sum/15.%203Sum.java) | Medium | java | 2026-06-29 |
 | 19 | [Remove Nth Node From End of List](Medium/Remove%20Nth%20Node%20From%20End%20of%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.java) | Medium | java | 2026-07-08 |
 | 21 | [Merge Two Sorted Lists](Easy/Merge%20Two%20Sorted%20Lists/21.%20Merge%20Two%20Sorted%20Lists.java) | Easy | java | 2026-07-06 |
@@ -45,4 +46,4 @@
 | 1482 | [Minimum Number of Days to Make m Bouquets](Medium/Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets/1482.%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets.java) | Medium | java | 2026-08-03 |
 | 1552 | [Magnetic Force Between Two Balls](Medium/Magnetic%20Force%20Between%20Two%20Balls/1552.%20Magnetic%20Force%20Between%20Two%20Balls.java) | Medium | java | 2026-08-04 |
 
-_Last updated: 2026-08-18_
+_Last updated: 2026-08-20_
