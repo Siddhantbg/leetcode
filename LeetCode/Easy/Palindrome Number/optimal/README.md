@@ -8,7 +8,7 @@
 - **Time complexity:** O(logn)
 - **Space complexity:** O(1)
 - **Runtime:** 5 ms
-- **Memory:** 45.5 MB
+- **Memory:** 46 MB
 
 ## Notes
 
