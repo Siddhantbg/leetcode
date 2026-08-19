@@ -1,6 +1,6 @@
 // 9. Palindrome Number [Easy]
 // https://leetcode.com/problems/palindrome-number/
-// Language: java | Runtime: 5 ms | Memory: 45.5 MB
+// Language: java | Runtime: 5 ms | Memory: 46 MB
 // Time:  O(logn)
 // Space: O(1)
 // Tags: Math
@@ -14,7 +14,8 @@ class Solution {
         int reverse = 0;
 
         while (x != 0) {
-            reverse = reverse * 10 + x % 10;
+            reverse = reverse * 10;
+            reverse+= x % 10;
             x /= 10;
         }
 
