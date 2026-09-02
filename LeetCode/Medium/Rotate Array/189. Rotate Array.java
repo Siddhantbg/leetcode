@@ -1,6 +1,8 @@
 // 189. Rotate Array [Medium]
 // https://leetcode.com/problems/rotate-array/
 // Language: java | Runtime: 4 ms | Memory: 268.5 MB
+// Time:  O(n)
+// Space: O(n)
 // Tags: Array, Math, Two Pointers
 // Synced: 2026-09-03
 
