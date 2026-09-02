@@ -4,8 +4,8 @@
 
 ## Progress
 
-- **Total solved:** 38
-- **Easy:** 15 &nbsp;·&nbsp; **Medium:** 20 &nbsp;·&nbsp; **Hard:** 3
+- **Total solved:** 39
+- **Easy:** 16 &nbsp;·&nbsp; **Medium:** 20 &nbsp;·&nbsp; **Hard:** 3
 - **Current streak:** 1 day(s) &nbsp;·&nbsp; **Longest:** 4
 
 ## Solutions
@@ -20,6 +20,7 @@
 | 19 | [Remove Nth Node From End of List](Medium/Remove%20Nth%20Node%20From%20End%20of%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.java) | Medium | java | 2026-07-08 |
 | 21 | [Merge Two Sorted Lists](Easy/Merge%20Two%20Sorted%20Lists/21.%20Merge%20Two%20Sorted%20Lists.java) | Easy | java | 2026-07-06 |
 | 25 | [Reverse Nodes in k-Group](Hard/Reverse%20Nodes%20in%20k-Group/25.%20Reverse%20Nodes%20in%20k-Group.java) | Hard | java | 2026-07-12 |
+| 26 | [Remove Duplicates from Sorted Array](Easy/Remove%20Duplicates%20from%20Sorted%20Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.java) | Easy | java | 2026-09-03 |
 | 33 | [Search in Rotated Sorted Array](Medium/Search%20in%20Rotated%20Sorted%20Array/33.%20Search%20in%20Rotated%20Sorted%20Array.java) | Medium | java | 2026-07-17 |
 | 34 | [Find First and Last Position of Element in Sorted Array](Medium/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java) | Medium | java | 2026-07-13 |
 | 35 | [Search Insert Position](Easy/Search%20Insert%20Position/35.%20Search%20Insert%20Position.java) | Easy | java | 2026-07-13 |
