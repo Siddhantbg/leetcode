@@ -7,7 +7,7 @@
 - **Time complexity:** O(log n)
 - **Space complexity:** O(1)
 - **Runtime:** 0 ms
-- **Memory:** 44 MB
+- **Memory:** 43.7 MB
 
 ## Notes
 
@@ -31,4 +31,4 @@
 • This problem assumes all elements are UNIQUE.
   With duplicates, the logic changes (LeetCode 154).
 
-_Last updated: 2026-07-18_
+_Last updated: 2026-09-03_
