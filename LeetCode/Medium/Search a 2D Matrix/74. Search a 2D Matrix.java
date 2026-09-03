@@ -1,6 +1,8 @@
 // 74. Search a 2D Matrix [Medium]
 // https://leetcode.com/problems/search-a-2d-matrix/
 // Language: java | Runtime: 0 ms | Memory: 43.7 MB
+// Time:  O(log m*n)
+// Space: O(1)
 // Tags: Array, Binary Search, Matrix
 // Synced: 2026-09-04
 
