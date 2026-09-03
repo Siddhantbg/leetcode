@@ -29,7 +29,7 @@
 | 138 | [Copy List with Random Pointer](Medium/Copy%20List%20with%20Random%20Pointer/138.%20Copy%20List%20with%20Random%20Pointer.java) | Medium | java | 2026-07-09 |
 | 141 | [Linked List Cycle](Easy/Linked%20List%20Cycle/141.%20Linked%20List%20Cycle.java) | Easy | java | 2026-07-07 |
 | 143 | [Reorder List](Medium/Reorder%20List/143.%20Reorder%20List.java) | Medium | java | 2026-07-08 |
-| 153 | [Find Minimum in Rotated Sorted Array](Medium/Find%20Minimum%20in%20Rotated%20Sorted%20Array/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.java) | Medium | java | 2026-07-18 |
+| 153 | [Find Minimum in Rotated Sorted Array](Medium/Find%20Minimum%20in%20Rotated%20Sorted%20Array/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.java) | Medium | java | 2026-09-03 |
 | 160 | [Intersection of Two Linked Lists](Easy/Intersection%20of%20Two%20Linked%20Lists/160.%20Intersection%20of%20Two%20Linked%20Lists.java) | Easy | java | 2026-07-11 |
 | 162 | [Find Peak Element](Medium/Find%20Peak%20Element/162.%20Find%20Peak%20Element.java) | Medium | java | 2026-08-07 |
 | 165 | [Compare Version Numbers](Medium/Compare%20Version%20Numbers/165.%20Compare%20Version%20Numbers.java) | Medium | java | 2026-07-06 |
