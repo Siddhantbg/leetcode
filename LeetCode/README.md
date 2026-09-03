@@ -4,9 +4,9 @@
 
 ## Progress
 
-- **Total solved:** 40
-- **Easy:** 16 &nbsp;·&nbsp; **Medium:** 21 &nbsp;·&nbsp; **Hard:** 3
-- **Current streak:** 1 day(s) &nbsp;·&nbsp; **Longest:** 4
+- **Total solved:** 41
+- **Easy:** 16 &nbsp;·&nbsp; **Medium:** 22 &nbsp;·&nbsp; **Hard:** 3
+- **Current streak:** 2 day(s) &nbsp;·&nbsp; **Longest:** 4
 
 ## Solutions
 
@@ -25,6 +25,7 @@
 | 34 | [Find First and Last Position of Element in Sorted Array](Medium/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java) | Medium | java | 2026-07-13 |
 | 35 | [Search Insert Position](Easy/Search%20Insert%20Position/35.%20Search%20Insert%20Position.java) | Easy | java | 2026-07-13 |
 | 69 | [Sqrt(x)](Easy/Sqrt(x)/69.%20Sqrt(x).java) | Easy | java | 2026-07-25 |
+| 74 | [Search a 2D Matrix](Medium/Search%20a%202D%20Matrix/74.%20Search%20a%202D%20Matrix.java) | Medium | java | 2026-09-04 |
 | 81 | [Search in Rotated Sorted Array II](Medium/Search%20in%20Rotated%20Sorted%20Array%20II/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.java) | Medium | java | 2026-07-17 |
 | 138 | [Copy List with Random Pointer](Medium/Copy%20List%20with%20Random%20Pointer/138.%20Copy%20List%20with%20Random%20Pointer.java) | Medium | java | 2026-07-09 |
 | 141 | [Linked List Cycle](Easy/Linked%20List%20Cycle/141.%20Linked%20List%20Cycle.java) | Easy | java | 2026-07-07 |
@@ -48,4 +49,4 @@
 | 1482 | [Minimum Number of Days to Make m Bouquets](Medium/Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets/1482.%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets.java) | Medium | java | 2026-08-03 |
 | 1552 | [Magnetic Force Between Two Balls](Medium/Magnetic%20Force%20Between%20Two%20Balls/1552.%20Magnetic%20Force%20Between%20Two%20Balls.java) | Medium | java | 2026-08-04 |
 
-_Last updated: 2026-09-03_
+_Last updated: 2026-09-04_
