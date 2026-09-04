@@ -4,9 +4,9 @@
 
 ## Progress
 
-- **Total solved:** 41
-- **Easy:** 16 &nbsp;·&nbsp; **Medium:** 22 &nbsp;·&nbsp; **Hard:** 3
-- **Current streak:** 2 day(s) &nbsp;·&nbsp; **Longest:** 4
+- **Total solved:** 42
+- **Easy:** 16 &nbsp;·&nbsp; **Medium:** 23 &nbsp;·&nbsp; **Hard:** 3
+- **Current streak:** 3 day(s) &nbsp;·&nbsp; **Longest:** 4
 
 ## Solutions
 
@@ -38,6 +38,7 @@
 | 205 | [Isomorphic Strings](Easy/Isomorphic%20Strings/205.%20Isomorphic%20Strings.java) | Easy | java | 2026-06-30 |
 | 206 | [Reverse Linked List](Easy/Reverse%20Linked%20List/206.%20Reverse%20Linked%20List.java) | Easy | java | 2026-07-07 |
 | 234 | [Palindrome Linked List](Easy/Palindrome%20Linked%20List/234.%20Palindrome%20Linked%20List.java) | Easy | java | 2026-07-07 |
+| 240 | [Search a 2D Matrix II](Medium/Search%20a%202D%20Matrix%20II/240.%20Search%20a%202D%20Matrix%20II.java) | Medium | java | 2026-09-05 |
 | 394 | [Decode String](Medium/Decode%20String/394.%20Decode%20String.java) | Medium | java | 2026-06-29 |
 | 410 | [Split Array Largest Sum](Hard/Split%20Array%20Largest%20Sum/410.%20Split%20Array%20Largest%20Sum.java) | Hard | java | 2026-08-05 |
 | 540 | [Single Element in a Sorted Array](Medium/Single%20Element%20in%20a%20Sorted%20Array/540.%20Single%20Element%20in%20a%20Sorted%20Array.java) | Medium | java | 2026-08-17 |
@@ -49,4 +50,4 @@
 | 1482 | [Minimum Number of Days to Make m Bouquets](Medium/Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets/1482.%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets.java) | Medium | java | 2026-08-03 |
 | 1552 | [Magnetic Force Between Two Balls](Medium/Magnetic%20Force%20Between%20Two%20Balls/1552.%20Magnetic%20Force%20Between%20Two%20Balls.java) | Medium | java | 2026-08-04 |
 
-_Last updated: 2026-09-04_
+_Last updated: 2026-09-05_
