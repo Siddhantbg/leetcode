@@ -32,7 +32,7 @@
 | 143 | [Reorder List](Medium/Reorder%20List/143.%20Reorder%20List.java) | Medium | java | 2026-07-08 |
 | 153 | [Find Minimum in Rotated Sorted Array](Medium/Find%20Minimum%20in%20Rotated%20Sorted%20Array/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.java) | Medium | java | 2026-09-03 |
 | 160 | [Intersection of Two Linked Lists](Easy/Intersection%20of%20Two%20Linked%20Lists/160.%20Intersection%20of%20Two%20Linked%20Lists.java) | Easy | java | 2026-07-11 |
-| 162 | [Find Peak Element](Medium/Find%20Peak%20Element/162.%20Find%20Peak%20Element.java) | Medium | java | 2026-08-07 |
+| 162 | [Find Peak Element](Medium/Find%20Peak%20Element/162.%20Find%20Peak%20Element.java) | Medium | java | 2026-09-05 |
 | 165 | [Compare Version Numbers](Medium/Compare%20Version%20Numbers/165.%20Compare%20Version%20Numbers.java) | Medium | java | 2026-07-06 |
 | 189 | [Rotate Array](Medium/Rotate%20Array/189.%20Rotate%20Array.java) | Medium | java | 2026-09-03 |
 | 205 | [Isomorphic Strings](Easy/Isomorphic%20Strings/205.%20Isomorphic%20Strings.java) | Easy | java | 2026-06-30 |
