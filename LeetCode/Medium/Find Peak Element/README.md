@@ -7,7 +7,7 @@
 - **Time complexity:** O(log n)
 - **Space complexity:** O(1)
 - **Runtime:** 0 ms
-- **Memory:** 44.2 MB
+- **Memory:** 43.9 MB
 
 ## Notes
 
@@ -37,4 +37,4 @@
 • There can be multiple peaks.
   Returning any one is valid.
 
-_Last updated: 2026-08-07_
+_Last updated: 2026-09-05_
