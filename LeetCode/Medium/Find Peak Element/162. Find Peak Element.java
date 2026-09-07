@@ -1,8 +1,41 @@
 // 162. Find Peak Element [Medium]
 // https://leetcode.com/problems/find-peak-element/
 // Language: java | Runtime: 0 ms | Memory: 43.9 MB
+// Time:  O(rows × log(cols))
+// Space: O(1)
 // Tags: Array, Binary Search
 // Synced: 2026-09-05
+//
+// • 2D version of Find Peak Element.
+// 
+// • Binary Search on COLUMNS.
+// 
+// • For every middle column:
+//     Find its maximum element.
+// 
+// • Column maximum is already greater than:
+//     UP and DOWN.
+// 
+// • Compare it with:
+//     LEFT and RIGHT.
+// 
+// • If current > left AND right:
+//     Peak found.
+// 
+// • If right > current:
+//     Search RIGHT.
+// 
+// • Otherwise:
+//     Search LEFT.
+// 
+// • Time:
+//     O(rows × log(cols))
+// 
+// • Space:
+//     O(1)
+// 
+// • Pattern:
+//     Binary Search + Find Maximum in Column
 
 class Solution {
     public int findPeakElement(int[] nums) {
