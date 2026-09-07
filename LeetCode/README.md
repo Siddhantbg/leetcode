@@ -6,7 +6,7 @@
 
 - **Total solved:** 42
 - **Easy:** 16 &nbsp;·&nbsp; **Medium:** 23 &nbsp;·&nbsp; **Hard:** 3
-- **Current streak:** 3 day(s) &nbsp;·&nbsp; **Longest:** 4
+- **Current streak:** 1 day(s) &nbsp;·&nbsp; **Longest:** 4
 
 ## Solutions
 
@@ -32,7 +32,7 @@
 | 143 | [Reorder List](Medium/Reorder%20List/143.%20Reorder%20List.java) | Medium | java | 2026-07-08 |
 | 153 | [Find Minimum in Rotated Sorted Array](Medium/Find%20Minimum%20in%20Rotated%20Sorted%20Array/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.java) | Medium | java | 2026-09-03 |
 | 160 | [Intersection of Two Linked Lists](Easy/Intersection%20of%20Two%20Linked%20Lists/160.%20Intersection%20of%20Two%20Linked%20Lists.java) | Easy | java | 2026-07-11 |
-| 162 | [Find Peak Element](Medium/Find%20Peak%20Element/162.%20Find%20Peak%20Element.java) | Medium | java | 2026-09-05 |
+| 162 | [Find Peak Element](Medium/Find%20Peak%20Element/162.%20Find%20Peak%20Element.java) | Medium | java | 2026-09-08 |
 | 165 | [Compare Version Numbers](Medium/Compare%20Version%20Numbers/165.%20Compare%20Version%20Numbers.java) | Medium | java | 2026-07-06 |
 | 189 | [Rotate Array](Medium/Rotate%20Array/189.%20Rotate%20Array.java) | Medium | java | 2026-09-03 |
 | 205 | [Isomorphic Strings](Easy/Isomorphic%20Strings/205.%20Isomorphic%20Strings.java) | Easy | java | 2026-06-30 |
@@ -50,4 +50,4 @@
 | 1482 | [Minimum Number of Days to Make m Bouquets](Medium/Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets/1482.%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets.java) | Medium | java | 2026-08-03 |
 | 1552 | [Magnetic Force Between Two Balls](Medium/Magnetic%20Force%20Between%20Two%20Balls/1552.%20Magnetic%20Force%20Between%20Two%20Balls.java) | Medium | java | 2026-08-04 |
 
-_Last updated: 2026-09-05_
+_Last updated: 2026-09-08_
