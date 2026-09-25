@@ -1,10 +1,8 @@
 // 15. 3Sum [Medium]
 // https://leetcode.com/problems/3sum/
-// Language: java | Runtime: 29 ms | Memory: 59.2 MB
-// Time:  O(n^2)
-// Space: O(log n)
+// Language: java | Runtime: 30 ms | Memory: 59.3 MB
 // Tags: Array, Two Pointers, Sorting
-// Synced: 2026-06-29
+// Synced: 2026-09-25
 
 class Solution{
     public List<List<Integer>> threeSum(int[] arr) {
@@ -17,7 +15,7 @@ class Solution{
         for(int i=0;i<arr.length-2;i++){
             l=i+1;
             r=arr.length-1;
-
+// "If this isn't the first element, and the current number is the same as the number immediately before it, skip this i."
                 if(i > 0 && arr[i] == arr[i - 1]) {
                 continue;
             }
