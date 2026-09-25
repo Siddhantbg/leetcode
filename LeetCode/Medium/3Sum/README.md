@@ -2,14 +2,15 @@
 
 - **Difficulty:** Medium
 - **Link:** [3sum](https://leetcode.com/problems/3sum/)
-- **Language(s):** java
-- **Time complexity:** O(n^2)
-- **Space complexity:** O(log n)
-- **Runtime:** 29 ms
-- **Memory:** 59.2 MB
+- **Language:** java
+- **File:** [`15. 3Sum.java`](15.%203Sum.java)
+- **Time complexity:** —
+- **Space complexity:** —
+- **Runtime:** 30 ms
+- **Memory:** 59.3 MB
 
 ## Notes
 
 —
 
-_Last updated: 2026-06-29_
+_Last updated: 2026-09-25_
