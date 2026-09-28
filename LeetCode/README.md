@@ -4,9 +4,9 @@
 
 ## Progress
 
-- **Total solved:** 45
-- **Easy:** 19 &nbsp;·&nbsp; **Medium:** 23 &nbsp;·&nbsp; **Hard:** 3
-- **Current streak:** 2 day(s) &nbsp;·&nbsp; **Longest:** 4
+- **Total solved:** 46
+- **Easy:** 20 &nbsp;·&nbsp; **Medium:** 23 &nbsp;·&nbsp; **Hard:** 3
+- **Current streak:** 1 day(s) &nbsp;·&nbsp; **Longest:** 4
 
 ## Solutions
 
@@ -36,6 +36,7 @@
 | 160 | [Intersection of Two Linked Lists](Easy/Intersection%20of%20Two%20Linked%20Lists/160.%20Intersection%20of%20Two%20Linked%20Lists.java) | Easy | java | 2026-07-11 |
 | 162 | [Find Peak Element](Medium/Find%20Peak%20Element/162.%20Find%20Peak%20Element.java) | Medium | java | 2026-09-08 |
 | 165 | [Compare Version Numbers](Medium/Compare%20Version%20Numbers/165.%20Compare%20Version%20Numbers.java) | Medium | java | 2026-07-06 |
+| 169 | [Majority Element](Easy/Majority%20Element/169.%20Majority%20Element.java) | Easy | java | 2026-09-29 |
 | 189 | [Rotate Array](Medium/Rotate%20Array/189.%20Rotate%20Array.java) | Medium | java | 2026-09-03 |
 | 205 | [Isomorphic Strings](Easy/Isomorphic%20Strings/205.%20Isomorphic%20Strings.java) | Easy | java | 2026-06-30 |
 | 206 | [Reverse Linked List](Easy/Reverse%20Linked%20List/206.%20Reverse%20Linked%20List.java) | Easy | java | 2026-07-07 |
@@ -53,4 +54,4 @@
 | 1482 | [Minimum Number of Days to Make m Bouquets](Medium/Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets/1482.%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets.java) | Medium | java | 2026-08-03 |
 | 1552 | [Magnetic Force Between Two Balls](Medium/Magnetic%20Force%20Between%20Two%20Balls/1552.%20Magnetic%20Force%20Between%20Two%20Balls.java) | Medium | java | 2026-08-04 |
 
-_Last updated: 2026-09-25_
+_Last updated: 2026-09-29_
