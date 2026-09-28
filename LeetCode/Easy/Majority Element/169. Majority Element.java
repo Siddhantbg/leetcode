@@ -1,8 +1,12 @@
 // 169. Majority Element [Easy]
 // https://leetcode.com/problems/majority-element/
 // Language: java | Runtime: 2 ms | Memory: 63.3 MB
+// Time:  O(n)
+// Space: O(1)
 // Tags: Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm
 // Synced: 2026-09-29
+//
+// The important pattern to remember: when a problem guarantees an element occurs > n/2 times → think Boyer-Moore.
 
 class Solution {
     public int majorityElement(int[] nums) {
