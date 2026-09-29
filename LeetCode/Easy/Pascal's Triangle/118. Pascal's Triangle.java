@@ -1,11 +1,12 @@
 // 118. Pascal's Triangle [Easy]
 // https://leetcode.com/problems/pascals-triangle/
 // Language: java | Runtime: 1 ms | Memory: 43.4 MB
-// Time:  O(m·n) (auto-detected)
-// Space: O(n) (auto-detected)
+// Time:  O(n^2)
+// Space: O(n^2)
 // Pattern: Nested loops
-// Tags: Array, Dynamic Programming
 // Synced: 2026-09-30
+//
+// Dont try to calculate every value using factorials, combination. The triagnle's previous row already gives you exactly what you need.
 
 class Solution {
     public List<List<Integer>> generate(int numRows) {
