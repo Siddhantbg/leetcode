@@ -4,8 +4,8 @@
 
 ## Progress
 
-- **Total solved:** 47
-- **Easy:** 21 &nbsp;·&nbsp; **Medium:** 23 &nbsp;·&nbsp; **Hard:** 3
+- **Total solved:** 48
+- **Easy:** 21 &nbsp;·&nbsp; **Medium:** 24 &nbsp;·&nbsp; **Hard:** 3
 - **Current streak:** 2 day(s) &nbsp;·&nbsp; **Longest:** 4
 
 ## Solutions
@@ -15,14 +15,14 @@
 | 1 | [Two Sum](Easy/Two%20Sum/1.%20Two%20Sum.java) | Easy | java | 2026-09-03 |
 | 4 | [Median of Two Sorted Arrays](Hard/Median%20of%20Two%20Sorted%20Arrays/4.%20Median%20of%20Two%20Sorted%20Arrays.java) | Hard | java | 2026-08-08 |
 | 8 | [String to Integer (atoi)](Medium/String%20to%20Integer%20(atoi)/8.%20String%20to%20Integer%20(atoi).java) | Medium | java | 2026-06-29 |
-| 9 | [Palindrome Number](Easy/Palindrome%20Number/primary/9.%20Palindrome%20Number.java) | Easy | java | 2026-08-20 |
+| 9 | [Palindrome Number](Easy/Palindrome%20Number/primary/9.%20Palindrome%20Number.java) (2 solutions) | Easy | java | 2026-08-20 |
 | 15 | [3Sum](Medium/3Sum/15.%203Sum.java) | Medium | java | 2026-09-25 |
 | 19 | [Remove Nth Node From End of List](Medium/Remove%20Nth%20Node%20From%20End%20of%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.java) | Medium | java | 2026-07-08 |
 | 20 | [Valid Parentheses](Easy/Valid%20Parentheses/20.%20Valid%20Parentheses.java) | Easy | java | 2026-09-24 |
 | 21 | [Merge Two Sorted Lists](Easy/Merge%20Two%20Sorted%20Lists/21.%20Merge%20Two%20Sorted%20Lists.java) | Easy | java | 2026-07-06 |
 | 25 | [Reverse Nodes in k-Group](Hard/Reverse%20Nodes%20in%20k-Group/25.%20Reverse%20Nodes%20in%20k-Group.java) | Hard | java | 2026-07-12 |
 | 26 | [Remove Duplicates from Sorted Array](Easy/Remove%20Duplicates%20from%20Sorted%20Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.java) | Easy | java | 2026-09-03 |
-| 33 | [Search in Rotated Sorted Array](Medium/Search%20in%20Rotated%20Sorted%20Array/33.%20Search%20in%20Rotated%20Sorted%20Array.java) | Medium | java | 2026-07-17 |
+| 33 | [Search in Rotated Sorted Array](Medium/Search%20in%20Rotated%20Sorted%20Array/33.%20Search%20in%20Rotated%20Sorted%20Array.java) (3 solutions) | Medium | java | 2026-07-17 |
 | 34 | [Find First and Last Position of Element in Sorted Array](Medium/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java) | Medium | java | 2026-07-13 |
 | 35 | [Search Insert Position](Easy/Search%20Insert%20Position/35.%20Search%20Insert%20Position.java) | Easy | java | 2026-07-13 |
 | 69 | [Sqrt(x)](Easy/Sqrt(x)/69.%20Sqrt(x).java) | Easy | java | 2026-07-25 |
@@ -44,7 +44,7 @@
 | 240 | [Search a 2D Matrix II](Medium/Search%20a%202D%20Matrix%20II/240.%20Search%20a%202D%20Matrix%20II.java) | Medium | java | 2026-09-05 |
 | 394 | [Decode String](Medium/Decode%20String/394.%20Decode%20String.java) | Medium | java | 2026-06-29 |
 | 410 | [Split Array Largest Sum](Hard/Split%20Array%20Largest%20Sum/410.%20Split%20Array%20Largest%20Sum.java) | Hard | java | 2026-08-05 |
-| 540 | [Single Element in a Sorted Array](Medium/Single%20Element%20in%20a%20Sorted%20Array/540.%20Single%20Element%20in%20a%20Sorted%20Array.java) | Medium | java | 2026-08-17 |
+| 540 | [Single Element in a Sorted Array](Medium/Single%20Element%20in%20a%20Sorted%20Array/540.%20Single%20Element%20in%20a%20Sorted%20Array.java) (2 solutions) | Medium | java | 2026-08-17 |
 | 680 | [Valid Palindrome II](Easy/Valid%20Palindrome%20II/680.%20Valid%20Palindrome%20II.java) | Easy | java | 2026-06-30 |
 | 704 | [Binary Search](Easy/Binary%20Search/704.%20Binary%20Search.java) | Easy | java | 2026-07-12 |
 | 875 | [Koko Eating Bananas](Medium/Koko%20Eating%20Bananas/875.%20Koko%20Eating%20Bananas.java) | Medium | java | 2026-08-18 |
@@ -54,5 +54,6 @@
 | 1299 | [Replace Elements with Greatest Element on Right Side](Easy/Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.java) | Easy | java | 2026-09-30 |
 | 1482 | [Minimum Number of Days to Make m Bouquets](Medium/Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets/1482.%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets.java) | Medium | java | 2026-08-03 |
 | 1552 | [Magnetic Force Between Two Balls](Medium/Magnetic%20Force%20Between%20Two%20Balls/1552.%20Magnetic%20Force%20Between%20Two%20Balls.java) | Medium | java | 2026-08-04 |
+| 2149 | [Rearrange Array Elements by Sign](Medium/Rearrange%20Array%20Elements%20by%20Sign/2149.%20Rearrange%20Array%20Elements%20by%20Sign.java) | Medium | java | 2026-09-30 |
 
 _Last updated: 2026-09-30_
