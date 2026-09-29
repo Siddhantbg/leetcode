@@ -4,8 +4,8 @@
 
 ## Progress
 
-- **Total solved:** 48
-- **Easy:** 21 &nbsp;·&nbsp; **Medium:** 24 &nbsp;·&nbsp; **Hard:** 3
+- **Total solved:** 49
+- **Easy:** 22 &nbsp;·&nbsp; **Medium:** 24 &nbsp;·&nbsp; **Hard:** 3
 - **Current streak:** 2 day(s) &nbsp;·&nbsp; **Longest:** 4
 
 ## Solutions
@@ -28,6 +28,7 @@
 | 69 | [Sqrt(x)](Easy/Sqrt(x)/69.%20Sqrt(x).java) | Easy | java | 2026-07-25 |
 | 74 | [Search a 2D Matrix](Medium/Search%20a%202D%20Matrix/74.%20Search%20a%202D%20Matrix.java) | Medium | java | 2026-09-04 |
 | 81 | [Search in Rotated Sorted Array II](Medium/Search%20in%20Rotated%20Sorted%20Array%20II/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.java) | Medium | java | 2026-07-17 |
+| 118 | [Pascal's Triangle](Easy/Pascal's%20Triangle/118.%20Pascal's%20Triangle.java) | Easy | java | 2026-09-30 |
 | 125 | [Valid Palindrome](Easy/Valid%20Palindrome/125.%20Valid%20Palindrome.java) | Easy | java | 2026-09-24 |
 | 138 | [Copy List with Random Pointer](Medium/Copy%20List%20with%20Random%20Pointer/138.%20Copy%20List%20with%20Random%20Pointer.java) | Medium | java | 2026-07-09 |
 | 141 | [Linked List Cycle](Easy/Linked%20List%20Cycle/141.%20Linked%20List%20Cycle.java) | Easy | java | 2026-07-07 |
