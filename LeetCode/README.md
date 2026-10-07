@@ -4,9 +4,9 @@
 
 ## Progress
 
-- **Total solved:** 49
-- **Easy:** 22 &nbsp;·&nbsp; **Medium:** 24 &nbsp;·&nbsp; **Hard:** 3
-- **Current streak:** 2 day(s) &nbsp;·&nbsp; **Longest:** 4
+- **Total solved:** 50
+- **Easy:** 22 &nbsp;·&nbsp; **Medium:** 25 &nbsp;·&nbsp; **Hard:** 3
+- **Current streak:** 1 day(s) &nbsp;·&nbsp; **Longest:** 4
 
 ## Solutions
 
@@ -14,6 +14,7 @@
 | --: | :--- | :---: | :--- | :--- |
 | 1 | [Two Sum](Easy/Two%20Sum/1.%20Two%20Sum.java) | Easy | java | 2026-09-03 |
 | 4 | [Median of Two Sorted Arrays](Hard/Median%20of%20Two%20Sorted%20Arrays/4.%20Median%20of%20Two%20Sorted%20Arrays.java) | Hard | java | 2026-08-08 |
+| 6 | [Zigzag Conversion](Medium/Zigzag%20Conversion/6.%20Zigzag%20Conversion.java) | Medium | java | 2026-10-07 |
 | 8 | [String to Integer (atoi)](Medium/String%20to%20Integer%20(atoi)/8.%20String%20to%20Integer%20(atoi).java) | Medium | java | 2026-06-29 |
 | 9 | [Palindrome Number](Easy/Palindrome%20Number/primary/9.%20Palindrome%20Number.java) (2 solutions) | Easy | java | 2026-08-20 |
 | 15 | [3Sum](Medium/3Sum/15.%203Sum.java) | Medium | java | 2026-09-25 |
@@ -57,4 +58,4 @@
 | 1552 | [Magnetic Force Between Two Balls](Medium/Magnetic%20Force%20Between%20Two%20Balls/1552.%20Magnetic%20Force%20Between%20Two%20Balls.java) | Medium | java | 2026-08-04 |
 | 2149 | [Rearrange Array Elements by Sign](Medium/Rearrange%20Array%20Elements%20by%20Sign/2149.%20Rearrange%20Array%20Elements%20by%20Sign.java) | Medium | java | 2026-09-30 |
 
-_Last updated: 2026-09-30_
+_Last updated: 2026-10-07_
