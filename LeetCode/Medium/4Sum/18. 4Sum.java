@@ -4,7 +4,6 @@
 // Time:  O(n³) (auto-detected)
 // Space: O(n) (auto-detected)
 // Pattern: Hash set + Sorting
-// Tags: Array, Two Pointers, Sorting
 // Synced: 2026-10-16
 
 class Solution {
