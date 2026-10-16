@@ -1,9 +1,9 @@
 // 18. 4Sum [Medium]
 // https://leetcode.com/problems/4sum/
 // Language: java | Runtime: 19 ms | Memory: 45.2 MB
-// Space: O(n) (auto-detected)
+// Time:  O(n^3)
+// Space: O(1)
 // Pattern: Sliding window + Hash set
-// Tags: Array, Two Pointers, Sorting
 // Synced: 2026-10-16
 
 class Solution {
