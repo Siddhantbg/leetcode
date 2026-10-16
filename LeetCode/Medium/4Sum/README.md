@@ -7,14 +7,14 @@
 
 ## ⭐ Best
 
-**Optimal** (java) — — time · O(n) space
+**Optimal** (java) — O(n^3) time · O(1) space
 
 ## Solutions
 
 ### ⭐ Optimal
 
 - **Language:** java
-- **Complexity:** — time · O(n) space *
+- **Complexity:** O(n^3) time · O(1) space
 - **Pattern:** Sliding window + Hash set
 - **LeetCode:** 19 ms · 45.2 MB
 - **File:** [`18. 4Sum.java`](optimal/18.%204Sum.java)
