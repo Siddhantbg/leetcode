@@ -2,8 +2,7 @@
 // https://leetcode.com/problems/sort-colors/
 // Language: java | Runtime: 0 ms | Memory: 43 MB
 // Time:  O(n) (auto-detected)
-// Space: O(n) (auto-detected)
-// Tags: Array, Two Pointers, Sorting, Quicksort, Bubble Sort
+// Space: O(1)
 // Synced: 2026-10-17
 
 class Solution {
