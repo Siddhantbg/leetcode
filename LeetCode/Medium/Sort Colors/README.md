@@ -5,7 +5,7 @@
 - **Language:** java
 - **File:** [`75. Sort Colors.java`](75.%20Sort%20Colors.java)
 - **Time complexity:** O(n) _(auto-detected)_
-- **Space complexity:** O(n) _(auto-detected)_
+- **Space complexity:** O(1)
 - **Runtime:** 0 ms
 - **Memory:** 43 MB
 
