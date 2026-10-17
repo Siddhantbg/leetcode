@@ -4,9 +4,9 @@
 
 ## Progress
 
-- **Total solved:** 53
-- **Easy:** 22 &nbsp;·&nbsp; **Medium:** 28 &nbsp;·&nbsp; **Hard:** 3
-- **Current streak:** 2 day(s) &nbsp;·&nbsp; **Longest:** 4
+- **Total solved:** 54
+- **Easy:** 22 &nbsp;·&nbsp; **Medium:** 29 &nbsp;·&nbsp; **Hard:** 3
+- **Current streak:** 3 day(s) &nbsp;·&nbsp; **Longest:** 4
 
 ## Solutions
 
@@ -30,6 +30,7 @@
 | 35 | [Search Insert Position](Easy/Search%20Insert%20Position/35.%20Search%20Insert%20Position.java) | Easy | java | 2026-07-13 |
 | 69 | [Sqrt(x)](Easy/Sqrt(x)/69.%20Sqrt(x).java) | Easy | java | 2026-07-25 |
 | 74 | [Search a 2D Matrix](Medium/Search%20a%202D%20Matrix/74.%20Search%20a%202D%20Matrix.java) | Medium | java | 2026-09-04 |
+| 75 | [Sort Colors](Medium/Sort%20Colors/75.%20Sort%20Colors.java) | Medium | java | 2026-10-17 |
 | 81 | [Search in Rotated Sorted Array II](Medium/Search%20in%20Rotated%20Sorted%20Array%20II/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.java) | Medium | java | 2026-07-17 |
 | 118 | [Pascal's Triangle](Easy/Pascal's%20Triangle/118.%20Pascal's%20Triangle.java) | Easy | java | 2026-09-30 |
 | 125 | [Valid Palindrome](Easy/Valid%20Palindrome/125.%20Valid%20Palindrome.java) | Easy | java | 2026-09-24 |
@@ -61,4 +62,4 @@
 | 1552 | [Magnetic Force Between Two Balls](Medium/Magnetic%20Force%20Between%20Two%20Balls/1552.%20Magnetic%20Force%20Between%20Two%20Balls.java) | Medium | java | 2026-08-04 |
 | 2149 | [Rearrange Array Elements by Sign](Medium/Rearrange%20Array%20Elements%20by%20Sign/2149.%20Rearrange%20Array%20Elements%20by%20Sign.java) | Medium | java | 2026-09-30 |
 
-_Last updated: 2026-10-16_
+_Last updated: 2026-10-17_
