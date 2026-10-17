@@ -1,6 +1,6 @@
 // 75. Sort Colors [Medium]
 // https://leetcode.com/problems/sort-colors/
-// Language: java | Runtime: 0 ms | Memory: 42.8 MB
+// Language: java | Runtime: 0 ms | Memory: 43 MB
 // Time:  O(n) (auto-detected)
 // Space: O(n) (auto-detected)
 // Tags: Array, Two Pointers, Sorting, Quicksort, Bubble Sort
@@ -20,6 +20,8 @@ class Solution {
             }else{
                 swap(nums,mid,h);
                 h--;
+//                 When we swap nums[mid] == 2 with nums[h], the element coming from h could be 0, 1, or 2.
+// If we do mid++, we skip checking that element, which can lead to an incorrect sort. So, we only do h-- and recheck mid.
             }
         }
     }
