@@ -3,7 +3,6 @@
 // Language: java | Runtime: 3 ms | Memory: 175.5 MB
 // Time:  O(n) (auto-detected)
 // Space: O(n) (auto-detected)
-// Tags: Array, Two Pointers, Simulation
 // Synced: 2026-09-30
 
 class Solution {
