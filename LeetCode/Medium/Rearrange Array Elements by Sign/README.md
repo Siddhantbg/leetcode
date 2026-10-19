@@ -2,15 +2,30 @@
 
 - **Difficulty:** Medium
 - **Link:** [rearrange-array-elements-by-sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)
+- **Language(s):** java
+- **Solutions:** 2
+
+## ⭐ Best
+
+**Optimal** (java) — O(n) time · O(n) space
+
+## Solutions
+
+### ⭐ Optimal
+
 - **Language:** java
+- **Complexity:** O(n) time · O(n) space *
+- **LeetCode:** 3 ms · 175.5 MB
 - **File:** [`2149. Rearrange Array Elements by Sign.java`](2149.%20Rearrange%20Array%20Elements%20by%20Sign.java)
-- **Time complexity:** O(n) _(auto-detected)_
-- **Space complexity:** O(n) _(auto-detected)_
-- **Runtime:** 3 ms
-- **Memory:** 175.5 MB
 
-## Notes
+### Brute Force
 
-—
+- **Language:** java
+- **Complexity:** O(n) time · O(n) space *
+- **LeetCode:** 4 ms · 171.6 MB
+- **File:** [`2149. Rearrange Array Elements by Sign.java`](brute-force/2149.%20Rearrange%20Array%20Elements%20by%20Sign.java)
+- **Details:** [README](brute-force/README.md)
 
-_Last updated: 2026-09-30_
+<sub>* Complexity auto-detected from the code; edit it in the extension popup if it looks off.</sub>
+
+_Last updated: 2026-10-19_
