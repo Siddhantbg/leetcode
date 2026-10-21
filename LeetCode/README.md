@@ -4,8 +4,8 @@
 
 ## Progress
 
-- **Total solved:** 55
-- **Easy:** 22 &nbsp;·&nbsp; **Medium:** 30 &nbsp;·&nbsp; **Hard:** 3
+- **Total solved:** 56
+- **Easy:** 22 &nbsp;·&nbsp; **Medium:** 31 &nbsp;·&nbsp; **Hard:** 3
 - **Current streak:** 1 day(s) &nbsp;·&nbsp; **Longest:** 4
 
 ## Solutions
@@ -28,6 +28,7 @@
 | 33 | [Search in Rotated Sorted Array](Medium/Search%20in%20Rotated%20Sorted%20Array/33.%20Search%20in%20Rotated%20Sorted%20Array.java) (3 solutions) | Medium | java | 2026-07-17 |
 | 34 | [Find First and Last Position of Element in Sorted Array](Medium/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java) | Medium | java | 2026-07-13 |
 | 35 | [Search Insert Position](Easy/Search%20Insert%20Position/35.%20Search%20Insert%20Position.java) | Easy | java | 2026-07-13 |
+| 53 | [Maximum Subarray](Medium/Maximum%20Subarray/53.%20Maximum%20Subarray.java) | Medium | java | 2026-10-21 |
 | 69 | [Sqrt(x)](Easy/Sqrt(x)/69.%20Sqrt(x).java) | Easy | java | 2026-07-25 |
 | 74 | [Search a 2D Matrix](Medium/Search%20a%202D%20Matrix/74.%20Search%20a%202D%20Matrix.java) | Medium | java | 2026-09-04 |
 | 75 | [Sort Colors](Medium/Sort%20Colors/75.%20Sort%20Colors.java) | Medium | java | 2026-10-17 |
