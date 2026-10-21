@@ -2,8 +2,7 @@
 // https://leetcode.com/problems/majority-element-ii/
 // Language: java | Runtime: 2 ms | Memory: 52.3 MB
 // Time:  O(n) (auto-detected)
-// Space: O(n) (auto-detected)
-// Tags: Array, Hash Table, Sorting, Counting, Boyer–Moore Majority Vote Algorithm
+// Space: O(1)
 // Synced: 2026-10-21
 
 class Solution {
