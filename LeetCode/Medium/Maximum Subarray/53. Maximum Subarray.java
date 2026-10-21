@@ -3,7 +3,6 @@
 // Language: java | Runtime: 1 ms | Memory: 76.6 MB
 // Time:  O(n) (auto-detected)
 // Space: O(1) (auto-detected)
-// Tags: Array, Divide and Conquer, Dynamic Programming
 // Synced: 2026-10-21
 
 class Solution {
