@@ -5,7 +5,7 @@
 - **Language:** java
 - **File:** [`31. Next Permutation.java`](31.%20Next%20Permutation.java)
 - **Time complexity:** O(n) _(auto-detected)_
-- **Space complexity:** O(n) _(auto-detected)_
+- **Space complexity:** O(1)
 - **Pattern:** Two pointers
 - **Runtime:** 1 ms
 - **Memory:** 44.1 MB
