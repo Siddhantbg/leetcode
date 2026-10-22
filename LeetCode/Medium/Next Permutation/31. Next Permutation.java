@@ -1,9 +1,10 @@
 // 31. Next Permutation [Medium]
 // https://leetcode.com/problems/next-permutation/
-// Language: java | Runtime: 1 ms | Memory: 44.1 MB
+// Language: java | Runtime: 1 ms | Memory: 44.2 MB
 // Time:  O(n) (auto-detected)
-// Space: O(1)
+// Space: O(n) (auto-detected)
 // Pattern: Two pointers
+// Tags: Array, Two Pointers
 // Synced: 2026-10-22
 
 class Solution {
@@ -21,7 +22,7 @@ class Solution {
         }
 
     reverse(nums,i+1,n-1);
-
+// i + 1 se reverse karte hain kyunki pivot index i tak ka part sahi hai, usko change nahi karna.
     }
     private void swap(int[]a,int i,int j){
         int t=a[i];
