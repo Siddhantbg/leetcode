@@ -2,9 +2,8 @@
 // https://leetcode.com/problems/next-permutation/
 // Language: java | Runtime: 1 ms | Memory: 44.1 MB
 // Time:  O(n) (auto-detected)
-// Space: O(n) (auto-detected)
+// Space: O(1)
 // Pattern: Two pointers
-// Tags: Array, Two Pointers
 // Synced: 2026-10-22
 
 class Solution {
