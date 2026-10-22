@@ -2,14 +2,21 @@
 
 - **Difficulty:** Easy
 - **Link:** [replace-elements-with-greatest-element-on-right-side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)
-- **Language:** java
-- **File:** [`1299. Replace Elements with Greatest Element on Right Side.java`](1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.java)
-- **Time complexity:** O(n)
-- **Space complexity:** O(1)
-- **Runtime:** 3 ms
-- **Memory:** 49.2 MB
+- **Language(s):** java
+- **Solutions:** 2
 
-## Notes
+## ⭐ Best
+
+**Primary** (java) — O(n) time · O(1) space
+
+## Solutions
+
+### ⭐ Primary
+
+- **Language:** java
+- **Complexity:** O(n) time · O(1) space *
+- **Pattern:** Reverse traversal
+- **File:** [`1299. Replace Elements with Greatest Element on Right Side.java`](1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.java)
 
 Q: What is the problem?
 A: Replace every element with the greatest element to its right.
@@ -206,4 +213,15 @@ Right-side maximum problem
 → Replace with maxRight
 → Update maxRight
 
-_Last updated: 2026-09-30_
+### Solution 2
+
+- **Language:** java
+- **Complexity:** O(n) time · O(1) space *
+- **Pattern:** Reverse traversal
+- **LeetCode:** 3 ms · 48.7 MB
+- **File:** [`1299. Replace Elements with Greatest Element on Right Side.java`](solution-2/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.java)
+- **Details:** [README](solution-2/README.md)
+
+<sub>* Complexity auto-detected from the code; edit it in the extension popup if it looks off.</sub>
+
+_Last updated: 2026-10-22_
