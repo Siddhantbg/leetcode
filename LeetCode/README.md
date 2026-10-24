@@ -34,7 +34,7 @@
 | 74 | [Search a 2D Matrix](Medium/Search%20a%202D%20Matrix/74.%20Search%20a%202D%20Matrix.java) | Medium | java | 2026-09-04 |
 | 75 | [Sort Colors](Medium/Sort%20Colors/75.%20Sort%20Colors.java) | Medium | java | 2026-10-17 |
 | 81 | [Search in Rotated Sorted Array II](Medium/Search%20in%20Rotated%20Sorted%20Array%20II/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.java) | Medium | java | 2026-07-17 |
-| 118 | [Pascal's Triangle](Easy/Pascal's%20Triangle/118.%20Pascal's%20Triangle.java) | Easy | java | 2026-09-30 |
+| 118 | [Pascal's Triangle](Easy/Pascal's%20Triangle/solution-2/118.%20Pascal's%20Triangle.java) (2 solutions) | Easy | java | 2026-10-24 |
 | 119 | [Pascal's Triangle II](Easy/Pascal's%20Triangle%20II/119.%20Pascal's%20Triangle%20II.java) | Easy | java | 2026-10-24 |
 | 125 | [Valid Palindrome](Easy/Valid%20Palindrome/125.%20Valid%20Palindrome.java) | Easy | java | 2026-09-24 |
 | 138 | [Copy List with Random Pointer](Medium/Copy%20List%20with%20Random%20Pointer/138.%20Copy%20List%20with%20Random%20Pointer.java) | Medium | java | 2026-07-09 |
