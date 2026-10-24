@@ -1,10 +1,9 @@
 // 118. Pascal's Triangle [Easy]
 // https://leetcode.com/problems/pascals-triangle/
 // Language: java | Runtime: 1 ms | Memory: 43.1 MB
-// Time:  O(m·n) (auto-detected)
-// Space: O(n) (auto-detected)
+// Time:  O(n^2)
+// Space: O(1)
 // Pattern: Nested loops
-// Tags: Array, Dynamic Programming
 // Synced: 2026-10-24
 
 class Solution {
