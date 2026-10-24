@@ -5,7 +5,7 @@
 - **Language:** java
 - **File:** [`119. Pascal's Triangle II.java`](119.%20Pascal's%20Triangle%20II.java)
 - **Time complexity:** O(n) _(auto-detected)_
-- **Space complexity:** O(n) _(auto-detected)_
+- **Space complexity:** O(1)
 - **Runtime:** 0 ms
 - **Memory:** 41.5 MB
 
