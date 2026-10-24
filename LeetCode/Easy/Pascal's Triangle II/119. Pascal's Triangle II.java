@@ -2,8 +2,7 @@
 // https://leetcode.com/problems/pascals-triangle-ii/
 // Language: java | Runtime: 0 ms | Memory: 41.5 MB
 // Time:  O(n) (auto-detected)
-// Space: O(n) (auto-detected)
-// Tags: Array, Dynamic Programming
+// Space: O(1)
 // Synced: 2026-10-24
 
 class Solution {
