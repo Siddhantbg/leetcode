@@ -7,14 +7,14 @@
 
 ## ⭐ Best
 
-**Optimal** (java) — O(m·n) time · O(n) space
+**Optimal** (java) — O(n^2) time · O(1) space
 
 ## Solutions
 
 ### ⭐ Optimal
 
 - **Language:** java
-- **Complexity:** O(m·n) time · O(n) space *
+- **Complexity:** O(n^2) time · O(1) space
 - **Pattern:** Nested loops
 - **LeetCode:** 1 ms · 43.1 MB
 - **File:** [`118. Pascal's Triangle.java`](solution-2/118.%20Pascal's%20Triangle.java)
@@ -29,7 +29,5 @@
 - **File:** [`118. Pascal's Triangle.java`](118.%20Pascal's%20Triangle.java)
 
 Dont try to calculate every value using factorials, combination. The triagnle's previous row already gives you exactly what you need.
-
-<sub>* Complexity auto-detected from the code; edit it in the extension popup if it looks off.</sub>
 
 _Last updated: 2026-10-24_
