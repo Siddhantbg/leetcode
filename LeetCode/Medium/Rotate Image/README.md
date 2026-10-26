@@ -4,7 +4,7 @@
 - **Link:** [rotate-image](https://leetcode.com/problems/rotate-image/)
 - **Language:** java
 - **File:** [`48. Rotate Image.java`](48.%20Rotate%20Image.java)
-- **Time complexity:** O(m·n) _(auto-detected)_
+- **Time complexity:** O(n^2)
 - **Space complexity:** O(1) _(auto-detected)_
 - **Pattern:** Reverse traversal
 - **Runtime:** 0 ms
