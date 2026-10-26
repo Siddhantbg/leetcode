@@ -1,10 +1,9 @@
 // 48. Rotate Image [Medium]
 // https://leetcode.com/problems/rotate-image/
 // Language: java | Runtime: 0 ms | Memory: 43.1 MB
-// Time:  O(m·n) (auto-detected)
+// Time:  O(n^2)
 // Space: O(1) (auto-detected)
 // Pattern: Reverse traversal
-// Tags: Array, Math, Matrix
 // Synced: 2026-10-27
 
 class Solution {
