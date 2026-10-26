@@ -1,9 +1,9 @@
 // 54. Spiral Matrix [Medium]
 // https://leetcode.com/problems/spiral-matrix/
 // Language: java | Runtime: 0 ms | Memory: 42.7 MB
-// Space: O(n) (auto-detected)
+// Time:  O(m*n)
+// Space: O(1)
 // Pattern: Two pointers + Reverse traversal
-// Tags: Array, Matrix, Simulation
 // Synced: 2026-10-26
 
 class Solution {
