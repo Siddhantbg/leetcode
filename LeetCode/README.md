@@ -4,9 +4,9 @@
 
 ## Progress
 
-- **Total solved:** 61
-- **Easy:** 23 &nbsp;·&nbsp; **Medium:** 35 &nbsp;·&nbsp; **Hard:** 3
-- **Current streak:** 2 day(s) &nbsp;·&nbsp; **Longest:** 4
+- **Total solved:** 62
+- **Easy:** 23 &nbsp;·&nbsp; **Medium:** 36 &nbsp;·&nbsp; **Hard:** 3
+- **Current streak:** 3 day(s) &nbsp;·&nbsp; **Longest:** 4
 
 ## Solutions
 
@@ -58,6 +58,7 @@
 | 394 | [Decode String](Medium/Decode%20String/394.%20Decode%20String.java) | Medium | java | 2026-06-29 |
 | 410 | [Split Array Largest Sum](Hard/Split%20Array%20Largest%20Sum/410.%20Split%20Array%20Largest%20Sum.java) | Hard | java | 2026-08-05 |
 | 540 | [Single Element in a Sorted Array](Medium/Single%20Element%20in%20a%20Sorted%20Array/540.%20Single%20Element%20in%20a%20Sorted%20Array.java) (2 solutions) | Medium | java | 2026-08-17 |
+| 560 | [Subarray Sum Equals K](Medium/Subarray%20Sum%20Equals%20K/560.%20Subarray%20Sum%20Equals%20K.java) | Medium | java | 2026-10-28 |
 | 680 | [Valid Palindrome II](Easy/Valid%20Palindrome%20II/680.%20Valid%20Palindrome%20II.java) | Easy | java | 2026-06-30 |
 | 704 | [Binary Search](Easy/Binary%20Search/704.%20Binary%20Search.java) | Easy | java | 2026-07-12 |
 | 875 | [Koko Eating Bananas](Medium/Koko%20Eating%20Bananas/875.%20Koko%20Eating%20Bananas.java) | Medium | java | 2026-08-18 |
@@ -69,4 +70,4 @@
 | 1552 | [Magnetic Force Between Two Balls](Medium/Magnetic%20Force%20Between%20Two%20Balls/1552.%20Magnetic%20Force%20Between%20Two%20Balls.java) | Medium | java | 2026-08-04 |
 | 2149 | [Rearrange Array Elements by Sign](Medium/Rearrange%20Array%20Elements%20by%20Sign/2149.%20Rearrange%20Array%20Elements%20by%20Sign.java) (3 solutions) | Medium | java | 2026-10-19 |
 
-_Last updated: 2026-10-27_
+_Last updated: 2026-10-28_
