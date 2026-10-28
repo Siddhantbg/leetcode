@@ -5,7 +5,7 @@
 - **Link:** [longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 - **Language:** java
 - **File:** [`128. Longest Consecutive Sequence.java`](128.%20Longest%20Consecutive%20Sequence.java)
-- **Time complexity:** —
+- **Time complexity:** O(n_
 - **Space complexity:** O(n) _(auto-detected)_
 - **Pattern:** Hash set
 - **Runtime:** 31 ms
