@@ -4,7 +4,6 @@
 // Time:  O(n log n) (auto-detected)
 // Space: O(1) (auto-detected)
 // Pattern: Sorting
-// Tags: Array, Hash Table, Union-Find
 // Synced: 2026-10-28
 
 class Solution {
