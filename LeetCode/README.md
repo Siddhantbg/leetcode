@@ -4,9 +4,9 @@
 
 ## Progress
 
-- **Total solved:** 63
-- **Easy:** 23 &nbsp;·&nbsp; **Medium:** 37 &nbsp;·&nbsp; **Hard:** 3
-- **Current streak:** 3 day(s) &nbsp;·&nbsp; **Longest:** 4
+- **Total solved:** 64
+- **Easy:** 24 &nbsp;·&nbsp; **Medium:** 37 &nbsp;·&nbsp; **Hard:** 3
+- **Current streak:** 4 day(s) &nbsp;·&nbsp; **Longest:** 4
 
 ## Solutions
 
@@ -39,7 +39,7 @@
 | 118 | [Pascal's Triangle](Easy/Pascal's%20Triangle/solution-2/118.%20Pascal's%20Triangle.java) (2 solutions) | Easy | java | 2026-10-24 |
 | 119 | [Pascal's Triangle II](Easy/Pascal's%20Triangle%20II/119.%20Pascal's%20Triangle%20II.java) | Easy | java | 2026-10-24 |
 | 125 | [Valid Palindrome](Easy/Valid%20Palindrome/125.%20Valid%20Palindrome.java) | Easy | java | 2026-09-24 |
-| 128 | [Longest Consecutive Sequence](Medium/Longest%20Consecutive%20Sequence/128.%20Longest%20Consecutive%20Sequence.java) (2 solutions) | Medium | java | 2026-10-28 |
+| 128 | [Longest Consecutive Sequence](Medium/Longest%20Consecutive%20Sequence/optimum/128.%20Longest%20Consecutive%20Sequence.java) (2 solutions) | Medium | java | 2026-10-28 |
 | 138 | [Copy List with Random Pointer](Medium/Copy%20List%20with%20Random%20Pointer/138.%20Copy%20List%20with%20Random%20Pointer.java) | Medium | java | 2026-07-09 |
 | 141 | [Linked List Cycle](Easy/Linked%20List%20Cycle/141.%20Linked%20List%20Cycle.java) | Easy | java | 2026-07-07 |
 | 143 | [Reorder List](Medium/Reorder%20List/143.%20Reorder%20List.java) | Medium | java | 2026-07-08 |
@@ -60,6 +60,7 @@
 | 410 | [Split Array Largest Sum](Hard/Split%20Array%20Largest%20Sum/410.%20Split%20Array%20Largest%20Sum.java) | Hard | java | 2026-08-05 |
 | 540 | [Single Element in a Sorted Array](Medium/Single%20Element%20in%20a%20Sorted%20Array/540.%20Single%20Element%20in%20a%20Sorted%20Array.java) (2 solutions) | Medium | java | 2026-08-17 |
 | 560 | [Subarray Sum Equals K](Medium/Subarray%20Sum%20Equals%20K/560.%20Subarray%20Sum%20Equals%20K.java) | Medium | java | 2026-10-28 |
+| 645 | [Set Mismatch](Easy/Set%20Mismatch/645.%20Set%20Mismatch.java) | Easy | java | 2026-10-29 |
 | 680 | [Valid Palindrome II](Easy/Valid%20Palindrome%20II/680.%20Valid%20Palindrome%20II.java) | Easy | java | 2026-06-30 |
 | 704 | [Binary Search](Easy/Binary%20Search/704.%20Binary%20Search.java) | Easy | java | 2026-07-12 |
 | 875 | [Koko Eating Bananas](Medium/Koko%20Eating%20Bananas/875.%20Koko%20Eating%20Bananas.java) | Medium | java | 2026-08-18 |
@@ -71,4 +72,4 @@
 | 1552 | [Magnetic Force Between Two Balls](Medium/Magnetic%20Force%20Between%20Two%20Balls/1552.%20Magnetic%20Force%20Between%20Two%20Balls.java) | Medium | java | 2026-08-04 |
 | 2149 | [Rearrange Array Elements by Sign](Medium/Rearrange%20Array%20Elements%20by%20Sign/2149.%20Rearrange%20Array%20Elements%20by%20Sign.java) (3 solutions) | Medium | java | 2026-10-19 |
 
-_Last updated: 2026-10-28_
+_Last updated: 2026-10-29_
