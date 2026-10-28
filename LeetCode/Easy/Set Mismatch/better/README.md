@@ -1,6 +1,6 @@
 # 645. Set Mismatch
 
-- **Solution:** ⭐ Better
+- **Solution:** Better
 - **Difficulty:** Easy
 - **Link:** [set-mismatch](https://leetcode.com/problems/set-mismatch/)
 - **Language:** java
