@@ -2,16 +2,28 @@
 
 - **Difficulty:** Medium
 - **Link:** [longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+- **Language(s):** java
+- **Solutions:** 2
+
+## Solutions
+
+### Better
+
 - **Language:** java
-- **File:** [`128. Longest Consecutive Sequence.java`](128.%20Longest%20Consecutive%20Sequence.java)
-- **Time complexity:** O(n log n) _(auto-detected)_
-- **Space complexity:** O(1) _(auto-detected)_
+- **Complexity:** O(n log n) time · O(1) space *
 - **Pattern:** Sorting
-- **Runtime:** 23 ms
-- **Memory:** 77.2 MB
+- **LeetCode:** 23 ms · 77.2 MB
+- **File:** [`128. Longest Consecutive Sequence.java`](128.%20Longest%20Consecutive%20Sequence.java)
 
-## Notes
+### Optimum
 
-—
+- **Language:** java
+- **Complexity:** — time · O(n) space *
+- **Pattern:** Hash set
+- **LeetCode:** 31 ms · 95.1 MB
+- **File:** [`128. Longest Consecutive Sequence.java`](optimum/128.%20Longest%20Consecutive%20Sequence.java)
+- **Details:** [README](optimum/README.md)
+
+<sub>* Complexity auto-detected from the code; edit it in the extension popup if it looks off.</sub>
 
 _Last updated: 2026-10-28_
