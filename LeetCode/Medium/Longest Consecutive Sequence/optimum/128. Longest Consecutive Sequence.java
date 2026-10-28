@@ -1,9 +1,9 @@
 // 128. Longest Consecutive Sequence [Medium]
 // https://leetcode.com/problems/longest-consecutive-sequence/
 // Language: java | Runtime: 31 ms | Memory: 95.1 MB
+// Time:  O(n_
 // Space: O(n) (auto-detected)
 // Pattern: Hash set
-// Tags: Array, Hash Table, Union-Find
 // Synced: 2026-10-28
 
 class Solution {
