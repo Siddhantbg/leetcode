@@ -39,7 +39,7 @@
 | 118 | [Pascal's Triangle](Easy/Pascal's%20Triangle/solution-2/118.%20Pascal's%20Triangle.java) (2 solutions) | Easy | java | 2026-10-24 |
 | 119 | [Pascal's Triangle II](Easy/Pascal's%20Triangle%20II/119.%20Pascal's%20Triangle%20II.java) | Easy | java | 2026-10-24 |
 | 125 | [Valid Palindrome](Easy/Valid%20Palindrome/125.%20Valid%20Palindrome.java) | Easy | java | 2026-09-24 |
-| 128 | [Longest Consecutive Sequence](Medium/Longest%20Consecutive%20Sequence/128.%20Longest%20Consecutive%20Sequence.java) | Medium | java | 2026-10-28 |
+| 128 | [Longest Consecutive Sequence](Medium/Longest%20Consecutive%20Sequence/128.%20Longest%20Consecutive%20Sequence.java) (2 solutions) | Medium | java | 2026-10-28 |
 | 138 | [Copy List with Random Pointer](Medium/Copy%20List%20with%20Random%20Pointer/138.%20Copy%20List%20with%20Random%20Pointer.java) | Medium | java | 2026-07-09 |
 | 141 | [Linked List Cycle](Easy/Linked%20List%20Cycle/141.%20Linked%20List%20Cycle.java) | Easy | java | 2026-07-07 |
 | 143 | [Reorder List](Medium/Reorder%20List/143.%20Reorder%20List.java) | Medium | java | 2026-07-08 |
