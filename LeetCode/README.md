@@ -60,7 +60,7 @@
 | 410 | [Split Array Largest Sum](Hard/Split%20Array%20Largest%20Sum/410.%20Split%20Array%20Largest%20Sum.java) | Hard | java | 2026-08-05 |
 | 540 | [Single Element in a Sorted Array](Medium/Single%20Element%20in%20a%20Sorted%20Array/540.%20Single%20Element%20in%20a%20Sorted%20Array.java) (2 solutions) | Medium | java | 2026-08-17 |
 | 560 | [Subarray Sum Equals K](Medium/Subarray%20Sum%20Equals%20K/560.%20Subarray%20Sum%20Equals%20K.java) | Medium | java | 2026-10-28 |
-| 645 | [Set Mismatch](Easy/Set%20Mismatch/645.%20Set%20Mismatch.java) | Easy | java | 2026-10-29 |
+| 645 | [Set Mismatch](Easy/Set%20Mismatch/better/645.%20Set%20Mismatch.java) (2 solutions) | Easy | java | 2026-10-29 |
 | 680 | [Valid Palindrome II](Easy/Valid%20Palindrome%20II/680.%20Valid%20Palindrome%20II.java) | Easy | java | 2026-06-30 |
 | 704 | [Binary Search](Easy/Binary%20Search/704.%20Binary%20Search.java) | Easy | java | 2026-07-12 |
 | 875 | [Koko Eating Bananas](Medium/Koko%20Eating%20Bananas/875.%20Koko%20Eating%20Bananas.java) | Medium | java | 2026-08-18 |
