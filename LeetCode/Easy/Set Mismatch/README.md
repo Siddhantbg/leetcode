@@ -3,15 +3,23 @@
 - **Difficulty:** Easy
 - **Link:** [set-mismatch](https://leetcode.com/problems/set-mismatch/)
 - **Language(s):** java
-- **Solutions:** 2
+- **Solutions:** 3
 
 ## ⭐ Best
 
-**Better** (java) — O(n) time · O(n) space
+**Optimal** (java) — O(n) time · O(1) space
 
 ## Solutions
 
-### ⭐ Better
+### ⭐ Optimal
+
+- **Language:** java
+- **Complexity:** O(n) time · O(1) space *
+- **LeetCode:** 2 ms · 47.1 MB
+- **File:** [`645. Set Mismatch.java`](solution-3/645.%20Set%20Mismatch.java)
+- **Details:** [README](solution-3/README.md)
+
+### Better
 
 - **Language:** java
 - **Complexity:** O(n) time · O(n) space *
