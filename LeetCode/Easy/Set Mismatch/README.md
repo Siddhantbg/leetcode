@@ -2,16 +2,31 @@
 
 - **Difficulty:** Easy
 - **Link:** [set-mismatch](https://leetcode.com/problems/set-mismatch/)
+- **Language(s):** java
+- **Solutions:** 2
+
+## ⭐ Best
+
+**Better** (java) — O(n) time · O(n) space
+
+## Solutions
+
+### ⭐ Better
+
 - **Language:** java
-- **File:** [`645. Set Mismatch.java`](645.%20Set%20Mismatch.java)
-- **Time complexity:** O(n²) _(auto-detected)_
-- **Space complexity:** O(1) _(auto-detected)_
+- **Complexity:** O(n) time · O(n) space *
+- **LeetCode:** 2 ms · 47.4 MB
+- **File:** [`645. Set Mismatch.java`](better/645.%20Set%20Mismatch.java)
+- **Details:** [README](better/README.md)
+
+### Brute Force
+
+- **Language:** java
+- **Complexity:** O(n²) time · O(1) space *
 - **Pattern:** Nested loops
-- **Runtime:** 871 ms
-- **Memory:** 47.2 MB
+- **LeetCode:** 871 ms · 47.2 MB
+- **File:** [`645. Set Mismatch.java`](645.%20Set%20Mismatch.java)
 
-## Notes
-
-—
+<sub>* Complexity auto-detected from the code; edit it in the extension popup if it looks off.</sub>
 
 _Last updated: 2026-10-29_
