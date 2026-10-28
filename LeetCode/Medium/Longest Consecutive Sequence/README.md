@@ -18,7 +18,7 @@
 ### Optimum
 
 - **Language:** java
-- **Complexity:** — time · O(n) space *
+- **Complexity:** O(n_ time · O(n) space *
 - **Pattern:** Hash set
 - **LeetCode:** 31 ms · 95.1 MB
 - **File:** [`128. Longest Consecutive Sequence.java`](optimum/128.%20Longest%20Consecutive%20Sequence.java)
