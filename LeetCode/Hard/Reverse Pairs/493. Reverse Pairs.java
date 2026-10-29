@@ -1,8 +1,9 @@
 // 493. Reverse Pairs [Hard]
 // https://leetcode.com/problems/reverse-pairs/
 // Language: java | Runtime: 41 ms | Memory: 61 MB
+// Time:  O(n logn)
+// Space: O(1)
 // Pattern: Binary search + Recursion
-// Tags: Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set, Treap
 // Synced: 2026-10-30
 
 class Solution {
