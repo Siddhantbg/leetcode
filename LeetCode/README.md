@@ -4,9 +4,9 @@
 
 ## Progress
 
-- **Total solved:** 64
-- **Easy:** 24 &nbsp;·&nbsp; **Medium:** 37 &nbsp;·&nbsp; **Hard:** 3
-- **Current streak:** 4 day(s) &nbsp;·&nbsp; **Longest:** 4
+- **Total solved:** 65
+- **Easy:** 24 &nbsp;·&nbsp; **Medium:** 37 &nbsp;·&nbsp; **Hard:** 4
+- **Current streak:** 5 day(s) &nbsp;·&nbsp; **Longest:** 5
 
 ## Solutions
 
@@ -58,6 +58,7 @@
 | 240 | [Search a 2D Matrix II](Medium/Search%20a%202D%20Matrix%20II/240.%20Search%20a%202D%20Matrix%20II.java) | Medium | java | 2026-09-05 |
 | 394 | [Decode String](Medium/Decode%20String/394.%20Decode%20String.java) | Medium | java | 2026-06-29 |
 | 410 | [Split Array Largest Sum](Hard/Split%20Array%20Largest%20Sum/410.%20Split%20Array%20Largest%20Sum.java) | Hard | java | 2026-08-05 |
+| 493 | [Reverse Pairs](Hard/Reverse%20Pairs/493.%20Reverse%20Pairs.java) | Hard | java | 2026-10-30 |
 | 540 | [Single Element in a Sorted Array](Medium/Single%20Element%20in%20a%20Sorted%20Array/540.%20Single%20Element%20in%20a%20Sorted%20Array.java) (2 solutions) | Medium | java | 2026-08-17 |
 | 560 | [Subarray Sum Equals K](Medium/Subarray%20Sum%20Equals%20K/560.%20Subarray%20Sum%20Equals%20K.java) | Medium | java | 2026-10-28 |
 | 645 | [Set Mismatch](Easy/Set%20Mismatch/solution-3/645.%20Set%20Mismatch.java) (3 solutions) | Easy | java | 2026-10-29 |
@@ -72,4 +73,4 @@
 | 1552 | [Magnetic Force Between Two Balls](Medium/Magnetic%20Force%20Between%20Two%20Balls/1552.%20Magnetic%20Force%20Between%20Two%20Balls.java) | Medium | java | 2026-08-04 |
 | 2149 | [Rearrange Array Elements by Sign](Medium/Rearrange%20Array%20Elements%20by%20Sign/2149.%20Rearrange%20Array%20Elements%20by%20Sign.java) (3 solutions) | Medium | java | 2026-10-19 |
 
-_Last updated: 2026-10-29_
+_Last updated: 2026-10-30_
