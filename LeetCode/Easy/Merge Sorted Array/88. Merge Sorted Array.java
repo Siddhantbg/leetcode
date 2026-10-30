@@ -1,9 +1,8 @@
 // 88. Merge Sorted Array [Easy]
 // https://leetcode.com/problems/merge-sorted-array/
 // Language: java | Runtime: 0 ms | Memory: 43.2 MB
-// Time:  O(n) (auto-detected)
+// Time:  O(m+n)
 // Space: O(1) (auto-detected)
-// Tags: Array, Two Pointers, Sorting
 // Synced: 2026-10-30
 
 class Solution {
