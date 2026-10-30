@@ -3,7 +3,7 @@
 - **Difficulty:** Medium
 - **Link:** [4sum](https://leetcode.com/problems/4sum/)
 - **Language(s):** java
-- **Solutions:** 2
+- **Solutions:** 3
 
 ## ⭐ Best
 
@@ -28,6 +28,15 @@
 - **LeetCode:** 507 ms · 46.9 MB
 - **File:** [`18. 4Sum.java`](18.%204Sum.java)
 
+### Solution 3
+
+- **Language:** java
+- **Complexity:** — time · O(n) space *
+- **Pattern:** Sliding window + Sorting
+- **LeetCode:** 19 ms · 45.3 MB
+- **File:** [`18. 4Sum.java`](solution-3/18.%204Sum.java)
+- **Details:** [README](solution-3/README.md)
+
 <sub>* Complexity auto-detected from the code; edit it in the extension popup if it looks off.</sub>
 
-_Last updated: 2026-10-16_
+_Last updated: 2026-10-30_
