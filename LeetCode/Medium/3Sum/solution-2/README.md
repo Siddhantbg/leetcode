@@ -8,11 +8,11 @@
 - **Time complexity:** —
 - **Space complexity:** O(n) _(auto-detected)_
 - **Pattern:** Sliding window + Sorting
-- **Runtime:** 30 ms
-- **Memory:** 58.8 MB
+- **Runtime:** 32 ms
+- **Memory:** 58.6 MB
 
 ## Notes
 
 —
 
-_Last updated: 2026-10-16_
+_Last updated: 2026-10-30_
