@@ -50,7 +50,7 @@
 | 162 | [Find Peak Element](Medium/Find%20Peak%20Element/162.%20Find%20Peak%20Element.java) | Medium | java | 2026-09-08 |
 | 165 | [Compare Version Numbers](Medium/Compare%20Version%20Numbers/165.%20Compare%20Version%20Numbers.java) | Medium | java | 2026-07-06 |
 | 167 | [Two Sum II - Input Array Is Sorted](Medium/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.java) | Medium | java | 2026-10-16 |
-| 169 | [Majority Element](Easy/Majority%20Element/169.%20Majority%20Element.java) (2 solutions) | Easy | java | 2026-10-19 |
+| 169 | [Majority Element](Easy/Majority%20Element/169.%20Majority%20Element.java) (3 solutions) | Easy | java | 2026-10-31 |
 | 189 | [Rotate Array](Medium/Rotate%20Array/189.%20Rotate%20Array.java) | Medium | java | 2026-09-03 |
 | 205 | [Isomorphic Strings](Easy/Isomorphic%20Strings/205.%20Isomorphic%20Strings.java) | Easy | java | 2026-06-30 |
 | 206 | [Reverse Linked List](Easy/Reverse%20Linked%20List/206.%20Reverse%20Linked%20List.java) | Easy | java | 2026-07-07 |
