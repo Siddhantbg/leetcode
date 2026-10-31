@@ -6,7 +6,7 @@
 
 - **Total solved:** 66
 - **Easy:** 25 &nbsp;·&nbsp; **Medium:** 37 &nbsp;·&nbsp; **Hard:** 4
-- **Current streak:** 5 day(s) &nbsp;·&nbsp; **Longest:** 5
+- **Current streak:** 6 day(s) &nbsp;·&nbsp; **Longest:** 6
 
 ## Solutions
 
@@ -18,7 +18,7 @@
 | 6 | [Zigzag Conversion](Medium/Zigzag%20Conversion/6.%20Zigzag%20Conversion.java) | Medium | java | 2026-10-07 |
 | 8 | [String to Integer (atoi)](Medium/String%20to%20Integer%20(atoi)/8.%20String%20to%20Integer%20(atoi).java) | Medium | java | 2026-06-29 |
 | 9 | [Palindrome Number](Easy/Palindrome%20Number/primary/9.%20Palindrome%20Number.java) (2 solutions) | Easy | java | 2026-08-20 |
-| 15 | [3Sum](Medium/3Sum/15.%203Sum.java) (2 solutions) | Medium | java | 2026-10-30 |
+| 15 | [3Sum](Medium/3Sum/15.%203Sum.java) (3 solutions) | Medium | java | 2026-10-31 |
 | 18 | [4Sum](Medium/4Sum/optimal/18.%204Sum.java) (3 solutions) | Medium | java | 2026-10-30 |
 | 19 | [Remove Nth Node From End of List](Medium/Remove%20Nth%20Node%20From%20End%20of%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.java) | Medium | java | 2026-07-08 |
 | 20 | [Valid Parentheses](Easy/Valid%20Parentheses/20.%20Valid%20Parentheses.java) | Easy | java | 2026-09-24 |
@@ -74,4 +74,4 @@
 | 1552 | [Magnetic Force Between Two Balls](Medium/Magnetic%20Force%20Between%20Two%20Balls/1552.%20Magnetic%20Force%20Between%20Two%20Balls.java) | Medium | java | 2026-08-04 |
 | 2149 | [Rearrange Array Elements by Sign](Medium/Rearrange%20Array%20Elements%20by%20Sign/2149.%20Rearrange%20Array%20Elements%20by%20Sign.java) (3 solutions) | Medium | java | 2026-10-19 |
 
-_Last updated: 2026-10-30_
+_Last updated: 2026-10-31_
