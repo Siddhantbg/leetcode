@@ -19,7 +19,7 @@
 | 8 | [String to Integer (atoi)](Medium/String%20to%20Integer%20(atoi)/8.%20String%20to%20Integer%20(atoi).java) | Medium | java | 2026-06-29 |
 | 9 | [Palindrome Number](Easy/Palindrome%20Number/primary/9.%20Palindrome%20Number.java) (2 solutions) | Easy | java | 2026-08-20 |
 | 15 | [3Sum](Medium/3Sum/15.%203Sum.java) (3 solutions) | Medium | java | 2026-10-31 |
-| 18 | [4Sum](Medium/4Sum/optimal/18.%204Sum.java) (3 solutions) | Medium | java | 2026-10-30 |
+| 18 | [4Sum](Medium/4Sum/optimal/18.%204Sum.java) (4 solutions) | Medium | java | 2026-10-31 |
 | 19 | [Remove Nth Node From End of List](Medium/Remove%20Nth%20Node%20From%20End%20of%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.java) | Medium | java | 2026-07-08 |
 | 20 | [Valid Parentheses](Easy/Valid%20Parentheses/20.%20Valid%20Parentheses.java) | Easy | java | 2026-09-24 |
 | 21 | [Merge Two Sorted Lists](Easy/Merge%20Two%20Sorted%20Lists/21.%20Merge%20Two%20Sorted%20Lists.java) | Easy | java | 2026-07-06 |
