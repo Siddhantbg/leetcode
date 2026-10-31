@@ -34,7 +34,7 @@
 | 54 | [Spiral Matrix](Medium/Spiral%20Matrix/54.%20Spiral%20Matrix.java) | Medium | java | 2026-10-26 |
 | 69 | [Sqrt(x)](Easy/Sqrt(x)/69.%20Sqrt(x).java) | Easy | java | 2026-07-25 |
 | 74 | [Search a 2D Matrix](Medium/Search%20a%202D%20Matrix/74.%20Search%20a%202D%20Matrix.java) | Medium | java | 2026-09-04 |
-| 75 | [Sort Colors](Medium/Sort%20Colors/75.%20Sort%20Colors.java) | Medium | java | 2026-10-17 |
+| 75 | [Sort Colors](Medium/Sort%20Colors/75.%20Sort%20Colors.java) (2 solutions) | Medium | java | 2026-10-31 |
 | 81 | [Search in Rotated Sorted Array II](Medium/Search%20in%20Rotated%20Sorted%20Array%20II/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.java) | Medium | java | 2026-07-17 |
 | 88 | [Merge Sorted Array](Easy/Merge%20Sorted%20Array/88.%20Merge%20Sorted%20Array.java) | Easy | java | 2026-10-30 |
 | 118 | [Pascal's Triangle](Easy/Pascal's%20Triangle/solution-2/118.%20Pascal's%20Triangle.java) (2 solutions) | Easy | java | 2026-10-24 |
