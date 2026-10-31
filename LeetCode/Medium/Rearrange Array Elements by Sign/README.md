@@ -30,10 +30,10 @@
 
 - **Language:** java
 - **Complexity:** O(n) time · O(n) space *
-- **LeetCode:** 4 ms · 174.9 MB
+- **LeetCode:** 4 ms · 175 MB
 - **File:** [`2149. Rearrange Array Elements by Sign.java`](solution-3/2149.%20Rearrange%20Array%20Elements%20by%20Sign.java)
 - **Details:** [README](solution-3/README.md)
 
 <sub>* Complexity auto-detected from the code; edit it in the extension popup if it looks off.</sub>
 
-_Last updated: 2026-10-19_
+_Last updated: 2026-10-31_
