@@ -6,7 +6,7 @@
 
 - **Total solved:** 66
 - **Easy:** 25 &nbsp;·&nbsp; **Medium:** 37 &nbsp;·&nbsp; **Hard:** 4
-- **Current streak:** 6 day(s) &nbsp;·&nbsp; **Longest:** 6
+- **Current streak:** 1 day(s) &nbsp;·&nbsp; **Longest:** 6
 
 ## Solutions
 
@@ -72,6 +72,6 @@
 | 1299 | [Replace Elements with Greatest Element on Right Side](Easy/Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.java) (2 solutions) | Easy | java | 2026-10-22 |
 | 1482 | [Minimum Number of Days to Make m Bouquets](Medium/Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets/1482.%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets.java) | Medium | java | 2026-08-03 |
 | 1552 | [Magnetic Force Between Two Balls](Medium/Magnetic%20Force%20Between%20Two%20Balls/1552.%20Magnetic%20Force%20Between%20Two%20Balls.java) | Medium | java | 2026-08-04 |
-| 2149 | [Rearrange Array Elements by Sign](Medium/Rearrange%20Array%20Elements%20by%20Sign/2149.%20Rearrange%20Array%20Elements%20by%20Sign.java) (3 solutions) | Medium | java | 2026-10-31 |
+| 2149 | [Rearrange Array Elements by Sign](Medium/Rearrange%20Array%20Elements%20by%20Sign/2149.%20Rearrange%20Array%20Elements%20by%20Sign.java) (4 solutions) | Medium | java | 2026-11-02 |
 
-_Last updated: 2026-10-31_
+_Last updated: 2026-11-02_
