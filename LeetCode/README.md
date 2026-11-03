@@ -6,7 +6,7 @@
 
 - **Total solved:** 66
 - **Easy:** 25 &nbsp;·&nbsp; **Medium:** 37 &nbsp;·&nbsp; **Hard:** 4
-- **Current streak:** 2 day(s) &nbsp;·&nbsp; **Longest:** 6
+- **Current streak:** 3 day(s) &nbsp;·&nbsp; **Longest:** 6
 
 ## Solutions
 
@@ -44,7 +44,7 @@
 | 138 | [Copy List with Random Pointer](Medium/Copy%20List%20with%20Random%20Pointer/138.%20Copy%20List%20with%20Random%20Pointer.java) | Medium | java | 2026-07-09 |
 | 141 | [Linked List Cycle](Easy/Linked%20List%20Cycle/141.%20Linked%20List%20Cycle.java) | Easy | java | 2026-07-07 |
 | 143 | [Reorder List](Medium/Reorder%20List/143.%20Reorder%20List.java) | Medium | java | 2026-07-08 |
-| 152 | [Maximum Product Subarray](Medium/Maximum%20Product%20Subarray/152.%20Maximum%20Product%20Subarray.java) | Medium | java | 2026-10-22 |
+| 152 | [Maximum Product Subarray](Medium/Maximum%20Product%20Subarray/152.%20Maximum%20Product%20Subarray.java) (2 solutions) | Medium | java | 2026-11-04 |
 | 153 | [Find Minimum in Rotated Sorted Array](Medium/Find%20Minimum%20in%20Rotated%20Sorted%20Array/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.java) | Medium | java | 2026-09-03 |
 | 160 | [Intersection of Two Linked Lists](Easy/Intersection%20of%20Two%20Linked%20Lists/160.%20Intersection%20of%20Two%20Linked%20Lists.java) | Easy | java | 2026-07-11 |
 | 162 | [Find Peak Element](Medium/Find%20Peak%20Element/162.%20Find%20Peak%20Element.java) | Medium | java | 2026-09-08 |
@@ -74,4 +74,4 @@
 | 1552 | [Magnetic Force Between Two Balls](Medium/Magnetic%20Force%20Between%20Two%20Balls/1552.%20Magnetic%20Force%20Between%20Two%20Balls.java) | Medium | java | 2026-08-04 |
 | 2149 | [Rearrange Array Elements by Sign](Medium/Rearrange%20Array%20Elements%20by%20Sign/2149.%20Rearrange%20Array%20Elements%20by%20Sign.java) (4 solutions) | Medium | java | 2026-11-02 |
 
-_Last updated: 2026-11-03_
+_Last updated: 2026-11-04_
