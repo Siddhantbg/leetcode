@@ -8,7 +8,7 @@
 - **Time complexity:** O(n) _(auto-detected)_
 - **Space complexity:** O(1) _(auto-detected)_
 - **Runtime:** 2 ms
-- **Memory:** 46.6 MB
+- **Memory:** 46.9 MB
 
 ## Notes
 
