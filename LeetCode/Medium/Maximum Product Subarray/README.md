@@ -22,7 +22,7 @@
 
 - **Language:** java
 - **Complexity:** O(n) time · O(1) space *
-- **LeetCode:** 2 ms · 46.6 MB
+- **LeetCode:** 2 ms · 46.9 MB
 - **File:** [`152. Maximum Product Subarray.java`](solution-2/152.%20Maximum%20Product%20Subarray.java)
 - **Details:** [README](solution-2/README.md)
 
