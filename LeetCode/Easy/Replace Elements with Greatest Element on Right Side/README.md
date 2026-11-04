@@ -3,7 +3,7 @@
 - **Difficulty:** Easy
 - **Link:** [replace-elements-with-greatest-element-on-right-side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)
 - **Language(s):** java
-- **Solutions:** 3
+- **Solutions:** 4
 
 ## ⭐ Best
 
@@ -230,6 +230,15 @@ Right-side maximum problem
 - **LeetCode:** 3 ms · 48.6 MB
 - **File:** [`1299. Replace Elements with Greatest Element on Right Side.java`](solution-3/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.java)
 - **Details:** [README](solution-3/README.md)
+
+### Solution 4
+
+- **Language:** java
+- **Complexity:** O(n) time · O(1) space *
+- **Pattern:** Reverse traversal
+- **LeetCode:** 3 ms · 48.7 MB
+- **File:** [`1299. Replace Elements with Greatest Element on Right Side.java`](solution-4/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.java)
+- **Details:** [README](solution-4/README.md)
 
 <sub>* Complexity auto-detected from the code; edit it in the extension popup if it looks off.</sub>
 
