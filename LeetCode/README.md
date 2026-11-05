@@ -30,7 +30,7 @@
 | 34 | [Find First and Last Position of Element in Sorted Array](Medium/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java) | Medium | java | 2026-07-13 |
 | 35 | [Search Insert Position](Easy/Search%20Insert%20Position/35.%20Search%20Insert%20Position.java) | Easy | java | 2026-07-13 |
 | 48 | [Rotate Image](Medium/Rotate%20Image/48.%20Rotate%20Image.java) | Medium | java | 2026-10-27 |
-| 53 | [Maximum Subarray](Medium/Maximum%20Subarray/53.%20Maximum%20Subarray.java) (4 solutions) | Medium | java | 2026-11-04 |
+| 53 | [Maximum Subarray](Medium/Maximum%20Subarray/53.%20Maximum%20Subarray.java) (5 solutions) | Medium | java | 2026-11-05 |
 | 54 | [Spiral Matrix](Medium/Spiral%20Matrix/54.%20Spiral%20Matrix.java) | Medium | java | 2026-10-26 |
 | 69 | [Sqrt(x)](Easy/Sqrt(x)/69.%20Sqrt(x).java) | Easy | java | 2026-07-25 |
 | 74 | [Search a 2D Matrix](Medium/Search%20a%202D%20Matrix/74.%20Search%20a%202D%20Matrix.java) | Medium | java | 2026-09-04 |
