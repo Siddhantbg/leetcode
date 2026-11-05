@@ -3,7 +3,7 @@
 - **Difficulty:** Medium
 - **Link:** [maximum-subarray](https://leetcode.com/problems/maximum-subarray/)
 - **Language(s):** java
-- **Solutions:** 4
+- **Solutions:** 5
 
 ## ⭐ Best
 
@@ -42,6 +42,14 @@
 - **File:** [`53. Maximum Subarray.java`](solution-4/53.%20Maximum%20Subarray.java)
 - **Details:** [README](solution-4/README.md)
 
+### Solution 5
+
+- **Language:** java
+- **Complexity:** O(n) time · O(1) space *
+- **LeetCode:** 1 ms · 77.1 MB
+- **File:** [`53. Maximum Subarray.java`](solution-5/53.%20Maximum%20Subarray.java)
+- **Details:** [README](solution-5/README.md)
+
 <sub>* Complexity auto-detected from the code; edit it in the extension popup if it looks off.</sub>
 
-_Last updated: 2026-11-04_
+_Last updated: 2026-11-05_
