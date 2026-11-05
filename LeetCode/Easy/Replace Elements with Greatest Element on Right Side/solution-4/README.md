@@ -9,7 +9,7 @@
 - **Space complexity:** O(1) _(auto-detected)_
 - **Pattern:** Reverse traversal
 - **Runtime:** 3 ms
-- **Memory:** 48.7 MB
+- **Memory:** 48.5 MB
 
 ## Notes
 
