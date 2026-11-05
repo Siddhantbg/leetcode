@@ -1,6 +1,6 @@
 // 1299. Replace Elements with Greatest Element on Right Side [Easy]
 // https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
-// Language: java | Runtime: 3 ms | Memory: 48.7 MB
+// Language: java | Runtime: 3 ms | Memory: 48.5 MB
 // Time:  O(n) (auto-detected)
 // Space: O(1) (auto-detected)
 // Pattern: Reverse traversal
@@ -27,15 +27,14 @@
 
 class Solution{
     public int[]replaceElements(int[]arr){
-        int n=arr.length;
         int cur=0;
         int maxRight=-1;
-
+int n=arr.length;
         for(int i=n-1;i>=0;i--){
-           cur=arr[i];
-           arr[i]=maxRight;
-           maxRight=Math.max(maxRight,cur);
+            cur=arr[i];
+            arr[i]=maxRight;
+            maxRight=Math.max(maxRight,cur);
         }
-            return arr;
+        return arr;
     }
 }
