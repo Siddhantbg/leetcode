@@ -236,7 +236,7 @@ Right-side maximum problem
 - **Language:** java
 - **Complexity:** O(n) time · O(1) space *
 - **Pattern:** Reverse traversal
-- **LeetCode:** 3 ms · 48.7 MB
+- **LeetCode:** 3 ms · 48.5 MB
 - **File:** [`1299. Replace Elements with Greatest Element on Right Side.java`](solution-4/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.java)
 - **Details:** [README](solution-4/README.md)
 
