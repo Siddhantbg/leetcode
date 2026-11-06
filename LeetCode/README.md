@@ -31,7 +31,7 @@
 | 35 | [Search Insert Position](Easy/Search%20Insert%20Position/35.%20Search%20Insert%20Position.java) | Easy | java | 2026-07-13 |
 | 48 | [Rotate Image](Medium/Rotate%20Image/48.%20Rotate%20Image.java) | Medium | java | 2026-10-27 |
 | 53 | [Maximum Subarray](Medium/Maximum%20Subarray/53.%20Maximum%20Subarray.java) (5 solutions) | Medium | java | 2026-11-05 |
-| 54 | [Spiral Matrix](Medium/Spiral%20Matrix/54.%20Spiral%20Matrix.java) | Medium | java | 2026-10-26 |
+| 54 | [Spiral Matrix](Medium/Spiral%20Matrix/54.%20Spiral%20Matrix.java) (2 solutions) | Medium | java | 2026-11-06 |
 | 69 | [Sqrt(x)](Easy/Sqrt(x)/69.%20Sqrt(x).java) | Easy | java | 2026-07-25 |
 | 74 | [Search a 2D Matrix](Medium/Search%20a%202D%20Matrix/74.%20Search%20a%202D%20Matrix.java) | Medium | java | 2026-09-04 |
 | 75 | [Sort Colors](Medium/Sort%20Colors/75.%20Sort%20Colors.java) (2 solutions) | Medium | java | 2026-10-31 |
