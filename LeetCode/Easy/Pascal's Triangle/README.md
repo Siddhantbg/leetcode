@@ -44,10 +44,10 @@ Dont try to calculate every value using factorials, combination. The triagnle's 
 - **Language:** java
 - **Complexity:** O(m·n) time · O(n) space *
 - **Pattern:** Nested loops
-- **LeetCode:** 1 ms · 42.7 MB
+- **LeetCode:** 1 ms · 43.2 MB
 - **File:** [`118. Pascal's Triangle.java`](solution-4/118.%20Pascal's%20Triangle.java)
 - **Details:** [README](solution-4/README.md)
 
 <sub>* Complexity auto-detected from the code; edit it in the extension popup if it looks off.</sub>
 
-_Last updated: 2026-11-07_
+_Last updated: 2026-11-09_
