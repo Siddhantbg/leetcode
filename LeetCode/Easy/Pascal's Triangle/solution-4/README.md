@@ -9,10 +9,10 @@
 - **Space complexity:** O(n) _(auto-detected)_
 - **Pattern:** Nested loops
 - **Runtime:** 1 ms
-- **Memory:** 42.7 MB
+- **Memory:** 43.2 MB
 
 ## Notes
 
 —
 
-_Last updated: 2026-11-07_
+_Last updated: 2026-11-09_
