@@ -22,10 +22,10 @@
 
 - **Language:** java
 - **Complexity:** O(n) time · O(n) space *
-- **LeetCode:** 0 ms · 41.9 MB
+- **LeetCode:** 0 ms · 42.3 MB
 - **File:** [`119. Pascal's Triangle II.java`](solution-2/119.%20Pascal's%20Triangle%20II.java)
 - **Details:** [README](solution-2/README.md)
 
 <sub>* Complexity auto-detected from the code; edit it in the extension popup if it looks off.</sub>
 
-_Last updated: 2026-11-06_
+_Last updated: 2026-11-09_
