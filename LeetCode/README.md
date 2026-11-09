@@ -6,7 +6,7 @@
 
 - **Total solved:** 66
 - **Easy:** 25 &nbsp;·&nbsp; **Medium:** 37 &nbsp;·&nbsp; **Hard:** 4
-- **Current streak:** 6 day(s) &nbsp;·&nbsp; **Longest:** 6
+- **Current streak:** 1 day(s) &nbsp;·&nbsp; **Longest:** 6
 
 ## Solutions
 
@@ -25,7 +25,7 @@
 | 21 | [Merge Two Sorted Lists](Easy/Merge%20Two%20Sorted%20Lists/21.%20Merge%20Two%20Sorted%20Lists.java) | Easy | java | 2026-07-06 |
 | 25 | [Reverse Nodes in k-Group](Hard/Reverse%20Nodes%20in%20k-Group/25.%20Reverse%20Nodes%20in%20k-Group.java) | Hard | java | 2026-07-12 |
 | 26 | [Remove Duplicates from Sorted Array](Easy/Remove%20Duplicates%20from%20Sorted%20Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.java) | Easy | java | 2026-09-03 |
-| 31 | [Next Permutation](Medium/Next%20Permutation/31.%20Next%20Permutation.java) (2 solutions) | Medium | java | 2026-11-05 |
+| 31 | [Next Permutation](Medium/Next%20Permutation/31.%20Next%20Permutation.java) (3 solutions) | Medium | java | 2026-11-09 |
 | 33 | [Search in Rotated Sorted Array](Medium/Search%20in%20Rotated%20Sorted%20Array/33.%20Search%20in%20Rotated%20Sorted%20Array.java) (3 solutions) | Medium | java | 2026-07-17 |
 | 34 | [Find First and Last Position of Element in Sorted Array](Medium/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java) | Medium | java | 2026-07-13 |
 | 35 | [Search Insert Position](Easy/Search%20Insert%20Position/35.%20Search%20Insert%20Position.java) | Easy | java | 2026-07-13 |
@@ -74,4 +74,4 @@
 | 1552 | [Magnetic Force Between Two Balls](Medium/Magnetic%20Force%20Between%20Two%20Balls/1552.%20Magnetic%20Force%20Between%20Two%20Balls.java) | Medium | java | 2026-08-04 |
 | 2149 | [Rearrange Array Elements by Sign](Medium/Rearrange%20Array%20Elements%20by%20Sign/2149.%20Rearrange%20Array%20Elements%20by%20Sign.java) (4 solutions) | Medium | java | 2026-11-02 |
 
-_Last updated: 2026-11-07_
+_Last updated: 2026-11-09_
