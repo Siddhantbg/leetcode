@@ -6,7 +6,7 @@
 
 - **Total solved:** 66
 - **Easy:** 25 &nbsp;·&nbsp; **Medium:** 37 &nbsp;·&nbsp; **Hard:** 4
-- **Current streak:** 1 day(s) &nbsp;·&nbsp; **Longest:** 6
+- **Current streak:** 2 day(s) &nbsp;·&nbsp; **Longest:** 6
 
 ## Solutions
 
@@ -40,7 +40,7 @@
 | 118 | [Pascal's Triangle](Easy/Pascal's%20Triangle/solution-2/118.%20Pascal's%20Triangle.java) (4 solutions) | Easy | java | 2026-11-09 |
 | 119 | [Pascal's Triangle II](Easy/Pascal's%20Triangle%20II/119.%20Pascal's%20Triangle%20II.java) (2 solutions) | Easy | java | 2026-11-09 |
 | 125 | [Valid Palindrome](Easy/Valid%20Palindrome/125.%20Valid%20Palindrome.java) | Easy | java | 2026-09-24 |
-| 128 | [Longest Consecutive Sequence](Medium/Longest%20Consecutive%20Sequence/optimum/128.%20Longest%20Consecutive%20Sequence.java) (2 solutions) | Medium | java | 2026-10-28 |
+| 128 | [Longest Consecutive Sequence](Medium/Longest%20Consecutive%20Sequence/128.%20Longest%20Consecutive%20Sequence.java) (3 solutions) | Medium | java | 2026-11-10 |
 | 138 | [Copy List with Random Pointer](Medium/Copy%20List%20with%20Random%20Pointer/138.%20Copy%20List%20with%20Random%20Pointer.java) | Medium | java | 2026-07-09 |
 | 141 | [Linked List Cycle](Easy/Linked%20List%20Cycle/141.%20Linked%20List%20Cycle.java) | Easy | java | 2026-07-07 |
 | 143 | [Reorder List](Medium/Reorder%20List/143.%20Reorder%20List.java) | Medium | java | 2026-07-08 |
@@ -74,4 +74,4 @@
 | 1552 | [Magnetic Force Between Two Balls](Medium/Magnetic%20Force%20Between%20Two%20Balls/1552.%20Magnetic%20Force%20Between%20Two%20Balls.java) | Medium | java | 2026-08-04 |
 | 2149 | [Rearrange Array Elements by Sign](Medium/Rearrange%20Array%20Elements%20by%20Sign/2149.%20Rearrange%20Array%20Elements%20by%20Sign.java) (4 solutions) | Medium | java | 2026-11-02 |
 
-_Last updated: 2026-11-09_
+_Last updated: 2026-11-10_
