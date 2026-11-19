@@ -3,7 +3,7 @@
 - **Difficulty:** Medium
 - **Link:** [3sum](https://leetcode.com/problems/3sum/)
 - **Language(s):** java
-- **Solutions:** 3
+- **Solutions:** 4
 
 ## Solutions
 
@@ -32,6 +32,15 @@
 - **File:** [`15. 3Sum.java`](solution-3/15.%203Sum.java)
 - **Details:** [README](solution-3/README.md)
 
+### Solution 4
+
+- **Language:** java
+- **Complexity:** — time · O(n) space *
+- **Pattern:** Sliding window + Sorting
+- **LeetCode:** 35 ms · 58.8 MB
+- **File:** [`15. 3Sum.java`](solution-4/15.%203Sum.java)
+- **Details:** [README](solution-4/README.md)
+
 <sub>* Complexity auto-detected from the code; edit it in the extension popup if it looks off.</sub>
 
-_Last updated: 2026-10-31_
+_Last updated: 2026-11-19_
