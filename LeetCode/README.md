@@ -4,8 +4,8 @@
 
 ## Progress
 
-- **Total solved:** 66
-- **Easy:** 25 &nbsp;·&nbsp; **Medium:** 37 &nbsp;·&nbsp; **Hard:** 4
+- **Total solved:** 67
+- **Easy:** 25 &nbsp;·&nbsp; **Medium:** 38 &nbsp;·&nbsp; **Hard:** 4
 - **Current streak:** 1 day(s) &nbsp;·&nbsp; **Longest:** 6
 
 ## Solutions
@@ -52,6 +52,7 @@
 | 167 | [Two Sum II - Input Array Is Sorted](Medium/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.java) | Medium | java | 2026-10-16 |
 | 169 | [Majority Element](Easy/Majority%20Element/169.%20Majority%20Element.java) (3 solutions) | Easy | java | 2026-10-31 |
 | 189 | [Rotate Array](Medium/Rotate%20Array/189.%20Rotate%20Array.java) | Medium | java | 2026-09-03 |
+| 200 | [Number of Islands](Medium/Number%20of%20Islands/200.%20Number%20of%20Islands.java) | Medium | java | 2026-11-19 |
 | 205 | [Isomorphic Strings](Easy/Isomorphic%20Strings/205.%20Isomorphic%20Strings.java) | Easy | java | 2026-06-30 |
 | 206 | [Reverse Linked List](Easy/Reverse%20Linked%20List/206.%20Reverse%20Linked%20List.java) | Easy | java | 2026-07-07 |
 | 229 | [Majority Element II](Medium/Majority%20Element%20II/229.%20Majority%20Element%20II.java) (3 solutions) | Medium | java | 2026-11-03 |
