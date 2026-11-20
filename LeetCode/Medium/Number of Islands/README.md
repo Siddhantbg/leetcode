@@ -10,7 +10,7 @@
 ### Primary
 
 - **Language:** java
-- **Complexity:** — time · — space
+- **Complexity:** O(m*n) time · O(m*n) space
 - **Pattern:** DFS
 - **LeetCode:** 3 ms · 51.9 MB
 - **File:** [`200. Number of Islands.java`](200.%20Number%20of%20Islands.java)
