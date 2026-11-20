@@ -39,4 +39,4 @@
 
 <sub>* Complexity auto-detected from the code; edit it in the extension popup if it looks off.</sub>
 
-_Last updated: 2026-11-19_
+_Last updated: 2026-11-20_
