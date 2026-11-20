@@ -1,8 +1,9 @@
 // 200. Number of Islands [Medium]
 // https://leetcode.com/problems/number-of-islands/
 // Language: java | Runtime: 3 ms | Memory: 51.9 MB
+// Time:  O(m*n)
+// Space: O(m*n)
 // Pattern: DFS
-// Tags: Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix
 // Synced: 2026-11-19
 
 class Solution {
