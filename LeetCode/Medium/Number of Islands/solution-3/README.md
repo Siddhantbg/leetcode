@@ -9,7 +9,7 @@
 - **Space complexity:** —
 - **Pattern:** DFS
 - **Runtime:** 3 ms
-- **Memory:** 52.1 MB
+- **Memory:** 52.2 MB
 
 ## Notes
 
