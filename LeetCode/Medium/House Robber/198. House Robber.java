@@ -1,8 +1,9 @@
 // 198. House Robber [Medium]
 // https://leetcode.com/problems/house-robber/
 // Language: java | Runtime: 0 ms | Memory: 42.2 MB
+// Time:  O(n)
+// Space: O(n)
 // Pattern: Memoization
-// Tags: Array, Dynamic Programming
 // Synced: 2026-11-20
 
 class Solution {
