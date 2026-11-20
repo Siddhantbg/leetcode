@@ -4,8 +4,8 @@
 
 ## Progress
 
-- **Total solved:** 67
-- **Easy:** 25 &nbsp;·&nbsp; **Medium:** 38 &nbsp;·&nbsp; **Hard:** 4
+- **Total solved:** 68
+- **Easy:** 25 &nbsp;·&nbsp; **Medium:** 39 &nbsp;·&nbsp; **Hard:** 4
 - **Current streak:** 2 day(s) &nbsp;·&nbsp; **Longest:** 6
 
 ## Solutions
@@ -68,6 +68,7 @@
 | 704 | [Binary Search](Easy/Binary%20Search/704.%20Binary%20Search.java) | Easy | java | 2026-07-12 |
 | 875 | [Koko Eating Bananas](Medium/Koko%20Eating%20Bananas/875.%20Koko%20Eating%20Bananas.java) | Medium | java | 2026-08-18 |
 | 876 | [Middle of the Linked List](Easy/Middle%20of%20the%20Linked%20List/876.%20Middle%20of%20the%20Linked%20List.java) | Easy | java | 2026-07-07 |
+| 994 | [Rotting Oranges](Medium/Rotting%20Oranges/994.%20Rotting%20Oranges.java) | Medium | java | 2026-11-20 |
 | 1047 | [Remove All Adjacent Duplicates In String](Easy/Remove%20All%20Adjacent%20Duplicates%20In%20String/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.java) | Easy | java | 2026-09-11 |
 | 1283 | [Find the Smallest Divisor Given a Threshold](Medium/Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold/1283.%20Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold.java) | Medium | java | 2026-07-25 |
 | 1299 | [Replace Elements with Greatest Element on Right Side](Easy/Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.java) (4 solutions) | Easy | java | 2026-11-05 |
