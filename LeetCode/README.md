@@ -4,8 +4,8 @@
 
 ## Progress
 
-- **Total solved:** 68
-- **Easy:** 25 &nbsp;·&nbsp; **Medium:** 39 &nbsp;·&nbsp; **Hard:** 4
+- **Total solved:** 69
+- **Easy:** 25 &nbsp;·&nbsp; **Medium:** 40 &nbsp;·&nbsp; **Hard:** 4
 - **Current streak:** 2 day(s) &nbsp;·&nbsp; **Longest:** 6
 
 ## Solutions
@@ -58,6 +58,7 @@
 | 229 | [Majority Element II](Medium/Majority%20Element%20II/229.%20Majority%20Element%20II.java) (3 solutions) | Medium | java | 2026-11-03 |
 | 234 | [Palindrome Linked List](Easy/Palindrome%20Linked%20List/234.%20Palindrome%20Linked%20List.java) | Easy | java | 2026-07-07 |
 | 240 | [Search a 2D Matrix II](Medium/Search%20a%202D%20Matrix%20II/240.%20Search%20a%202D%20Matrix%20II.java) | Medium | java | 2026-09-05 |
+| 347 | [Top K Frequent Elements](Medium/Top%20K%20Frequent%20Elements/347.%20Top%20K%20Frequent%20Elements.java) | Medium | java | 2026-11-20 |
 | 394 | [Decode String](Medium/Decode%20String/394.%20Decode%20String.java) | Medium | java | 2026-06-29 |
 | 410 | [Split Array Largest Sum](Hard/Split%20Array%20Largest%20Sum/410.%20Split%20Array%20Largest%20Sum.java) | Hard | java | 2026-08-05 |
 | 493 | [Reverse Pairs](Hard/Reverse%20Pairs/493.%20Reverse%20Pairs.java) | Hard | java | 2026-10-30 |
