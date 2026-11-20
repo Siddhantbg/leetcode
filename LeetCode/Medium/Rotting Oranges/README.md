@@ -7,8 +7,8 @@
 - **Time complexity:** —
 - **Space complexity:** O(n) _(auto-detected)_
 - **Pattern:** BFS
-- **Runtime:** 2 ms
-- **Memory:** 44 MB
+- **Runtime:** 3 ms
+- **Memory:** 43.8 MB
 
 ## Notes
 
