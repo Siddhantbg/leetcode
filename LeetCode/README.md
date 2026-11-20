@@ -4,8 +4,8 @@
 
 ## Progress
 
-- **Total solved:** 69
-- **Easy:** 25 &nbsp;·&nbsp; **Medium:** 40 &nbsp;·&nbsp; **Hard:** 4
+- **Total solved:** 70
+- **Easy:** 25 &nbsp;·&nbsp; **Medium:** 41 &nbsp;·&nbsp; **Hard:** 4
 - **Current streak:** 2 day(s) &nbsp;·&nbsp; **Longest:** 6
 
 ## Solutions
@@ -14,6 +14,7 @@
 | --: | :--- | :---: | :--- | :--- |
 | 1 | [Two Sum](Easy/Two%20Sum/1.%20Two%20Sum.java) (3 solutions) | Easy | java | 2026-11-20 |
 | 2 | [Add Two Numbers](Medium/Add%20Two%20Numbers/2.%20Add%20Two%20Numbers.java) | Medium | java | 2026-10-11 |
+| 3 | [Longest Substring Without Repeating Characters](Medium/Longest%20Substring%20Without%20Repeating%20Characters/3.%20Longest%20Substring%20Without%20Repeating%20Characters.java) | Medium | java | 2026-11-20 |
 | 4 | [Median of Two Sorted Arrays](Hard/Median%20of%20Two%20Sorted%20Arrays/4.%20Median%20of%20Two%20Sorted%20Arrays.java) | Hard | java | 2026-08-08 |
 | 6 | [Zigzag Conversion](Medium/Zigzag%20Conversion/6.%20Zigzag%20Conversion.java) | Medium | java | 2026-10-07 |
 | 8 | [String to Integer (atoi)](Medium/String%20to%20Integer%20(atoi)/8.%20String%20to%20Integer%20(atoi).java) | Medium | java | 2026-06-29 |
