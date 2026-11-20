@@ -1,9 +1,9 @@
 // 347. Top K Frequent Elements [Medium]
 // https://leetcode.com/problems/top-k-frequent-elements/
 // Language: java | Runtime: 16 ms | Memory: 47 MB
+// Time:  O(n log k)
 // Space: O(n) (auto-detected)
 // Pattern: Heap + Hash map
-// Tags: Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect
 // Synced: 2026-11-20
 
 class Solution {
