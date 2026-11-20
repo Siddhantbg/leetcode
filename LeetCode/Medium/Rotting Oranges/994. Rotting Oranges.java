@@ -1,9 +1,9 @@
 // 994. Rotting Oranges [Medium]
 // https://leetcode.com/problems/rotting-oranges/
 // Language: java | Runtime: 3 ms | Memory: 43.8 MB
-// Space: O(n) (auto-detected)
+// Time:  O(m*n)
+// Space: O(m*n)
 // Pattern: BFS
-// Tags: Array, Breadth-First Search, Matrix
 // Synced: 2026-11-20
 
 //same level guys 
