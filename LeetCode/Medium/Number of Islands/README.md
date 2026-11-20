@@ -29,7 +29,7 @@
 - **Language:** java
 - **Complexity:** — time · — space
 - **Pattern:** DFS
-- **LeetCode:** 3 ms · 52.1 MB
+- **LeetCode:** 3 ms · 52.2 MB
 - **File:** [`200. Number of Islands.java`](solution-3/200.%20Number%20of%20Islands.java)
 - **Details:** [README](solution-3/README.md)
 
