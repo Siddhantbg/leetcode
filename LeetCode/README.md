@@ -6,7 +6,7 @@
 
 - **Total solved:** 67
 - **Easy:** 25 &nbsp;·&nbsp; **Medium:** 38 &nbsp;·&nbsp; **Hard:** 4
-- **Current streak:** 1 day(s) &nbsp;·&nbsp; **Longest:** 6
+- **Current streak:** 2 day(s) &nbsp;·&nbsp; **Longest:** 6
 
 ## Solutions
 
@@ -52,7 +52,7 @@
 | 167 | [Two Sum II - Input Array Is Sorted](Medium/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.java) | Medium | java | 2026-10-16 |
 | 169 | [Majority Element](Easy/Majority%20Element/169.%20Majority%20Element.java) (3 solutions) | Easy | java | 2026-10-31 |
 | 189 | [Rotate Array](Medium/Rotate%20Array/189.%20Rotate%20Array.java) | Medium | java | 2026-09-03 |
-| 200 | [Number of Islands](Medium/Number%20of%20Islands/200.%20Number%20of%20Islands.java) | Medium | java | 2026-11-19 |
+| 200 | [Number of Islands](Medium/Number%20of%20Islands/200.%20Number%20of%20Islands.java) (2 solutions) | Medium | java | 2026-11-20 |
 | 205 | [Isomorphic Strings](Easy/Isomorphic%20Strings/205.%20Isomorphic%20Strings.java) | Easy | java | 2026-06-30 |
 | 206 | [Reverse Linked List](Easy/Reverse%20Linked%20List/206.%20Reverse%20Linked%20List.java) | Easy | java | 2026-07-07 |
 | 229 | [Majority Element II](Medium/Majority%20Element%20II/229.%20Majority%20Element%20II.java) (3 solutions) | Medium | java | 2026-11-03 |
@@ -75,4 +75,4 @@
 | 1552 | [Magnetic Force Between Two Balls](Medium/Magnetic%20Force%20Between%20Two%20Balls/1552.%20Magnetic%20Force%20Between%20Two%20Balls.java) | Medium | java | 2026-08-04 |
 | 2149 | [Rearrange Array Elements by Sign](Medium/Rearrange%20Array%20Elements%20by%20Sign/2149.%20Rearrange%20Array%20Elements%20by%20Sign.java) (4 solutions) | Medium | java | 2026-11-02 |
 
-_Last updated: 2026-11-19_
+_Last updated: 2026-11-20_
