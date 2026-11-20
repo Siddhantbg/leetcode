@@ -3,7 +3,7 @@
 - **Difficulty:** Medium
 - **Link:** [number-of-islands](https://leetcode.com/problems/number-of-islands/)
 - **Language(s):** java
-- **Solutions:** 2
+- **Solutions:** 3
 
 ## Solutions
 
@@ -24,4 +24,13 @@
 - **File:** [`200. Number of Islands.java`](solution-2/200.%20Number%20of%20Islands.java)
 - **Details:** [README](solution-2/README.md)
 
-_Last updated: 2026-11-20_
+### Solution 3
+
+- **Language:** java
+- **Complexity:** — time · — space
+- **Pattern:** DFS
+- **LeetCode:** 3 ms · 52.1 MB
+- **File:** [`200. Number of Islands.java`](solution-3/200.%20Number%20of%20Islands.java)
+- **Details:** [README](solution-3/README.md)
+
+_Last updated: 2026-11-21_
