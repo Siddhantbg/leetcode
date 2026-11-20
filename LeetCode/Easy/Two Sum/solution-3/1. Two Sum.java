@@ -5,10 +5,10 @@
 // Space: O(n) (auto-detected)
 // Pattern: Hash map
 // Tags: Array, Hash Table
-// Synced: 2026-11-19
+// Synced: 2026-11-20
 
 class Solution {
-    public int[] twoSum(int[] nums, int target) {
+    public int[]twoSum(int[] nums, int target) {
         
         HashMap<Integer,Integer> map=new HashMap<>();
 
