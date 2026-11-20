@@ -1,9 +1,9 @@
 // 3. Longest Substring Without Repeating Characters [Medium]
 // https://leetcode.com/problems/longest-substring-without-repeating-characters/
 // Language: java | Runtime: 62 ms | Memory: 47.7 MB
+// Time:  O(n)
 // Space: O(n) (auto-detected)
 // Pattern: Sliding window + Hash set
-// Tags: Hash Table, String, Sliding Window
 // Synced: 2026-11-20
 
 class Solution {
