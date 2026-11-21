@@ -9,7 +9,7 @@
 - **Space complexity:** O(1) _(auto-detected)_
 - **Pattern:** Binary search
 - **Runtime:** 0 ms
-- **Memory:** 43.5 MB
+- **Memory:** 43.2 MB
 
 ## Notes
 
