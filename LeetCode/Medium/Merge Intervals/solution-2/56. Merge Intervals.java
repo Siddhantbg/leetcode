@@ -2,8 +2,8 @@
 // https://leetcode.com/problems/merge-intervals/
 // Language: java | Runtime: 8 ms | Memory: 48.9 MB
 // Time:  O(n log n) (auto-detected)
+// Space: O(n)
 // Pattern: Sorting
-// Tags: Array, Sorting, Quicksort
 // Synced: 2026-11-21
 
 class Solution {
