@@ -4,8 +4,8 @@
 
 ## Progress
 
-- **Total solved:** 71
-- **Easy:** 25 &nbsp;·&nbsp; **Medium:** 42 &nbsp;·&nbsp; **Hard:** 4
+- **Total solved:** 72
+- **Easy:** 26 &nbsp;·&nbsp; **Medium:** 42 &nbsp;·&nbsp; **Hard:** 4
 - **Current streak:** 3 day(s) &nbsp;·&nbsp; **Longest:** 6
 
 ## Solutions
@@ -65,6 +65,7 @@
 | 410 | [Split Array Largest Sum](Hard/Split%20Array%20Largest%20Sum/410.%20Split%20Array%20Largest%20Sum.java) | Hard | java | 2026-08-05 |
 | 493 | [Reverse Pairs](Hard/Reverse%20Pairs/493.%20Reverse%20Pairs.java) | Hard | java | 2026-10-30 |
 | 540 | [Single Element in a Sorted Array](Medium/Single%20Element%20in%20a%20Sorted%20Array/540.%20Single%20Element%20in%20a%20Sorted%20Array.java) (2 solutions) | Medium | java | 2026-08-17 |
+| 543 | [Diameter of Binary Tree](Easy/Diameter%20of%20Binary%20Tree/543.%20Diameter%20of%20Binary%20Tree.java) | Easy | java | 2026-11-21 |
 | 560 | [Subarray Sum Equals K](Medium/Subarray%20Sum%20Equals%20K/560.%20Subarray%20Sum%20Equals%20K.java) (2 solutions) | Medium | java | 2026-11-07 |
 | 645 | [Set Mismatch](Easy/Set%20Mismatch/solution-3/645.%20Set%20Mismatch.java) (3 solutions) | Easy | java | 2026-10-29 |
 | 680 | [Valid Palindrome II](Easy/Valid%20Palindrome%20II/680.%20Valid%20Palindrome%20II.java) | Easy | java | 2026-06-30 |
