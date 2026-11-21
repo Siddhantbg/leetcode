@@ -7,14 +7,14 @@
 
 ## ⭐ Best
 
-**Optimal** (java) — O(n log n) time · — space
+**Optimal** (java) — O(n log n) time · O(n) space
 
 ## Solutions
 
 ### ⭐ Optimal
 
 - **Language:** java
-- **Complexity:** O(n log n) time · — space *
+- **Complexity:** O(n log n) time · O(n) space *
 - **Pattern:** Sorting
 - **LeetCode:** 8 ms · 48.9 MB
 - **File:** [`56. Merge Intervals.java`](solution-2/56.%20Merge%20Intervals.java)
