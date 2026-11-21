@@ -1,9 +1,9 @@
 // 210. Course Schedule II [Medium]
 // https://leetcode.com/problems/course-schedule-ii/
 // Language: java | Runtime: 5 ms | Memory: 46.1 MB
-// Space: O(n) (auto-detected)
+// Time:  O(V+E)
+// Space: O(V+E)
 // Pattern: BFS
-// Tags: Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort
 // Synced: 2026-11-22
 
 class Solution {
