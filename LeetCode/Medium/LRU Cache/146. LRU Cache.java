@@ -1,8 +1,9 @@
 // 146. LRU Cache [Medium]
 // https://leetcode.com/problems/lru-cache/
 // Language: java | Runtime: 17 ms | Memory: 58.4 MB
+// Time:  O(1)
+// Space: O(capacity)
 // Pattern: Hash map + Recursion
-// Tags: Hash Table, Linked List, Design, Doubly-Linked List
 // Synced: 2026-11-21
 
 class LRUCache {
