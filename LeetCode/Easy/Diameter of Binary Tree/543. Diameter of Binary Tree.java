@@ -1,8 +1,9 @@
 // 543. Diameter of Binary Tree [Easy]
 // https://leetcode.com/problems/diameter-of-binary-tree/
 // Language: java | Runtime: 1 ms | Memory: 47.3 MB
+// Time:  O(n)
+// Space: O(h)
 // Pattern: DFS
-// Tags: Tree, Depth-First Search, Binary Tree, DP on Trees
 // Synced: 2026-11-21
 
 /**
