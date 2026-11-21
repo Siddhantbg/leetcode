@@ -1,10 +1,9 @@
 // 1011. Capacity To Ship Packages Within D Days [Medium]
 // https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
 // Language: java | Runtime: 10 ms | Memory: 49.6 MB
-// Time:  O(n log n) (auto-detected)
+// Time:  O(n log(sum-max))
 // Space: O(1) (auto-detected)
 // Pattern: Binary search
-// Tags: Array, Binary Search
 // Synced: 2026-11-21
 
 class Solution {
