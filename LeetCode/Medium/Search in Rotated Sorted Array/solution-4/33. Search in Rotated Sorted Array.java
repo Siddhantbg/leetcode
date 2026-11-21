@@ -1,6 +1,6 @@
 // 33. Search in Rotated Sorted Array [Medium]
 // https://leetcode.com/problems/search-in-rotated-sorted-array/
-// Language: java | Runtime: 0 ms | Memory: 43.5 MB
+// Language: java | Runtime: 0 ms | Memory: 43.2 MB
 // Time:  O(log n) (auto-detected)
 // Space: O(1) (auto-detected)
 // Pattern: Binary search
@@ -21,7 +21,7 @@ class Solution {
             }
             
             if(nums[low]<=nums[mid]){
-                if(nums[low]<=target && target<nums[mid]){
+                if(nums[low]<=target && target<=nums[mid]){
                                         high=mid-1;
 
                 }else{
@@ -30,7 +30,7 @@ class Solution {
                 }
 
             }else{
-                    if(nums[mid]<target && target<=nums[high]){
+                    if(nums[mid]<=target && target<=nums[high]){
                                                 low=mid+1;
 
                     }else{
