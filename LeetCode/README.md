@@ -4,8 +4,8 @@
 
 ## Progress
 
-- **Total solved:** 72
-- **Easy:** 26 &nbsp;·&nbsp; **Medium:** 42 &nbsp;·&nbsp; **Hard:** 4
+- **Total solved:** 73
+- **Easy:** 26 &nbsp;·&nbsp; **Medium:** 43 &nbsp;·&nbsp; **Hard:** 4
 - **Current streak:** 3 day(s) &nbsp;·&nbsp; **Longest:** 6
 
 ## Solutions
@@ -59,6 +59,7 @@
 | 206 | [Reverse Linked List](Easy/Reverse%20Linked%20List/206.%20Reverse%20Linked%20List.java) | Easy | java | 2026-07-07 |
 | 229 | [Majority Element II](Medium/Majority%20Element%20II/229.%20Majority%20Element%20II.java) (3 solutions) | Medium | java | 2026-11-03 |
 | 234 | [Palindrome Linked List](Easy/Palindrome%20Linked%20List/234.%20Palindrome%20Linked%20List.java) | Easy | java | 2026-07-07 |
+| 236 | [Lowest Common Ancestor of a Binary Tree](Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.java) | Medium | java | 2026-11-21 |
 | 240 | [Search a 2D Matrix II](Medium/Search%20a%202D%20Matrix%20II/240.%20Search%20a%202D%20Matrix%20II.java) | Medium | java | 2026-09-05 |
 | 347 | [Top K Frequent Elements](Medium/Top%20K%20Frequent%20Elements/347.%20Top%20K%20Frequent%20Elements.java) | Medium | java | 2026-11-20 |
 | 394 | [Decode String](Medium/Decode%20String/394.%20Decode%20String.java) | Medium | java | 2026-06-29 |
