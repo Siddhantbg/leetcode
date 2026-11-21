@@ -71,7 +71,7 @@
 | 645 | [Set Mismatch](Easy/Set%20Mismatch/solution-3/645.%20Set%20Mismatch.java) (3 solutions) | Easy | java | 2026-10-29 |
 | 680 | [Valid Palindrome II](Easy/Valid%20Palindrome%20II/680.%20Valid%20Palindrome%20II.java) | Easy | java | 2026-06-30 |
 | 704 | [Binary Search](Easy/Binary%20Search/704.%20Binary%20Search.java) | Easy | java | 2026-07-12 |
-| 875 | [Koko Eating Bananas](Medium/Koko%20Eating%20Bananas/875.%20Koko%20Eating%20Bananas.java) | Medium | java | 2026-08-18 |
+| 875 | [Koko Eating Bananas](Medium/Koko%20Eating%20Bananas/875.%20Koko%20Eating%20Bananas.java) (2 solutions) | Medium | java | 2026-11-21 |
 | 876 | [Middle of the Linked List](Easy/Middle%20of%20the%20Linked%20List/876.%20Middle%20of%20the%20Linked%20List.java) | Easy | java | 2026-07-07 |
 | 994 | [Rotting Oranges](Medium/Rotting%20Oranges/994.%20Rotting%20Oranges.java) | Medium | java | 2026-11-20 |
 | 1047 | [Remove All Adjacent Duplicates In String](Easy/Remove%20All%20Adjacent%20Duplicates%20In%20String/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.java) | Easy | java | 2026-09-11 |
