@@ -4,8 +4,8 @@
 
 ## Progress
 
-- **Total solved:** 75
-- **Easy:** 26 &nbsp;·&nbsp; **Medium:** 45 &nbsp;·&nbsp; **Hard:** 4
+- **Total solved:** 76
+- **Easy:** 26 &nbsp;·&nbsp; **Medium:** 46 &nbsp;·&nbsp; **Hard:** 4
 - **Current streak:** 3 day(s) &nbsp;·&nbsp; **Longest:** 6
 
 ## Solutions
@@ -46,6 +46,7 @@
 | 138 | [Copy List with Random Pointer](Medium/Copy%20List%20with%20Random%20Pointer/138.%20Copy%20List%20with%20Random%20Pointer.java) | Medium | java | 2026-07-09 |
 | 141 | [Linked List Cycle](Easy/Linked%20List%20Cycle/141.%20Linked%20List%20Cycle.java) | Easy | java | 2026-07-07 |
 | 143 | [Reorder List](Medium/Reorder%20List/143.%20Reorder%20List.java) | Medium | java | 2026-07-08 |
+| 146 | [LRU Cache](Medium/LRU%20Cache/146.%20LRU%20Cache.java) | Medium | java | 2026-11-21 |
 | 152 | [Maximum Product Subarray](Medium/Maximum%20Product%20Subarray/152.%20Maximum%20Product%20Subarray.java) (3 solutions) | Medium | java | 2026-11-05 |
 | 153 | [Find Minimum in Rotated Sorted Array](Medium/Find%20Minimum%20in%20Rotated%20Sorted%20Array/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.java) | Medium | java | 2026-09-03 |
 | 160 | [Intersection of Two Linked Lists](Easy/Intersection%20of%20Two%20Linked%20Lists/160.%20Intersection%20of%20Two%20Linked%20Lists.java) | Easy | java | 2026-07-11 |
