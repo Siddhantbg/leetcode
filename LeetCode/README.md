@@ -4,9 +4,9 @@
 
 ## Progress
 
-- **Total solved:** 76
-- **Easy:** 26 &nbsp;·&nbsp; **Medium:** 46 &nbsp;·&nbsp; **Hard:** 4
-- **Current streak:** 3 day(s) &nbsp;·&nbsp; **Longest:** 6
+- **Total solved:** 77
+- **Easy:** 26 &nbsp;·&nbsp; **Medium:** 47 &nbsp;·&nbsp; **Hard:** 4
+- **Current streak:** 4 day(s) &nbsp;·&nbsp; **Longest:** 6
 
 ## Solutions
 
@@ -59,6 +59,7 @@
 | 200 | [Number of Islands](Medium/Number%20of%20Islands/200.%20Number%20of%20Islands.java) (3 solutions) | Medium | java | 2026-11-21 |
 | 205 | [Isomorphic Strings](Easy/Isomorphic%20Strings/205.%20Isomorphic%20Strings.java) | Easy | java | 2026-06-30 |
 | 206 | [Reverse Linked List](Easy/Reverse%20Linked%20List/206.%20Reverse%20Linked%20List.java) | Easy | java | 2026-07-07 |
+| 210 | [Course Schedule II](Medium/Course%20Schedule%20II/210.%20Course%20Schedule%20II.java) | Medium | java | 2026-11-22 |
 | 229 | [Majority Element II](Medium/Majority%20Element%20II/229.%20Majority%20Element%20II.java) (3 solutions) | Medium | java | 2026-11-03 |
 | 234 | [Palindrome Linked List](Easy/Palindrome%20Linked%20List/234.%20Palindrome%20Linked%20List.java) | Easy | java | 2026-07-07 |
 | 236 | [Lowest Common Ancestor of a Binary Tree](Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.java) | Medium | java | 2026-11-21 |
@@ -84,4 +85,4 @@
 | 1552 | [Magnetic Force Between Two Balls](Medium/Magnetic%20Force%20Between%20Two%20Balls/1552.%20Magnetic%20Force%20Between%20Two%20Balls.java) | Medium | java | 2026-08-04 |
 | 2149 | [Rearrange Array Elements by Sign](Medium/Rearrange%20Array%20Elements%20by%20Sign/2149.%20Rearrange%20Array%20Elements%20by%20Sign.java) (4 solutions) | Medium | java | 2026-11-02 |
 
-_Last updated: 2026-11-21_
+_Last updated: 2026-11-22_
