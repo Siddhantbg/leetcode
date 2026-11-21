@@ -6,7 +6,7 @@
 - **Language:** java
 - **File:** [`56. Merge Intervals.java`](56.%20Merge%20Intervals.java)
 - **Time complexity:** O(n log n) _(auto-detected)_
-- **Space complexity:** —
+- **Space complexity:** O(n)
 - **Pattern:** Sorting
 - **Runtime:** 8 ms
 - **Memory:** 48.9 MB
