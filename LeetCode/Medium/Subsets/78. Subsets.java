@@ -1,9 +1,12 @@
 // 78. Subsets [Medium]
 // https://leetcode.com/problems/subsets/
 // Language: java | Runtime: 1 ms | Memory: 43.5 MB
+// Time:  O(2^n*n)
+// Space: O(n)
 // Pattern: Recursion
-// Tags: Array, Backtracking, Bit Manipulation
 // Synced: 2026-11-22
+//
+// including input and output sc will be O(2^n*n)
 
 class Solution {
 
