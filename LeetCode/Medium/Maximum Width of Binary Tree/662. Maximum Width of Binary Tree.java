@@ -1,9 +1,9 @@
 // 662. Maximum Width of Binary Tree [Medium]
 // https://leetcode.com/problems/maximum-width-of-binary-tree/
 // Language: java | Runtime: 2 ms | Memory: 44.7 MB
+// Time:  O(n)
 // Space: O(n) (auto-detected)
 // Pattern: BFS
-// Tags: Tree, Depth-First Search, Breadth-First Search, Binary Tree
 // Synced: 2026-11-22
 
 class Solution {
