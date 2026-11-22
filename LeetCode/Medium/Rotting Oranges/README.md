@@ -7,11 +7,11 @@
 - **Time complexity:** O(m*n)
 - **Space complexity:** O(m*n)
 - **Pattern:** BFS
-- **Runtime:** 3 ms
-- **Memory:** 43.8 MB
+- **Runtime:** 2 ms
+- **Memory:** 43.3 MB
 
 ## Notes
 
 —
 
-_Last updated: 2026-11-20_
+_Last updated: 2026-11-22_
