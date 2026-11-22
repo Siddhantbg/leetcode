@@ -7,11 +7,11 @@
 - **Time complexity:** O(n log k)
 - **Space complexity:** O(n) _(auto-detected)_
 - **Pattern:** Heap + Hash map
-- **Runtime:** 16 ms
-- **Memory:** 47 MB
+- **Runtime:** 15 ms
+- **Memory:** 46.7 MB
 
 ## Notes
 
 —
 
-_Last updated: 2026-11-20_
+_Last updated: 2026-11-22_
