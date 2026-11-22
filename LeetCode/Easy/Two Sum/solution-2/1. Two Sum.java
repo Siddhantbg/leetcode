@@ -5,22 +5,20 @@
 // Space: O(n) (auto-detected)
 // Pattern: Hash map
 // Tags: Array, Hash Table
-// Synced: 2026-11-20
+// Synced: 2026-11-22
 
-import java.util.*;
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        HashMap<Integer,Integer> map=new HashMap<>();
 
-class Solution{
-    public int []twoSum(int nums[], int target){
-           int n=nums.length;
-           HashMap<Integer,Integer> map=new HashMap<>();
-       for(int i=0;i<n;i++){
-             int need=target-nums[i];
-             
-             if(map.containsKey(need)){
-                  return new int[]{map.get(need),i};
+    for(int i=0;i<nums.length;i++){
+            int need=target-nums[i];
+            
+        if(map.containsKey(need)){
+            return new int[]{map.get(need),i};    
             }
-            map.put(nums[i],i);               
-       }
-       return new int[]{-1,-1};
-    }   
+        map.put(nums[i],i);        
+    }
+    return new int[]{-1,-1};
+    }
 }
