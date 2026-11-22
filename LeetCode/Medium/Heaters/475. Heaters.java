@@ -1,10 +1,9 @@
 // 475. Heaters [Medium]
 // https://leetcode.com/problems/heaters/
 // Language: java | Runtime: 18 ms | Memory: 47.4 MB
-// Time:  O(n log n) (auto-detected)
+// Time:  O(m logm + nlogn m)
 // Space: O(1) (auto-detected)
 // Pattern: Binary search + Sorting
-// Tags: Array, Two Pointers, Binary Search, Sorting
 // Synced: 2026-11-22
 
 class Solution {
