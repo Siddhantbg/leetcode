@@ -4,8 +4,8 @@
 
 ## Progress
 
-- **Total solved:** 79
-- **Easy:** 26 &nbsp;·&nbsp; **Medium:** 49 &nbsp;·&nbsp; **Hard:** 4
+- **Total solved:** 80
+- **Easy:** 26 &nbsp;·&nbsp; **Medium:** 50 &nbsp;·&nbsp; **Hard:** 4
 - **Current streak:** 4 day(s) &nbsp;·&nbsp; **Longest:** 6
 
 ## Solutions
@@ -76,6 +76,7 @@
 | 662 | [Maximum Width of Binary Tree](Medium/Maximum%20Width%20of%20Binary%20Tree/662.%20Maximum%20Width%20of%20Binary%20Tree.java) | Medium | java | 2026-11-22 |
 | 680 | [Valid Palindrome II](Easy/Valid%20Palindrome%20II/680.%20Valid%20Palindrome%20II.java) | Easy | java | 2026-06-30 |
 | 704 | [Binary Search](Easy/Binary%20Search/704.%20Binary%20Search.java) | Easy | java | 2026-07-12 |
+| 735 | [Asteroid Collision](Medium/Asteroid%20Collision/735.%20Asteroid%20Collision.java) | Medium | java | 2026-11-22 |
 | 875 | [Koko Eating Bananas](Medium/Koko%20Eating%20Bananas/875.%20Koko%20Eating%20Bananas.java) (2 solutions) | Medium | java | 2026-11-21 |
 | 876 | [Middle of the Linked List](Easy/Middle%20of%20the%20Linked%20List/876.%20Middle%20of%20the%20Linked%20List.java) | Easy | java | 2026-07-07 |
 | 994 | [Rotting Oranges](Medium/Rotting%20Oranges/994.%20Rotting%20Oranges.java) | Medium | java | 2026-11-20 |
