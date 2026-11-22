@@ -4,8 +4,8 @@
 - **Link:** [coin-change](https://leetcode.com/problems/coin-change/)
 - **Language:** java
 - **File:** [`322. Coin Change.java`](322.%20Coin%20Change.java)
-- **Time complexity:** —
-- **Space complexity:** —
+- **Time complexity:** O(amount*k)
+- **Space complexity:** O(amount)
 - **Pattern:** Memoization
 - **Runtime:** 28 ms
 - **Memory:** 46.7 MB
