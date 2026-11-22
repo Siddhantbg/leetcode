@@ -7,8 +7,8 @@
 - **Time complexity:** O(V+E)
 - **Space complexity:** O(V+E)
 - **Pattern:** BFS
-- **Runtime:** 5 ms
-- **Memory:** 46.1 MB
+- **Runtime:** 6 ms
+- **Memory:** 46.2 MB
 
 ## Notes
 
