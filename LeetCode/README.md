@@ -4,8 +4,8 @@
 
 ## Progress
 
-- **Total solved:** 83
-- **Easy:** 26 &nbsp;·&nbsp; **Medium:** 53 &nbsp;·&nbsp; **Hard:** 4
+- **Total solved:** 84
+- **Easy:** 26 &nbsp;·&nbsp; **Medium:** 54 &nbsp;·&nbsp; **Hard:** 4
 - **Current streak:** 4 day(s) &nbsp;·&nbsp; **Longest:** 6
 
 ## Solutions
@@ -72,6 +72,7 @@
 | 410 | [Split Array Largest Sum](Hard/Split%20Array%20Largest%20Sum/410.%20Split%20Array%20Largest%20Sum.java) | Hard | java | 2026-08-05 |
 | 475 | [Heaters](Medium/Heaters/475.%20Heaters.java) | Medium | java | 2026-11-22 |
 | 493 | [Reverse Pairs](Hard/Reverse%20Pairs/493.%20Reverse%20Pairs.java) | Hard | java | 2026-10-30 |
+| 518 | [Coin Change II](Medium/Coin%20Change%20II/518.%20Coin%20Change%20II.java) | Medium | java | 2026-11-22 |
 | 540 | [Single Element in a Sorted Array](Medium/Single%20Element%20in%20a%20Sorted%20Array/540.%20Single%20Element%20in%20a%20Sorted%20Array.java) (2 solutions) | Medium | java | 2026-08-17 |
 | 543 | [Diameter of Binary Tree](Easy/Diameter%20of%20Binary%20Tree/543.%20Diameter%20of%20Binary%20Tree.java) | Easy | java | 2026-11-21 |
 | 560 | [Subarray Sum Equals K](Medium/Subarray%20Sum%20Equals%20K/560.%20Subarray%20Sum%20Equals%20K.java) (2 solutions) | Medium | java | 2026-11-07 |
