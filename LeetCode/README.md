@@ -4,8 +4,8 @@
 
 ## Progress
 
-- **Total solved:** 77
-- **Easy:** 26 &nbsp;·&nbsp; **Medium:** 47 &nbsp;·&nbsp; **Hard:** 4
+- **Total solved:** 78
+- **Easy:** 26 &nbsp;·&nbsp; **Medium:** 48 &nbsp;·&nbsp; **Hard:** 4
 - **Current streak:** 4 day(s) &nbsp;·&nbsp; **Longest:** 6
 
 ## Solutions
@@ -72,6 +72,7 @@
 | 543 | [Diameter of Binary Tree](Easy/Diameter%20of%20Binary%20Tree/543.%20Diameter%20of%20Binary%20Tree.java) | Easy | java | 2026-11-21 |
 | 560 | [Subarray Sum Equals K](Medium/Subarray%20Sum%20Equals%20K/560.%20Subarray%20Sum%20Equals%20K.java) (2 solutions) | Medium | java | 2026-11-07 |
 | 645 | [Set Mismatch](Easy/Set%20Mismatch/solution-3/645.%20Set%20Mismatch.java) (3 solutions) | Easy | java | 2026-10-29 |
+| 662 | [Maximum Width of Binary Tree](Medium/Maximum%20Width%20of%20Binary%20Tree/662.%20Maximum%20Width%20of%20Binary%20Tree.java) | Medium | java | 2026-11-22 |
 | 680 | [Valid Palindrome II](Easy/Valid%20Palindrome%20II/680.%20Valid%20Palindrome%20II.java) | Easy | java | 2026-06-30 |
 | 704 | [Binary Search](Easy/Binary%20Search/704.%20Binary%20Search.java) | Easy | java | 2026-07-12 |
 | 875 | [Koko Eating Bananas](Medium/Koko%20Eating%20Bananas/875.%20Koko%20Eating%20Bananas.java) (2 solutions) | Medium | java | 2026-11-21 |
