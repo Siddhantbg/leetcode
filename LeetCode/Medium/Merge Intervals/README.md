@@ -16,7 +16,7 @@
 - **Language:** java
 - **Complexity:** O(n log n) time · O(n) space *
 - **Pattern:** Sorting
-- **LeetCode:** 8 ms · 48.9 MB
+- **LeetCode:** 8 ms · 48.6 MB
 - **File:** [`56. Merge Intervals.java`](solution-2/56.%20Merge%20Intervals.java)
 - **Details:** [README](solution-2/README.md)
 
@@ -30,4 +30,4 @@
 
 <sub>* Complexity auto-detected from the code; edit it in the extension popup if it looks off.</sub>
 
-_Last updated: 2026-11-21_
+_Last updated: 2026-11-22_
