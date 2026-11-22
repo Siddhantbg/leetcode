@@ -4,8 +4,8 @@
 
 ## Progress
 
-- **Total solved:** 78
-- **Easy:** 26 &nbsp;·&nbsp; **Medium:** 48 &nbsp;·&nbsp; **Hard:** 4
+- **Total solved:** 79
+- **Easy:** 26 &nbsp;·&nbsp; **Medium:** 49 &nbsp;·&nbsp; **Hard:** 4
 - **Current streak:** 4 day(s) &nbsp;·&nbsp; **Longest:** 6
 
 ## Solutions
@@ -67,6 +67,7 @@
 | 347 | [Top K Frequent Elements](Medium/Top%20K%20Frequent%20Elements/347.%20Top%20K%20Frequent%20Elements.java) | Medium | java | 2026-11-20 |
 | 394 | [Decode String](Medium/Decode%20String/394.%20Decode%20String.java) | Medium | java | 2026-06-29 |
 | 410 | [Split Array Largest Sum](Hard/Split%20Array%20Largest%20Sum/410.%20Split%20Array%20Largest%20Sum.java) | Hard | java | 2026-08-05 |
+| 475 | [Heaters](Medium/Heaters/475.%20Heaters.java) | Medium | java | 2026-11-22 |
 | 493 | [Reverse Pairs](Hard/Reverse%20Pairs/493.%20Reverse%20Pairs.java) | Hard | java | 2026-10-30 |
 | 540 | [Single Element in a Sorted Array](Medium/Single%20Element%20in%20a%20Sorted%20Array/540.%20Single%20Element%20in%20a%20Sorted%20Array.java) (2 solutions) | Medium | java | 2026-08-17 |
 | 543 | [Diameter of Binary Tree](Easy/Diameter%20of%20Binary%20Tree/543.%20Diameter%20of%20Binary%20Tree.java) | Easy | java | 2026-11-21 |
