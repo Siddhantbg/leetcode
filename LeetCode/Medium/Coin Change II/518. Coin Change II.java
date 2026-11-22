@@ -1,8 +1,9 @@
 // 518. Coin Change II [Medium]
 // https://leetcode.com/problems/coin-change-ii/
 // Language: java | Runtime: 33 ms | Memory: 57 MB
+// Time:  O(n*amount)
+// Space: O(n*amount)
 // Pattern: Memoization
-// Tags: Array, Dynamic Programming, Knapsack Problem, Complete Knapsack
 // Synced: 2026-11-22
 
 class Solution {
