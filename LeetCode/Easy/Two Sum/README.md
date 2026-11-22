@@ -24,7 +24,7 @@
 - **Language:** java
 - **Complexity:** O(n) time · O(n) space *
 - **Pattern:** Hash map
-- **LeetCode:** 2 ms · 46.5 MB
+- **LeetCode:** 2 ms · 46.7 MB
 - **File:** [`1. Two Sum.java`](solution-2/1.%20Two%20Sum.java)
 - **Details:** [README](solution-2/README.md)
 
@@ -39,4 +39,4 @@
 
 <sub>* Complexity auto-detected from the code; edit it in the extension popup if it looks off.</sub>
 
-_Last updated: 2026-11-20_
+_Last updated: 2026-11-22_
