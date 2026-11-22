@@ -6,7 +6,7 @@
 
 - **Total solved:** 84
 - **Easy:** 26 &nbsp;·&nbsp; **Medium:** 54 &nbsp;·&nbsp; **Hard:** 4
-- **Current streak:** 4 day(s) &nbsp;·&nbsp; **Longest:** 6
+- **Current streak:** 5 day(s) &nbsp;·&nbsp; **Longest:** 6
 
 ## Solutions
 
@@ -77,7 +77,7 @@
 | 543 | [Diameter of Binary Tree](Easy/Diameter%20of%20Binary%20Tree/543.%20Diameter%20of%20Binary%20Tree.java) | Easy | java | 2026-11-21 |
 | 560 | [Subarray Sum Equals K](Medium/Subarray%20Sum%20Equals%20K/560.%20Subarray%20Sum%20Equals%20K.java) (2 solutions) | Medium | java | 2026-11-07 |
 | 645 | [Set Mismatch](Easy/Set%20Mismatch/solution-3/645.%20Set%20Mismatch.java) (3 solutions) | Easy | java | 2026-10-29 |
-| 662 | [Maximum Width of Binary Tree](Medium/Maximum%20Width%20of%20Binary%20Tree/662.%20Maximum%20Width%20of%20Binary%20Tree.java) | Medium | java | 2026-11-22 |
+| 662 | [Maximum Width of Binary Tree](Medium/Maximum%20Width%20of%20Binary%20Tree/662.%20Maximum%20Width%20of%20Binary%20Tree.java) (2 solutions) | Medium | java | 2026-11-23 |
 | 680 | [Valid Palindrome II](Easy/Valid%20Palindrome%20II/680.%20Valid%20Palindrome%20II.java) | Easy | java | 2026-06-30 |
 | 704 | [Binary Search](Easy/Binary%20Search/704.%20Binary%20Search.java) | Easy | java | 2026-07-12 |
 | 735 | [Asteroid Collision](Medium/Asteroid%20Collision/735.%20Asteroid%20Collision.java) | Medium | java | 2026-11-22 |
@@ -92,4 +92,4 @@
 | 1552 | [Magnetic Force Between Two Balls](Medium/Magnetic%20Force%20Between%20Two%20Balls/1552.%20Magnetic%20Force%20Between%20Two%20Balls.java) | Medium | java | 2026-08-04 |
 | 2149 | [Rearrange Array Elements by Sign](Medium/Rearrange%20Array%20Elements%20by%20Sign/2149.%20Rearrange%20Array%20Elements%20by%20Sign.java) (4 solutions) | Medium | java | 2026-11-02 |
 
-_Last updated: 2026-11-22_
+_Last updated: 2026-11-23_
