@@ -4,8 +4,8 @@
 
 ## Progress
 
-- **Total solved:** 80
-- **Easy:** 26 &nbsp;·&nbsp; **Medium:** 50 &nbsp;·&nbsp; **Hard:** 4
+- **Total solved:** 81
+- **Easy:** 26 &nbsp;·&nbsp; **Medium:** 51 &nbsp;·&nbsp; **Hard:** 4
 - **Current streak:** 4 day(s) &nbsp;·&nbsp; **Longest:** 6
 
 ## Solutions
@@ -19,6 +19,7 @@
 | 6 | [Zigzag Conversion](Medium/Zigzag%20Conversion/6.%20Zigzag%20Conversion.java) | Medium | java | 2026-10-07 |
 | 8 | [String to Integer (atoi)](Medium/String%20to%20Integer%20(atoi)/8.%20String%20to%20Integer%20(atoi).java) | Medium | java | 2026-06-29 |
 | 9 | [Palindrome Number](Easy/Palindrome%20Number/primary/9.%20Palindrome%20Number.java) (2 solutions) | Easy | java | 2026-08-20 |
+| 11 | [Container With Most Water](Medium/Container%20With%20Most%20Water/11.%20Container%20With%20Most%20Water.java) | Medium | java | 2026-11-22 |
 | 15 | [3Sum](Medium/3Sum/15.%203Sum.java) (4 solutions) | Medium | java | 2026-11-19 |
 | 18 | [4Sum](Medium/4Sum/optimal/18.%204Sum.java) (4 solutions) | Medium | java | 2026-10-31 |
 | 19 | [Remove Nth Node From End of List](Medium/Remove%20Nth%20Node%20From%20End%20of%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.java) | Medium | java | 2026-07-08 |
