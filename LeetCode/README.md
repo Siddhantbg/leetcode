@@ -72,7 +72,7 @@
 | 410 | [Split Array Largest Sum](Hard/Split%20Array%20Largest%20Sum/410.%20Split%20Array%20Largest%20Sum.java) | Hard | java | 2026-08-05 |
 | 475 | [Heaters](Medium/Heaters/475.%20Heaters.java) | Medium | java | 2026-11-22 |
 | 493 | [Reverse Pairs](Hard/Reverse%20Pairs/493.%20Reverse%20Pairs.java) | Hard | java | 2026-10-30 |
-| 509 | [Fibonacci Number](Easy/Fibonacci%20Number/509.%20Fibonacci%20Number.java) | Easy | java | 2026-11-24 |
+| 509 | [Fibonacci Number](Easy/Fibonacci%20Number/509.%20Fibonacci%20Number.java) (2 solutions) | Easy | java | 2026-11-24 |
 | 518 | [Coin Change II](Medium/Coin%20Change%20II/518.%20Coin%20Change%20II.java) | Medium | java | 2026-11-22 |
 | 540 | [Single Element in a Sorted Array](Medium/Single%20Element%20in%20a%20Sorted%20Array/540.%20Single%20Element%20in%20a%20Sorted%20Array.java) (2 solutions) | Medium | java | 2026-08-17 |
 | 543 | [Diameter of Binary Tree](Easy/Diameter%20of%20Binary%20Tree/543.%20Diameter%20of%20Binary%20Tree.java) | Easy | java | 2026-11-21 |
