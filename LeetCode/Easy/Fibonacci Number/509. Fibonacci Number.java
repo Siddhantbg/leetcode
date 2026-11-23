@@ -1,8 +1,9 @@
 // 509. Fibonacci Number [Easy]
 // https://leetcode.com/problems/fibonacci-number/
 // Language: java | Runtime: 0 ms | Memory: 41.6 MB
+// Time:  O(n)
+// Space: O(n)
 // Pattern: Memoization
-// Tags: Math, Dynamic Programming, Recursion, Memoization
 // Synced: 2026-11-24
 
 class Solution {
