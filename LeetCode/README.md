@@ -4,9 +4,9 @@
 
 ## Progress
 
-- **Total solved:** 84
-- **Easy:** 26 &nbsp;·&nbsp; **Medium:** 54 &nbsp;·&nbsp; **Hard:** 4
-- **Current streak:** 5 day(s) &nbsp;·&nbsp; **Longest:** 6
+- **Total solved:** 85
+- **Easy:** 27 &nbsp;·&nbsp; **Medium:** 54 &nbsp;·&nbsp; **Hard:** 4
+- **Current streak:** 6 day(s) &nbsp;·&nbsp; **Longest:** 6
 
 ## Solutions
 
@@ -72,6 +72,7 @@
 | 410 | [Split Array Largest Sum](Hard/Split%20Array%20Largest%20Sum/410.%20Split%20Array%20Largest%20Sum.java) | Hard | java | 2026-08-05 |
 | 475 | [Heaters](Medium/Heaters/475.%20Heaters.java) | Medium | java | 2026-11-22 |
 | 493 | [Reverse Pairs](Hard/Reverse%20Pairs/493.%20Reverse%20Pairs.java) | Hard | java | 2026-10-30 |
+| 509 | [Fibonacci Number](Easy/Fibonacci%20Number/509.%20Fibonacci%20Number.java) | Easy | java | 2026-11-24 |
 | 518 | [Coin Change II](Medium/Coin%20Change%20II/518.%20Coin%20Change%20II.java) | Medium | java | 2026-11-22 |
 | 540 | [Single Element in a Sorted Array](Medium/Single%20Element%20in%20a%20Sorted%20Array/540.%20Single%20Element%20in%20a%20Sorted%20Array.java) (2 solutions) | Medium | java | 2026-08-17 |
 | 543 | [Diameter of Binary Tree](Easy/Diameter%20of%20Binary%20Tree/543.%20Diameter%20of%20Binary%20Tree.java) | Easy | java | 2026-11-21 |
@@ -92,4 +93,4 @@
 | 1552 | [Magnetic Force Between Two Balls](Medium/Magnetic%20Force%20Between%20Two%20Balls/1552.%20Magnetic%20Force%20Between%20Two%20Balls.java) | Medium | java | 2026-08-04 |
 | 2149 | [Rearrange Array Elements by Sign](Medium/Rearrange%20Array%20Elements%20by%20Sign/2149.%20Rearrange%20Array%20Elements%20by%20Sign.java) (4 solutions) | Medium | java | 2026-11-02 |
 
-_Last updated: 2026-11-23_
+_Last updated: 2026-11-24_
