@@ -1,10 +1,10 @@
 // 198. House Robber [Medium]
 // https://leetcode.com/problems/house-robber/
-// Language: java | Runtime: 0 ms | Memory: 42.5 MB
+// Language: java | Runtime: 0 ms | Memory: 42.2 MB
 // Time:  O(n) (auto-detected)
 // Space: O(n) (auto-detected)
 // Tags: Array, Dynamic Programming
-// Synced: 2026-11-20
+// Synced: 2026-11-24
 
 class Solution {
     public int rob(int[] nums) {
@@ -16,9 +16,9 @@ class Solution {
         }
 
         int[]t=new int[n+1];
-
+//no house
         t[0]=0;
-
+//1st house
         t[1]=nums[0];
 
         for(int i=2;i<=n;i++){
