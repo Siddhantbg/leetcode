@@ -71,7 +71,7 @@
 | 347 | [Top K Frequent Elements](Medium/Top%20K%20Frequent%20Elements/347.%20Top%20K%20Frequent%20Elements.java) | Medium | java | 2026-11-22 |
 | 394 | [Decode String](Medium/Decode%20String/394.%20Decode%20String.java) | Medium | java | 2026-06-29 |
 | 410 | [Split Array Largest Sum](Hard/Split%20Array%20Largest%20Sum/410.%20Split%20Array%20Largest%20Sum.java) | Hard | java | 2026-08-05 |
-| 416 | [Partition Equal Subset Sum](Medium/Partition%20Equal%20Subset%20Sum/416.%20Partition%20Equal%20Subset%20Sum.java) | Medium | java | 2026-11-25 |
+| 416 | [Partition Equal Subset Sum](Medium/Partition%20Equal%20Subset%20Sum/416.%20Partition%20Equal%20Subset%20Sum.java) (2 solutions) | Medium | java | 2026-11-25 |
 | 475 | [Heaters](Medium/Heaters/475.%20Heaters.java) | Medium | java | 2026-11-22 |
 | 493 | [Reverse Pairs](Hard/Reverse%20Pairs/493.%20Reverse%20Pairs.java) | Hard | java | 2026-10-30 |
 | 509 | [Fibonacci Number](Easy/Fibonacci%20Number/509.%20Fibonacci%20Number.java) (2 solutions) | Easy | java | 2026-11-24 |
