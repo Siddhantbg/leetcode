@@ -5,8 +5,8 @@
 - **Link:** [partition-equal-subset-sum](https://leetcode.com/problems/partition-equal-subset-sum/)
 - **Language:** java
 - **File:** [`416. Partition Equal Subset Sum.java`](416.%20Partition%20Equal%20Subset%20Sum.java)
-- **Time complexity:** O(m·n) _(auto-detected)_
-- **Space complexity:** —
+- **Time complexity:** O(n*s)
+- **Space complexity:** O(n*s)
 - **Pattern:** Nested loops
 - **Runtime:** 47 ms
 - **Memory:** 46.6 MB
