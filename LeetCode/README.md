@@ -4,9 +4,9 @@
 
 ## Progress
 
-- **Total solved:** 86
-- **Easy:** 27 &nbsp;·&nbsp; **Medium:** 55 &nbsp;·&nbsp; **Hard:** 4
-- **Current streak:** 6 day(s) &nbsp;·&nbsp; **Longest:** 6
+- **Total solved:** 87
+- **Easy:** 27 &nbsp;·&nbsp; **Medium:** 56 &nbsp;·&nbsp; **Hard:** 4
+- **Current streak:** 7 day(s) &nbsp;·&nbsp; **Longest:** 7
 
 ## Solutions
 
@@ -71,6 +71,7 @@
 | 347 | [Top K Frequent Elements](Medium/Top%20K%20Frequent%20Elements/347.%20Top%20K%20Frequent%20Elements.java) | Medium | java | 2026-11-22 |
 | 394 | [Decode String](Medium/Decode%20String/394.%20Decode%20String.java) | Medium | java | 2026-06-29 |
 | 410 | [Split Array Largest Sum](Hard/Split%20Array%20Largest%20Sum/410.%20Split%20Array%20Largest%20Sum.java) | Hard | java | 2026-08-05 |
+| 416 | [Partition Equal Subset Sum](Medium/Partition%20Equal%20Subset%20Sum/416.%20Partition%20Equal%20Subset%20Sum.java) | Medium | java | 2026-11-25 |
 | 475 | [Heaters](Medium/Heaters/475.%20Heaters.java) | Medium | java | 2026-11-22 |
 | 493 | [Reverse Pairs](Hard/Reverse%20Pairs/493.%20Reverse%20Pairs.java) | Hard | java | 2026-10-30 |
 | 509 | [Fibonacci Number](Easy/Fibonacci%20Number/509.%20Fibonacci%20Number.java) (2 solutions) | Easy | java | 2026-11-24 |
@@ -94,4 +95,4 @@
 | 1552 | [Magnetic Force Between Two Balls](Medium/Magnetic%20Force%20Between%20Two%20Balls/1552.%20Magnetic%20Force%20Between%20Two%20Balls.java) | Medium | java | 2026-08-04 |
 | 2149 | [Rearrange Array Elements by Sign](Medium/Rearrange%20Array%20Elements%20by%20Sign/2149.%20Rearrange%20Array%20Elements%20by%20Sign.java) (4 solutions) | Medium | java | 2026-11-02 |
 
-_Last updated: 2026-11-24_
+_Last updated: 2026-11-25_
