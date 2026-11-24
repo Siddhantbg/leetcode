@@ -1,9 +1,9 @@
 // 416. Partition Equal Subset Sum [Medium]
 // https://leetcode.com/problems/partition-equal-subset-sum/
 // Language: java | Runtime: 47 ms | Memory: 46.6 MB
-// Time:  O(m·n) (auto-detected)
+// Time:  O(n*s)
+// Space: O(n*s)
 // Pattern: Nested loops
-// Tags: Array, Dynamic Programming, Knapsack Problem, 0-1 Knapsack
 // Synced: 2026-11-25
 
 class Solution {
