@@ -4,8 +4,8 @@
 
 ## Progress
 
-- **Total solved:** 85
-- **Easy:** 27 &nbsp;·&nbsp; **Medium:** 54 &nbsp;·&nbsp; **Hard:** 4
+- **Total solved:** 86
+- **Easy:** 27 &nbsp;·&nbsp; **Medium:** 55 &nbsp;·&nbsp; **Hard:** 4
 - **Current streak:** 6 day(s) &nbsp;·&nbsp; **Longest:** 6
 
 ## Solutions
@@ -62,6 +62,7 @@
 | 205 | [Isomorphic Strings](Easy/Isomorphic%20Strings/205.%20Isomorphic%20Strings.java) | Easy | java | 2026-06-30 |
 | 206 | [Reverse Linked List](Easy/Reverse%20Linked%20List/206.%20Reverse%20Linked%20List.java) | Easy | java | 2026-07-07 |
 | 210 | [Course Schedule II](Medium/Course%20Schedule%20II/210.%20Course%20Schedule%20II.java) | Medium | java | 2026-11-22 |
+| 213 | [House Robber II](Medium/House%20Robber%20II/213.%20House%20Robber%20II.java) | Medium | java | 2026-11-24 |
 | 229 | [Majority Element II](Medium/Majority%20Element%20II/229.%20Majority%20Element%20II.java) (3 solutions) | Medium | java | 2026-11-03 |
 | 234 | [Palindrome Linked List](Easy/Palindrome%20Linked%20List/234.%20Palindrome%20Linked%20List.java) | Easy | java | 2026-07-07 |
 | 236 | [Lowest Common Ancestor of a Binary Tree](Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.java) | Medium | java | 2026-11-21 |
