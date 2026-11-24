@@ -7,15 +7,6 @@
 
 ## Solutions
 
-### Iterative
-
-- **Language:** java
-- **Complexity:** O(m·n) time · — space *
-- **Pattern:** Nested loops
-- **LeetCode:** 47 ms · 46.6 MB
-- **File:** [`416. Partition Equal Subset Sum.java`](solution-2/416.%20Partition%20Equal%20Subset%20Sum.java)
-- **Details:** [README](solution-2/README.md)
-
 ### Recursive
 
 - **Language:** java
@@ -26,6 +17,13 @@
 
 in target for sc target=sum/2;
 
-<sub>* Complexity auto-detected from the code; edit it in the extension popup if it looks off.</sub>
+### Iterative
+
+- **Language:** java
+- **Complexity:** O(n*s) time · O(n*s) space
+- **Pattern:** Nested loops
+- **LeetCode:** 47 ms · 46.6 MB
+- **File:** [`416. Partition Equal Subset Sum.java`](solution-2/416.%20Partition%20Equal%20Subset%20Sum.java)
+- **Details:** [README](solution-2/README.md)
 
 _Last updated: 2026-11-25_
