@@ -8,10 +8,10 @@
 - **Time complexity:** O(n) _(auto-detected)_
 - **Space complexity:** O(n) _(auto-detected)_
 - **Runtime:** 0 ms
-- **Memory:** 42.5 MB
+- **Memory:** 42.2 MB
 
 ## Notes
 
 —
 
-_Last updated: 2026-11-20_
+_Last updated: 2026-11-24_
