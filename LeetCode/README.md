@@ -4,9 +4,9 @@
 
 ## Progress
 
-- **Total solved:** 91
-- **Easy:** 27 &nbsp;·&nbsp; **Medium:** 60 &nbsp;·&nbsp; **Hard:** 4
-- **Current streak:** 1 day(s) &nbsp;·&nbsp; **Longest:** 8
+- **Total solved:** 92
+- **Easy:** 27 &nbsp;·&nbsp; **Medium:** 61 &nbsp;·&nbsp; **Hard:** 4
+- **Current streak:** 2 day(s) &nbsp;·&nbsp; **Longest:** 8
 
 ## Solutions
 
@@ -36,6 +36,7 @@
 | 54 | [Spiral Matrix](Medium/Spiral%20Matrix/54.%20Spiral%20Matrix.java) (3 solutions) | Medium | java | 2026-11-09 |
 | 56 | [Merge Intervals](Medium/Merge%20Intervals/solution-2/56.%20Merge%20Intervals.java) (2 solutions) | Medium | java | 2026-11-22 |
 | 69 | [Sqrt(x)](Easy/Sqrt(x)/69.%20Sqrt(x).java) | Easy | java | 2026-07-25 |
+| 72 | [Edit Distance](Medium/Edit%20Distance/72.%20Edit%20Distance.java) | Medium | java | 2026-11-29 |
 | 74 | [Search a 2D Matrix](Medium/Search%20a%202D%20Matrix/74.%20Search%20a%202D%20Matrix.java) | Medium | java | 2026-09-04 |
 | 75 | [Sort Colors](Medium/Sort%20Colors/75.%20Sort%20Colors.java) (2 solutions) | Medium | java | 2026-10-31 |
 | 78 | [Subsets](Medium/Subsets/78.%20Subsets.java) | Medium | java | 2026-11-22 |
@@ -99,4 +100,4 @@
 | 1552 | [Magnetic Force Between Two Balls](Medium/Magnetic%20Force%20Between%20Two%20Balls/1552.%20Magnetic%20Force%20Between%20Two%20Balls.java) | Medium | java | 2026-08-04 |
 | 2149 | [Rearrange Array Elements by Sign](Medium/Rearrange%20Array%20Elements%20by%20Sign/2149.%20Rearrange%20Array%20Elements%20by%20Sign.java) (4 solutions) | Medium | java | 2026-11-02 |
 
-_Last updated: 2026-11-28_
+_Last updated: 2026-11-29_
