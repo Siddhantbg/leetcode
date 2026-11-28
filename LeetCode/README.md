@@ -4,9 +4,9 @@
 
 ## Progress
 
-- **Total solved:** 87
-- **Easy:** 27 &nbsp;·&nbsp; **Medium:** 56 &nbsp;·&nbsp; **Hard:** 4
-- **Current streak:** 7 day(s) &nbsp;·&nbsp; **Longest:** 7
+- **Total solved:** 88
+- **Easy:** 27 &nbsp;·&nbsp; **Medium:** 57 &nbsp;·&nbsp; **Hard:** 4
+- **Current streak:** 1 day(s) &nbsp;·&nbsp; **Longest:** 8
 
 ## Solutions
 
@@ -67,6 +67,7 @@
 | 234 | [Palindrome Linked List](Easy/Palindrome%20Linked%20List/234.%20Palindrome%20Linked%20List.java) | Easy | java | 2026-07-07 |
 | 236 | [Lowest Common Ancestor of a Binary Tree](Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.java) | Medium | java | 2026-11-21 |
 | 240 | [Search a 2D Matrix II](Medium/Search%20a%202D%20Matrix%20II/240.%20Search%20a%202D%20Matrix%20II.java) | Medium | java | 2026-09-05 |
+| 300 | [Longest Increasing Subsequence](Medium/Longest%20Increasing%20Subsequence/300.%20Longest%20Increasing%20Subsequence.java) | Medium | java | 2026-11-28 |
 | 322 | [Coin Change](Medium/Coin%20Change/322.%20Coin%20Change.java) (2 solutions) | Medium | java | 2026-11-22 |
 | 347 | [Top K Frequent Elements](Medium/Top%20K%20Frequent%20Elements/347.%20Top%20K%20Frequent%20Elements.java) | Medium | java | 2026-11-22 |
 | 394 | [Decode String](Medium/Decode%20String/394.%20Decode%20String.java) | Medium | java | 2026-06-29 |
@@ -95,4 +96,4 @@
 | 1552 | [Magnetic Force Between Two Balls](Medium/Magnetic%20Force%20Between%20Two%20Balls/1552.%20Magnetic%20Force%20Between%20Two%20Balls.java) | Medium | java | 2026-08-04 |
 | 2149 | [Rearrange Array Elements by Sign](Medium/Rearrange%20Array%20Elements%20by%20Sign/2149.%20Rearrange%20Array%20Elements%20by%20Sign.java) (4 solutions) | Medium | java | 2026-11-02 |
 
-_Last updated: 2026-11-25_
+_Last updated: 2026-11-28_
