@@ -1,10 +1,9 @@
 // 646. Maximum Length of Pair Chain [Medium]
 // https://leetcode.com/problems/maximum-length-of-pair-chain/
 // Language: java | Runtime: 32 ms | Memory: 46.5 MB
-// Time:  O(m·n) (auto-detected)
+// Time:  O(n^2)
 // Space: O(n) (auto-detected)
 // Pattern: Dynamic programming + Sorting
-// Tags: Array, Dynamic Programming, Greedy, Sorting, Longest Increasing Subsequence
 // Synced: 2026-11-28
 
 
