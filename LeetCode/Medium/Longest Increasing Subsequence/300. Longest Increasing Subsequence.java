@@ -1,9 +1,12 @@
 // 300. Longest Increasing Subsequence [Medium]
 // https://leetcode.com/problems/longest-increasing-subsequence/
 // Language: java | Runtime: 482 ms | Memory: 236.8 MB
+// Time:  O(n^2)
+// Space: O(n^2)+O(n)
 // Pattern: Memoization
-// Tags: Array, Binary Search, Dynamic Programming, Longest Increasing Subsequence
 // Synced: 2026-11-28
+//
+// \(O(n^2)\) for DP + \(O(n)\) recursion stack
 
 class Solution {
     //p=prev index;
