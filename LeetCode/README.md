@@ -4,8 +4,8 @@
 
 ## Progress
 
-- **Total solved:** 88
-- **Easy:** 27 &nbsp;·&nbsp; **Medium:** 57 &nbsp;·&nbsp; **Hard:** 4
+- **Total solved:** 89
+- **Easy:** 27 &nbsp;·&nbsp; **Medium:** 58 &nbsp;·&nbsp; **Hard:** 4
 - **Current streak:** 1 day(s) &nbsp;·&nbsp; **Longest:** 8
 
 ## Solutions
@@ -81,6 +81,7 @@
 | 543 | [Diameter of Binary Tree](Easy/Diameter%20of%20Binary%20Tree/543.%20Diameter%20of%20Binary%20Tree.java) | Easy | java | 2026-11-21 |
 | 560 | [Subarray Sum Equals K](Medium/Subarray%20Sum%20Equals%20K/560.%20Subarray%20Sum%20Equals%20K.java) (2 solutions) | Medium | java | 2026-11-07 |
 | 645 | [Set Mismatch](Easy/Set%20Mismatch/solution-3/645.%20Set%20Mismatch.java) (3 solutions) | Easy | java | 2026-10-29 |
+| 646 | [Maximum Length of Pair Chain](Medium/Maximum%20Length%20of%20Pair%20Chain/646.%20Maximum%20Length%20of%20Pair%20Chain.java) | Medium | java | 2026-11-28 |
 | 662 | [Maximum Width of Binary Tree](Medium/Maximum%20Width%20of%20Binary%20Tree/662.%20Maximum%20Width%20of%20Binary%20Tree.java) (2 solutions) | Medium | java | 2026-11-23 |
 | 680 | [Valid Palindrome II](Easy/Valid%20Palindrome%20II/680.%20Valid%20Palindrome%20II.java) | Easy | java | 2026-06-30 |
 | 704 | [Binary Search](Easy/Binary%20Search/704.%20Binary%20Search.java) | Easy | java | 2026-07-12 |
