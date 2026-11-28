@@ -1,10 +1,9 @@
 // 300. Longest Increasing Subsequence [Medium]
 // https://leetcode.com/problems/longest-increasing-subsequence/
 // Language: java | Runtime: 47 ms | Memory: 45.5 MB
-// Time:  O(m·n) (auto-detected)
+// Time:  O(n^2)
 // Space: O(n) (auto-detected)
 // Pattern: Nested loops
-// Tags: Array, Binary Search, Dynamic Programming, Longest Increasing Subsequence
 // Synced: 2026-11-28
 
 class Solution {
