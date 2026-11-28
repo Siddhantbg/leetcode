@@ -4,8 +4,8 @@
 - **Link:** [edit-distance](https://leetcode.com/problems/edit-distance/)
 - **Language:** java
 - **File:** [`72. Edit Distance.java`](72.%20Edit%20Distance.java)
-- **Time complexity:** —
-- **Space complexity:** —
+- **Time complexity:** O(m*n)
+- **Space complexity:** O(m*n)
 - **Pattern:** Memoization
 - **Runtime:** 4 ms
 - **Memory:** 46.7 MB
