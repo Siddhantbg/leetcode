@@ -4,8 +4,8 @@
 
 ## Progress
 
-- **Total solved:** 89
-- **Easy:** 27 &nbsp;·&nbsp; **Medium:** 58 &nbsp;·&nbsp; **Hard:** 4
+- **Total solved:** 90
+- **Easy:** 27 &nbsp;·&nbsp; **Medium:** 59 &nbsp;·&nbsp; **Hard:** 4
 - **Current streak:** 1 day(s) &nbsp;·&nbsp; **Longest:** 8
 
 ## Solutions
@@ -81,7 +81,7 @@
 | 543 | [Diameter of Binary Tree](Easy/Diameter%20of%20Binary%20Tree/543.%20Diameter%20of%20Binary%20Tree.java) | Easy | java | 2026-11-21 |
 | 560 | [Subarray Sum Equals K](Medium/Subarray%20Sum%20Equals%20K/560.%20Subarray%20Sum%20Equals%20K.java) (2 solutions) | Medium | java | 2026-11-07 |
 | 645 | [Set Mismatch](Easy/Set%20Mismatch/solution-3/645.%20Set%20Mismatch.java) (3 solutions) | Easy | java | 2026-10-29 |
-| 646 | [Maximum Length of Pair Chain](Medium/Maximum%20Length%20of%20Pair%20Chain/646.%20Maximum%20Length%20of%20Pair%20Chain.java) | Medium | java | 2026-11-28 |
+| 646 | [Maximum Length of Pair Chain](Medium/Maximum%20Length%20of%20Pair%20Chain/solution-2/646.%20Maximum%20Length%20of%20Pair%20Chain.java) (2 solutions) | Medium | java | 2026-11-28 |
 | 662 | [Maximum Width of Binary Tree](Medium/Maximum%20Width%20of%20Binary%20Tree/662.%20Maximum%20Width%20of%20Binary%20Tree.java) (2 solutions) | Medium | java | 2026-11-23 |
 | 680 | [Valid Palindrome II](Easy/Valid%20Palindrome%20II/680.%20Valid%20Palindrome%20II.java) | Easy | java | 2026-06-30 |
 | 704 | [Binary Search](Easy/Binary%20Search/704.%20Binary%20Search.java) | Easy | java | 2026-07-12 |
@@ -91,6 +91,7 @@
 | 994 | [Rotting Oranges](Medium/Rotting%20Oranges/994.%20Rotting%20Oranges.java) | Medium | java | 2026-11-22 |
 | 1011 | [Capacity To Ship Packages Within D Days](Medium/Capacity%20To%20Ship%20Packages%20Within%20D%20Days/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.java) | Medium | java | 2026-11-21 |
 | 1047 | [Remove All Adjacent Duplicates In String](Easy/Remove%20All%20Adjacent%20Duplicates%20In%20String/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.java) | Easy | java | 2026-09-11 |
+| 1143 | [Longest Common Subsequence](Medium/Longest%20Common%20Subsequence/1143.%20Longest%20Common%20Subsequence.java) | Medium | java | 2026-11-28 |
 | 1283 | [Find the Smallest Divisor Given a Threshold](Medium/Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold/1283.%20Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold.java) | Medium | java | 2026-07-25 |
 | 1299 | [Replace Elements with Greatest Element on Right Side](Easy/Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.java) (4 solutions) | Easy | java | 2026-11-05 |
 | 1482 | [Minimum Number of Days to Make m Bouquets](Medium/Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets/1482.%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets.java) | Medium | java | 2026-08-03 |
