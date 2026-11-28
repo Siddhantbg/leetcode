@@ -1,8 +1,9 @@
 // 72. Edit Distance [Medium]
 // https://leetcode.com/problems/edit-distance/
 // Language: java | Runtime: 4 ms | Memory: 46.7 MB
+// Time:  O(m*n)
+// Space: O(m*n)
 // Pattern: Memoization
-// Tags: String, Dynamic Programming
 // Synced: 2026-11-29
 
 class Solution {
