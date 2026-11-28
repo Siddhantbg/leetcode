@@ -4,8 +4,8 @@
 
 ## Progress
 
-- **Total solved:** 90
-- **Easy:** 27 &nbsp;·&nbsp; **Medium:** 59 &nbsp;·&nbsp; **Hard:** 4
+- **Total solved:** 91
+- **Easy:** 27 &nbsp;·&nbsp; **Medium:** 60 &nbsp;·&nbsp; **Hard:** 4
 - **Current streak:** 1 day(s) &nbsp;·&nbsp; **Longest:** 8
 
 ## Solutions
@@ -46,6 +46,7 @@
 | 125 | [Valid Palindrome](Easy/Valid%20Palindrome/125.%20Valid%20Palindrome.java) | Easy | java | 2026-09-24 |
 | 128 | [Longest Consecutive Sequence](Medium/Longest%20Consecutive%20Sequence/128.%20Longest%20Consecutive%20Sequence.java) (3 solutions) | Medium | java | 2026-11-10 |
 | 138 | [Copy List with Random Pointer](Medium/Copy%20List%20with%20Random%20Pointer/138.%20Copy%20List%20with%20Random%20Pointer.java) | Medium | java | 2026-07-09 |
+| 139 | [Word Break](Medium/Word%20Break/139.%20Word%20Break.java) | Medium | java | 2026-11-28 |
 | 141 | [Linked List Cycle](Easy/Linked%20List%20Cycle/141.%20Linked%20List%20Cycle.java) | Easy | java | 2026-07-07 |
 | 143 | [Reorder List](Medium/Reorder%20List/143.%20Reorder%20List.java) | Medium | java | 2026-07-08 |
 | 146 | [LRU Cache](Medium/LRU%20Cache/146.%20LRU%20Cache.java) | Medium | java | 2026-11-21 |
