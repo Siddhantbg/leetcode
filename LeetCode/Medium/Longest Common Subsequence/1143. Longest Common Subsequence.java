@@ -1,9 +1,9 @@
 // 1143. Longest Common Subsequence [Medium]
 // https://leetcode.com/problems/longest-common-subsequence/
 // Language: java | Runtime: 25 ms | Memory: 56.4 MB
-// Time:  O(m·n) (auto-detected)
+// Time:  O(m*n)
+// Space: O(m*n)
 // Pattern: Dynamic programming
-// Tags: String, Dynamic Programming, Longest Common Subsequence
 // Synced: 2026-11-28
 
 class Solution {
