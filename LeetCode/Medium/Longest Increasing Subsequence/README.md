@@ -7,14 +7,14 @@
 
 ## ⭐ Best
 
-**Iterative** (java) — O(m·n) time · O(n) space
+**Iterative** (java) — O(n^2) time · O(n) space
 
 ## Solutions
 
 ### ⭐ Iterative
 
 - **Language:** java
-- **Complexity:** O(m·n) time · O(n) space *
+- **Complexity:** O(n^2) time · O(n) space *
 - **Pattern:** Nested loops
 - **LeetCode:** 47 ms · 45.5 MB
 - **File:** [`300. Longest Increasing Subsequence.java`](solution-2/300.%20Longest%20Increasing%20Subsequence.java)
